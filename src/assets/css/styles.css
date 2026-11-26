@@ -825,6 +825,7 @@ a.doc__link:hover .doc__title { color: var(--blue-500); }
 .footer-search button .icon { width: 1.4rem; height: 1.4rem; }
 .site-footer__bottom { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .75rem 1.5rem; padding-block: 1.6rem; border-top: 1px solid rgba(255, 255, 255, .1); font-size: .8rem; font-weight: 600; color: #fff; }
 .site-footer__bottom p { margin: 0; }
+.site-footer__partner { font-weight: 500; color: rgba(255, 255, 255, .7); }
 .site-footer__bottom ul { display: flex; flex-wrap: wrap; gap: 1.5rem; }
 .site-footer__bottom a { color: #fff; }
 
