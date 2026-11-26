@@ -450,6 +450,22 @@ main:focus { outline: none; }
 .page-hero__shade { position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, rgba(3, 22, 40, .55) 0%, rgba(3, 22, 40, .6) 45%, rgba(3, 22, 40, .92) 100%); }
 .page-hero__title { font-size: clamp(2.6rem, 5.4vw, 4.4rem); color: #fff; line-height: 1.12; max-width: 18ch; margin: 0 auto .9rem; }
 .page-hero__lead { max-width: 40rem; margin: 0 auto; color: rgba(255, 255, 255, .82); font-size: 1.05rem; }
+.page-hero--split { text-align: left; }
+.page-hero--split .page-hero__inner { display: grid; gap: 2.5rem; align-items: center; }
+@media (min-width: 960px) { .page-hero--split .page-hero__inner { grid-template-columns: minmax(0, 1fr) minmax(0, 30rem); gap: 4rem; } }
+.page-hero--split .page-hero__title, .page-hero--split .page-hero__lead { margin-left: 0; }
+.page-hero--split .breadcrumbs { justify-content: flex-start; }
+.page-hero__aside { padding: 1.6rem 1.8rem 1.2rem; background: rgba(3, 22, 40, .42); border: 1px solid rgba(255, 255, 255, .16); border-radius: 4px; -webkit-backdrop-filter: blur(10px) saturate(1.2); backdrop-filter: blur(10px) saturate(1.2); box-shadow: 0 20px 50px rgba(0, 0, 0, .25); }
+.page-hero__aside-title { margin: 0 0 .9rem; font-size: .68rem; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; color: var(--gold-400); }
+.page-hero__aside .coastline__stop { padding-top: .42rem; padding-bottom: .42rem; grid-template-columns: 8.6rem 1fr; }
+.page-hero__aside .coastline__town { font-size: 1.12rem; }
+.page-hero__aside .coastline__club { color: #a9cdf2; }
+.page-hero__aside .coastline__club:hover { color: #fff; }
+.page-hero__aside .coastline__stop::before { top: .72rem; background: rgba(3, 22, 40, .8); }
+.page-hero__aside .coastline::before { top: .8rem; bottom: .8rem; }
+@media (max-width: 520px) { .page-hero__aside { padding: 1.3rem 1.1rem 1rem; } .page-hero__aside .coastline__stop { grid-template-columns: 1fr; } .page-hero__aside .coastline__coords { grid-row: auto; padding-top: 0; } }
+.coast-section__inner { max-width: 44rem; text-align: center; }
+.coast-section__inner .section-title { margin-left: auto; margin-right: auto; }
 .breadcrumbs { display: flex; flex-wrap: wrap; justify-content: center; gap: .6rem; margin-top: 2rem; font-size: .7rem; font-weight: 700; letter-spacing: .16em; text-transform: uppercase; color: rgba(255, 255, 255, .6); }
 .breadcrumbs a { color: rgba(255, 255, 255, .88); }
 .breadcrumbs a:hover { color: var(--gold-200); }
