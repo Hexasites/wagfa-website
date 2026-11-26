@@ -319,7 +319,7 @@ const components = {
 
   committee(ctx) {
     return `<ul class="team">${ctx.committee.members.map((m) => `<li class="team-card">
-  <div class="team-card__portrait" aria-hidden="true"><span>${esc(m.name.split(' ').map((p) => p[0]).join('').slice(0, 2))}</span>${icon('gf-marlin', 'team-card__mark')}</div>
+  <div class="team-card__portrait" aria-hidden="true"><span>${esc(m.name.split(' ').map((p) => p[0]).join('').slice(0, 2))}</span><img class="team-card__mark" src="${ctx.root}assets/img/wagfa-logo-white.svg" alt="" loading="lazy" decoding="async"></div>
   <h3 class="team-card__name">${esc(m.name)}</h3>
   <p class="team-card__role">${esc(m.role)}</p>
   ${m.email ? `<a class="team-card__email" href="mailto:${esc(m.email)}">${esc(m.email).replace('@', '<wbr>@')}</a>` : ''}
