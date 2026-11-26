@@ -245,7 +245,9 @@ const components = {
 </div>`;
   },
   clubCards(ctx) {
+    const initials = (n) => n.replace(/\(.*?\)|–.*$/g, '').split(/\s+/).filter((w) => /^[A-Z]/.test(w)).map((w) => w[0]).join('').slice(0, 5);
     return `<div class="club-grid" data-club-grid>${ctx.clubs.map((c) => `<article class="club-card" data-region="${esc(c.region)}" id="${slugify(c.name)}">
+  <div class="club-card__logo${c.logo ? '' : ' club-card__logo--none'}${c.logoFit === 'cover' ? ' club-card__logo--cover' : ''}"${c.logoBg ? ` style="background:${esc(c.logoBg)}"` : ''}>${c.logo ? `<img src="${ctx.root}assets/img/${esc(c.logo)}" alt="${esc(c.name)} logo" loading="lazy" decoding="async">` : `<span aria-hidden="true">${esc(initials(c.name))}</span>`}</div>
   <div class="club-card__head"><span class="club-card__region">${esc(c.region)}</span><span class="club-card__coords">${esc(c.coords)}</span></div>
   <h3 class="club-card__name">${esc(c.name)}</h3>
   <p class="club-card__town">${icon('map-pin', 'icon--sm')}${esc(c.town)}</p>

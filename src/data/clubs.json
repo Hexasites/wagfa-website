@@ -36,7 +36,9 @@
     "website": "https://www.gycwa.com.au/the-club",
     "email": "gdofccommittee@gmail.com",
     "postal": "216 Marine Terrace, Geraldton WA 6530",
-    "summary": "Offshore fishing out of Geraldton on the Mid West coast."
+    "summary": "Offshore fishing out of Geraldton on the Mid West coast.",
+    "logo": "clubs/geraldton-districts-offshore-fishing-club.jpg",
+    "logoBg": "#ffffff"
   },
   {
     "name": "Jurien Bay Anglers Inc",
@@ -44,7 +46,9 @@
     "region": "Mid West",
     "coords": "30°18′S 115°02′E",
     "website": "https://www.facebook.com/groups/927231861637266",
-    "summary": "Anglers on the Turquoise Coast, host waters of the Jurien Bay WA Open."
+    "summary": "Anglers on the Turquoise Coast, host waters of the Jurien Bay WA Open.",
+    "logo": "clubs/jurien-bay-anglers.png",
+    "logoBg": "#031628"
   },
   {
     "name": "Marmion Angling & Aquatic Club",
@@ -101,6 +105,9 @@
     "coords": "33°39′S 115°21′E",
     "website": "https://www.facebook.com/groups/18459068895",
     "postal": "PO Box 441, Busselton WA 6280",
-    "summary": "Game and sport fishing off Geographe Bay and Cape Naturaliste."
+    "summary": "Game and sport fishing off Geographe Bay and Cape Naturaliste.",
+    "logo": "clubs/naturaliste-game-sport-fishing-club.jpg",
+    "logoBg": "#06367a",
+    "logoFit": "cover"
   }
 ]
