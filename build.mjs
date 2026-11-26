@@ -282,7 +282,7 @@ const components = {
   eventCards(ctx, which = 'upcoming', limit = '6') {
     const list = (which === 'past' ? ctx.past : ctx.upcoming).slice(0, +limit);
     if (!list.length) return `<p class="empty-note">No ${which} events are listed at the moment. Check with your club for local events.</p>`;
-    const photos = ['coast-path', 'tuna-school', 'coast-lagoon', 'coast-sunset', 'tuna-school-2', 'coast-dunes'];
+    const photos = ['marlin-leap', 'tuna-school', 'marlin-hooked', 'mahimahi', 'tuna-school-2', 'marlin-boatside'];
     return `<div class="trip-grid" data-events="${which}">${list.map((e, i) => {
       const href = e.url || `${ctx.root}tournaments.html`;
       const badge = e.status === 'cancelled' ? '<span class="badge badge--cancelled">Cancelled</span>' : e.status === 'tbc' ? '<span class="badge badge--tbc">Dates TBC</span>' : '';
@@ -451,7 +451,7 @@ function build() {
     if (f === 'credits.html') {
       emitArticles();
       notePhotos('Footer (every page)', partial('footer'));
-      notePhotos('Social sharing image', 'assets/img/tuna-school-1920.jpg');
+      notePhotos('Social sharing image', 'assets/img/marlin-baitball-1920.jpg');
       data.photoUsage = photoUsage;
     }
     const { meta, body } = parsePage(fs.readFileSync(path.join(SRC, 'pages', f), 'utf8'), f);
