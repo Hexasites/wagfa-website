@@ -1,12 +1,15 @@
 [
   {
     "name": "Tag & Release Shark Initiative",
-    "club": "Perth Game Fishing Club",
-    "location": "Perth",
+    "club": "Perth Game Fishing Club & Mangles Bay Fishing Club",
+    "location": "Mangles Bay, Rockingham",
     "start": "2027-01-09",
     "end": "2027-01-10",
     "url": "https://www.pgfc.com.au/",
-    "summary": "An early-season tag-and-release competition that gets reels turning ahead of the marlin season."
+    "summary": "An early-season tag-and-release shark competition. Briefing night Thursday 7 January 2027 at Mangles Bay Fishing Club: Shark & Game Fishing Masterclass at 6pm, competition briefing at 7pm.",
+    "promo": "events/tag-release-shark-initiative.jpg",
+    "promoBg": "#0a4a60",
+    "promoAlt": "Tag & Release Shark Initiative poster, 9–10 January 2027"
   },
   {
     "name": "Compleat Angler Nedlands Marlin Cup",
@@ -26,7 +29,10 @@
     "status": "tbc",
     "dateText": "March 2027 (dates to be confirmed)",
     "url": "https://www.egfc.com.au",
-    "summary": "Recognised by Tourism Western Australia as the State's major fishing tournament. The 2023 event ran 17–25 March; confirm 2027 dates with the club."
+    "summary": "Recognised by Tourism Western Australia as the State's major fishing tournament. The 2023 event ran 17–25 March; confirm 2027 dates with the club.",
+    "promo": "events/gamex.png",
+    "promoBg": "#ffffff",
+    "promoAlt": "Gamex Exmouth WA logo"
   },
   {
     "name": "HMG Billfish Shoot Out",
@@ -35,7 +41,10 @@
     "end": "2027-03-29",
     "status": "tbc",
     "dateText": "Easter 2027 (dates to be announced)",
-    "url": "https://www.pgfc.com.au/"
+    "url": "https://www.pgfc.com.au/",
+    "promo": "events/hmg-billfish-shootout.jpg",
+    "promoBg": "#1a406a",
+    "promoAlt": "HMG Billfish Shootout logo"
   },
   {
     "name": "Jurien Bay WA Open",
@@ -44,7 +53,10 @@
     "start": "2027-04-15",
     "url": "https://www.pgfc.com.au/tournaments/wao/",
     "dateText": "From 15 April 2027",
-    "summary": "PGFC's open game fishing tournament on the Turquoise Coast. The 2026 event was cancelled because of fuel supply issues in the region."
+    "summary": "PGFC's open game fishing tournament on the Turquoise Coast. The 2026 event was cancelled because of fuel supply issues in the region.",
+    "promo": "events/wa-open-2027.jpg",
+    "promoBg": "#031a36",
+    "promoAlt": "WA Open 2027 Jurien Bay logo"
   },
   {
     "name": "Dampier Classic",
@@ -55,7 +67,10 @@
     "status": "tbc",
     "dateText": "August 2027 (dates to be confirmed)",
     "url": "https://www.kbgfc.com",
-    "summary": "The four-day Pilbara classic, sanctioned by WAGFA, which recently celebrated its 50th edition."
+    "summary": "The four-day Pilbara classic, sanctioned by WAGFA, which recently celebrated its 50th edition.",
+    "promo": "events/dampier-classic.jpg",
+    "promoBg": "#ffffff",
+    "promoAlt": "Dampier Classic logo, King Bay Game Fishing Club"
   },
   {
     "name": "Clash in the Canyon — Presentation Night",

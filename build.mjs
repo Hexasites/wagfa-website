@@ -285,7 +285,9 @@ const components = {
       const href = e.url || `${ctx.root}tournaments.html`;
       const badge = e.status === 'cancelled' ? '<span class="badge badge--cancelled">Cancelled</span>' : e.status === 'tbc' ? '<span class="badge badge--tbc">Dates TBC</span>' : '';
       return `<article class="trip-card" data-end="${e.end}">
-  <a class="trip-card__media" href="${esc(href)}"${linkAttrs(href)} tabindex="-1" aria-hidden="true">${img(ctx, e.image || photos[i % photos.length], '', { sizes: '(min-width: 1000px) 33vw, (min-width: 640px) 50vw, 100vw' })}</a>
+  ${e.promo
+    ? `<a class="trip-card__media trip-card__media--promo" href="${esc(href)}"${linkAttrs(href)} tabindex="-1"${e.promoBg ? ` style="background:${esc(e.promoBg)}"` : ''}><img src="${ctx.root}assets/img/${esc(e.promo)}" alt="${esc(e.promoAlt || e.name)}" loading="lazy" decoding="async"></a>`
+    : `<a class="trip-card__media" href="${esc(href)}"${linkAttrs(href)} tabindex="-1" aria-hidden="true">${img(ctx, e.image || photos[i % photos.length], '', { sizes: '(min-width: 1000px) 33vw, (min-width: 640px) 50vw, 100vw' })}</a>`}
   <div class="trip-card__body">
     <div class="trip-card__top"><span class="trip-card__club">${esc(e.club)}</span>${badge}</div>
     <h3 class="trip-card__title"><a href="${esc(href)}"${linkAttrs(href)}>${esc(e.name)}</a></h3>

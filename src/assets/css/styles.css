@@ -306,6 +306,9 @@ main:focus { outline: none; }
 .trip-card__media { display: block; overflow: hidden; aspect-ratio: 3 / 2; }
 .trip-card__media img { width: 100%; height: 100%; object-fit: cover; transition: transform .8s var(--ease); }
 .trip-card:hover .trip-card__media img { transform: scale(1.05); }
+.trip-card__media--promo { background: var(--ink-900); }
+.trip-card__media--promo img { object-fit: contain; }
+.trip-card:hover .trip-card__media--promo img { transform: scale(1.02); }
 .trip-card__body { display: flex; flex-direction: column; flex: 1; padding: 1.6rem 1.5rem 1.5rem; }
 .trip-card__top { display: flex; align-items: center; justify-content: space-between; gap: .75rem; margin-bottom: .7rem; }
 .trip-card__club { font-size: .68rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--blue-500); line-height: 1.4; }
