@@ -22,6 +22,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import http from 'node:http';
 import { fileURLToPath } from 'node:url';
+import crypto from 'node:crypto';
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const SRC = path.join(ROOT, 'src');
@@ -139,6 +140,15 @@ function shortDate(e) {
   return `${a.getDate()} ${MON[a.getMonth()]} – ${b.getDate()} ${MON[b.getMonth()]}`;
 }
 const naturalSpecies = (s) => (s.includes(', ') ? s.split(', ').reverse().join(' ') : s); // "Marlin, Black" -> "Black Marlin"
+
+let _assetVersion;
+function assetVersion() {
+  if (_assetVersion) return _assetVersion;
+  const h = crypto.createHash('sha1');
+  const walk = (dir) => { if (!fs.existsSync(dir)) return; for (const f of fs.readdirSync(dir).sort()) { const p = path.join(dir, f); if (fs.statSync(p).isDirectory()) walk(p); else if (/\.(css|js|json)$/.test(f)) h.update(f).update(fs.readFileSync(p)); } };
+  for (const d of ['assets/css', 'assets/js', 'data']) walk(path.join(SRC, d));
+  return (_assetVersion = h.digest('hex').slice(0, 10));
+}
 
 const components = {
   icon: (ctx, name, cls) => icon(name, cls),
@@ -432,6 +442,8 @@ function build() {
     html = html.replace('<!--SPRITE-->', sprite(html, icons));
     const extra = (meta.scripts || []).map((s) => `<script src="${root}assets/js/${s}" defer></script>`).join('\n');
     html = html.replace('<!--SCRIPTS-->', extra);
+    // Cache-busting: browsers keep CSS/JS for a month, so tag local CSS/JS links with a version that changes when they (or the data) change.
+    html = html.replace(/(assets\/(?:css|js)\/[\w.-]+\.(?:css|js))(?=["'])/g, `$1?v=${assetVersion()}`);
     fs.writeFileSync(path.join(OUT, file), html.replace(/\n\s*\n\s*\n/g, '\n\n'));
     written.push(file);
   };
