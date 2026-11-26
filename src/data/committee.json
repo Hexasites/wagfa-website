@@ -1,0 +1,10 @@
+{
+  "note": "Management Committee elected at the Annual General Meeting held on 3 May 2025. Committee details are updated after each AGM.",
+  "members": [
+    { "role": "President", "name": "Adam Durell", "email": "president@wagfa.asn.au" },
+    { "role": "Vice President", "name": "Levi Deboni" },
+    { "role": "Secretary", "name": "Sheree Lannary", "email": "secretary@wagfa.asn.au" },
+    { "role": "Treasurer", "name": "Mark Rich", "email": "treasurer@wagfa.asn.au" },
+    { "role": "State Recorder", "name": "Peter Babarskas", "email": "recorder@wagfa.asn.au" }
+  ]
+}

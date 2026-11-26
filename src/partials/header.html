@@ -1,0 +1,86 @@
+<header class="site-header" data-header>
+  <div class="container container--wide masthead">
+    <a class="brand" href="{{root}}index.html"><img src="{{root}}assets/img/wagfa-logo-white.svg" alt="WAGFA, The Western Australian Game Fishing Association: home" width="93" height="82"></a>
+
+    <nav class="primary-nav" id="primary-nav" aria-label="Main">
+      <div class="primary-nav__panel">
+        <div class="primary-nav__head">
+          <img src="{{root}}assets/img/wagfa-logo-white.svg" alt="" width="61" height="54">
+          <button class="menu-close" type="button" aria-label="Close menu">{{@icon x}}</button>
+        </div>
+        <ul class="primary-nav__list">
+          <li class="nav-item" data-nav="home"><a class="nav-link" href="{{root}}index.html">Home</a></li>
+          <li class="nav-item has-menu" data-nav="about">
+            <button class="nav-link" type="button" aria-expanded="false" aria-controls="menu-about">About {{@icon chevron-down}}</button>
+            <div class="dropdown" id="menu-about">
+              <ul>
+                <li><a href="{{root}}about.html">{{@icon gf-marlin}}<span><strong>About WAGFA</strong><small>Who we are and our history since 1949</small></span></a></li>
+                <li><a href="{{root}}about.html#committee">{{@icon gf-reel}}<span><strong>Management Committee</strong><small>President, Secretary, Treasurer, Recorder</small></span></a></li>
+                <li><a href="{{root}}about.html#governance">{{@icon gf-hook}}<span><strong>Constitution &amp; By-laws</strong><small>How the Association is governed</small></span></a></li>
+                <li><a href="{{root}}news.html">{{@icon gf-lure}}<span><strong>News &amp; notices</strong><small>Announcements from WAGFA</small></span></a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="nav-item has-menu" data-nav="records">
+            <button class="nav-link" type="button" aria-expanded="false" aria-controls="menu-records">Records {{@icon chevron-down}}</button>
+            <div class="dropdown" id="menu-records">
+              <ul>
+                <li><a href="{{root}}records.html">{{@icon gf-trophy}}<span><strong>WA State Records</strong><small>Search all {{@stat records}} current records</small></span></a></li>
+                <li><a href="{{root}}submit-a-record.html">{{@icon gf-measure}}<span><strong>Submit a record claim</strong><small>Steps, checklist, rules and fees</small></span></a></li>
+                <li><a href="{{site.links.gfaaCaptureRecords}}" target="_blank" rel="noopener">{{@icon gf-tuna}}<span><strong>Australian records {{@icon arrow-up-right icon--xs}}</strong><small>GFAA capture records database</small></span></a></li>
+                <li><a href="{{site.links.gfaaReleaseRecords}}" target="_blank" rel="noopener">{{@icon gf-tag}}<span><strong>Release records {{@icon arrow-up-right icon--xs}}</strong><small>GFAA measure &amp; release records</small></span></a></li>
+                <li><a href="{{root}}resources.html#historical">{{@icon gf-scale}}<span><strong>Historical records</strong><small>Archive of record applications</small></span></a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="nav-item has-menu" data-nav="clubs">
+            <button class="nav-link" type="button" aria-expanded="false" aria-controls="menu-clubs">Clubs {{@icon chevron-down}}</button>
+            <div class="dropdown" id="menu-clubs">
+              <ul>
+                <li><a href="{{root}}clubs.html">{{@icon gf-pin}}<span><strong>Member clubs</strong><small>{{@stat clubs}} clubs from Broome to Busselton</small></span></a></li>
+                <li><a href="{{root}}clubs.html#why-join">{{@icon gf-boat}}<span><strong>Why join a club?</strong><small>Tournaments, records, tags and good company</small></span></a></li>
+                <li><a href="{{root}}clubs.html#juniors">{{@icon gf-rod}}<span><strong>Juniors &amp; Small Fry</strong><small>Records and a national tournament</small></span></a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="nav-item has-menu" data-nav="tournaments">
+            <button class="nav-link" type="button" aria-expanded="false" aria-controls="menu-tournaments">Tournaments {{@icon chevron-down}}</button>
+            <div class="dropdown" id="menu-tournaments">
+              <ul>
+                <li><a href="{{root}}tournaments.html">{{@icon gf-boat}}<span><strong>Tournament calendar</strong><small>Upcoming events across member clubs</small></span></a></li>
+                <li><a href="{{root}}tournaments.html#sanctioning">{{@icon gf-hook}}<span><strong>Sanctioning a tournament</strong><small>Requirements and forms for clubs</small></span></a></li>
+                <li><a href="{{root}}tournaments.html#past">{{@icon gf-trophy}}<span><strong>Past tournaments</strong><small>Recent and archived events</small></span></a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="nav-item has-menu" data-nav="resources">
+            <button class="nav-link" type="button" aria-expanded="false" aria-controls="menu-resources">Resources {{@icon chevron-down}}</button>
+            <div class="dropdown" id="menu-resources">
+              <ul>
+                <li><a href="{{root}}resources.html#rules">{{@icon gf-hook}}<span><strong>Angling rules</strong><small>GFAA rules, equipment and species</small></span></a></li>
+                <li><a href="{{root}}weigh-master.html">{{@icon gf-scale}}<span><strong>Weigh Master course</strong><small>Learn the rules and get accredited</small></span></a></li>
+                <li><a href="{{root}}tag-and-release.html">{{@icon gf-tag}}<span><strong>Tag &amp; Release</strong><small>Help science by tagging game fish</small></span></a></li>
+                <li><a href="{{site.links.gfaaIdGuide}}" target="_blank" rel="noopener">{{@icon gf-tuna}}<span><strong>Fish identification {{@icon arrow-up-right icon--xs}}</strong><small>GFAA species identification guide</small></span></a></li>
+                <li><a href="{{root}}resources.html#downloads">{{@icon gf-reel}}<span><strong>Forms &amp; downloads</strong><small>Claim procedure, sanctioning pack</small></span></a></li>
+              </ul>
+            </div>
+          </li>
+          <li class="nav-item" data-nav="contact"><a class="nav-link" href="{{root}}contact.html">Contact</a></li>
+        </ul>
+        <div class="primary-nav__extra">
+          <form class="menu-search" action="{{root}}records.html#records-explorer" role="search">
+            <label class="visually-hidden" for="menu-q">Search State records</label>
+            <input id="menu-q" name="q" type="search" placeholder="Search State records">
+            <button type="submit" aria-label="Search records">{{@icon search}}</button>
+          </form>
+          <a class="btn btn--ghost-light" href="{{root}}clubs.html">Find a club</a>
+          <p class="menu-heading">Upcoming events</p>
+          {{@menuEvents}}
+        </div>
+      </div>
+    </nav>
+
+    <a class="btn btn--ghost-light btn--sm header-cta" href="{{root}}clubs.html">Find a club</a>
+    <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-nav">{{@icon menu}}<span class="visually-hidden">Open menu</span></button>
+  </div>
+</header>

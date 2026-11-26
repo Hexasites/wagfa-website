@@ -1,0 +1,27 @@
+{
+  "name": "Western Australian Game Fishing Association",
+  "short": "WAGFA",
+  "founded": 1949,
+  "tagline": "The peak body for game fishing in Western Australia",
+  "description": "The Western Australian Game Fishing Association (WAGFA) is the peak body for game fishing in WA. Established in 1949, it keeps the official State game fishing records, sanctions tournaments and represents its member clubs.",
+  "baseUrl": "https://www.wagfa.asn.au",
+  "postal": "PO Box 941, Claremont WA 6910",
+  "email": "secretary@wagfa.asn.au",
+  "recorderEmail": "recorder@wagfa.asn.au",
+  "links": {
+    "gfaa": "https://www.gfaa.asn.au/",
+    "gfaaCaptureRecords": "https://www.gfaa.asn.au/records/capture-records",
+    "gfaaReleaseRecords": "https://www.gfaa.asn.au/records/release-records",
+    "gfaaRules": "https://www.gfaa.asn.au/rules/all-angling-rules",
+    "gfaaReleaseFishing": "https://www.gfaa.asn.au/rules/release-fishing",
+    "gfaaTagging": "https://www.gfaa.asn.au/resources/tagging",
+    "gfaaIdGuide": "https://www.gfaa.asn.au/rules/idenification-guide",
+    "gfaaJuniors": "https://www.gfaa.asn.au/juniors/junior-tournament-information",
+    "gfaaJuniorRegistration": "https://www.gfaa.asn.au/juniors/registration",
+    "gfaaJournal": "https://www.gfaa.asn.au/journal/all",
+    "igfa": "https://igfa.org/",
+    "recfishwest": "https://recfishwest.org.au/",
+    "pgfcFads": "https://www.pgfc.com.au/index.php/fads/",
+    "pgfcAbout": "https://www.pgfc.com.au/about-us/"
+  }
+}

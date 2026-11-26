@@ -1,0 +1,45 @@
+# WAGFA website — Apache configuration (cPanel and most shared hosting).
+# Copied to the site root by build.mjs. Ignored by hosts that are not Apache.
+
+ErrorDocument 404 /404.html
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Serve the site over HTTPS on www.wagfa.asn.au (enable once the host has a certificate).
+  # RewriteCond %{HTTPS} off [OR]
+  # RewriteCond %{HTTP_HOST} !^www\. [NC]
+  # RewriteRule ^ https://www.wagfa.asn.au%{REQUEST_URI} [R=301,L]
+
+  # Old WordPress URLs -> new pages (301 permanent redirects keep search rankings and bookmarks).
+  RewriteRule ^aboutwagfa/management-committee/?$ /about.html#committee [R=301,NE,L]
+  RewriteRule ^aboutwagfa/constitution/?$ /about.html#governance [R=301,NE,L]
+  RewriteRule ^aboutwagfa/contacts/?$ /clubs.html [R=301,L]
+  RewriteRule ^aboutwagfa/?$ /about.html [R=301,L]
+  RewriteRule ^member-clubs/?$ /clubs.html [R=301,L]
+  RewriteRule ^clubs/.*$ /clubs.html [R=301,L]
+  RewriteRule ^mens-records/?$ /records.html?category=Male [R=301,L]
+  RewriteRule ^womens-records/?$ /records.html?category=Female [R=301,L]
+  RewriteRule ^records/?$ /records.html [R=301,L]
+  RewriteRule ^gfaa-australian-records/?$ /records.html [R=301,L]
+  RewriteRule ^submitting-records/?$ /submit-a-record.html [R=301,L]
+  RewriteRule ^help-files/?$ /resources.html#downloads [R=301,NE,L]
+  RewriteRule ^historical-documentation/?$ /resources.html#historical [R=301,NE,L]
+  RewriteRule ^(fish-identification|eligible-species)/?$ /resources.html#rules [R=301,NE,L]
+  RewriteRule ^(courses|lessons)/.*$ /weigh-master.html [R=301,L]
+  RewriteRule ^(category/events|events)(/.*)?$ /tournaments.html [R=301,L]
+  # Old WordPress news posts (the new article pages under /news/ are real files, so they are skipped).
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteRule ^(news|category/news|author)(/.*)?$ /news.html [R=301,L]
+</IfModule>
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType text/javascript "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+  ExpiresByType image/jpeg "access plus 6 months"
+  ExpiresByType image/png "access plus 6 months"
+  ExpiresByType image/svg+xml "access plus 6 months"
+  ExpiresByType font/woff2 "access plus 1 year"
+</IfModule>

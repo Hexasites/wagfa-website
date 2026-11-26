@@ -1,0 +1,38 @@
+[
+  {
+    "slug": "welcome-to-the-new-wagfa-website",
+    "date": "2026-11-25",
+    "category": "Association",
+    "title": "Welcome to the new WAGFA website",
+    "image": "coast-path",
+    "excerpt": "A faster, mobile-friendly home for WA game fishing, with searchable State records, a tournament calendar and a full member club directory.",
+    "body": "<p class=\"lead\">Welcome to the new online home of the Western Australian Game Fishing Association. The site has been rebuilt from the ground up so the information anglers, clubs and weigh masters use most is easier to find, on any device.</p><h2>What's new</h2><ul><li><strong>Searchable WA State records.</strong> Filter every current record by species, angler category, line class and environment, sort by weight or date, and download the results.</li><li><strong>Tournament calendar.</strong> Upcoming member-club tournaments in one place, with links to each host club.</li><li><strong>Member club directory.</strong> All member clubs from Broome to Busselton, with websites and contact details.</li><li><strong>Record claims made simple.</strong> A step-by-step guide, checklist, rules summary and fees for State and Australian claims.</li><li><strong>Rules and resources.</strong> Angling rules, the Weigh Master course, tag and release information and all forms in one place.</li></ul><p>If you spot anything that needs updating, or your club has news or an event to share, please email the Secretary at <a href=\"mailto:secretary@wagfa.asn.au\">secretary@wagfa.asn.au</a>.</p><p><a class=\"btn btn--navy\" href=\"{{root}}records.html\">{{@icon search}}Search the State records</a></p>"
+  },
+  {
+    "slug": "running-a-tournament-get-it-sanctioned",
+    "date": "2026-11-25",
+    "category": "Tournaments",
+    "title": "Running a tournament this season? Get it sanctioned",
+    "image": "coast-lagoon",
+    "excerpt": "Planning an open tournament? Apply for sanctioning before the event. It keeps your anglers' record claims eligible.",
+    "body": "<p class=\"lead\">With the season under way, WAGFA reminds member clubs planning open tournaments to apply for sanctioning before the event.</p><h2>Why sanctioning matters</h2><p>Sanctioning confirms a tournament meets the requirements set out in WAGFA's Tournament Sanctioning Pack. It also protects your anglers' record claims: the Game Fishing Association of Australia does not accept record applications generated from within a non-sanctioned tournament, other than an internal club competition.</p><h2>How to apply</h2><ol><li>Download the Tournament Sanctioning Pack from the <a href=\"{{root}}tournaments.html#sanctioning\">Tournaments page</a>. It includes an overview of the requirements, a request form and a report form.</li><li>Complete the request form (the spreadsheet version is recommended) and send it to the WAGFA Secretary ahead of your event.</li><li>After the event, complete and return the tournament report form.</li></ol><p>Questions? Contact the Secretary at <a href=\"mailto:secretary@wagfa.asn.au\">secretary@wagfa.asn.au</a>.</p>"
+  },
+  {
+    "slug": "wa-state-records-updated-may-2026",
+    "date": "2026-05-27",
+    "category": "Records",
+    "title": "WA State Records updated",
+    "image": "tuna-school-2",
+    "excerpt": "The list of Western Australian State game fishing records was updated on 27 May 2026.",
+    "body": "<p class=\"lead\">The list of Western Australian State game fishing records was updated on 27 May 2026. Congratulations to all new record holders.</p><p>State records are kept for men, women, juniors (under 16) and small fry (under 11), across eleven line classes from 1 kg to 60 kg, in saltwater, land-based, fly and freshwater categories.</p><p><a class=\"btn btn--navy\" href=\"{{root}}records.html\">{{@icon search}}Search the State records</a></p><p>Think you have a record? Read <a href=\"{{root}}submit-a-record.html\">how to submit a claim</a>. All claims go through your club weigh master or club secretary to the State Recorder.</p>"
+  },
+  {
+    "slug": "management-committee-elected-2025",
+    "date": "2025-05-03",
+    "category": "Association",
+    "title": "Management Committee elected at the 2025 AGM",
+    "image": "coast-dunes",
+    "excerpt": "The WAGFA Management Committee was elected at the Annual General Meeting held on 3 May 2025.",
+    "body": "<p class=\"lead\">The WAGFA Management Committee was elected at the Annual General Meeting held on 3 May 2025.</p><ul><li><strong>President:</strong> Adam Durell</li><li><strong>Vice President:</strong> Levi Deboni</li><li><strong>Secretary:</strong> Sheree Lannary</li><li><strong>Treasurer:</strong> Mark Rich</li><li><strong>State Recorder:</strong> Peter Babarskas</li></ul><p>Contact details for the committee are on the <a href=\"{{root}}about.html#committee\">About page</a>.</p>"
+  }
+]

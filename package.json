@@ -1,0 +1,16 @@
+{
+  "name": "wagfa-website",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Website for the Western Australian Game Fishing Association. Static site built from src/ with a zero-dependency Node script.",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "build:preview": "node build.mjs --noindex",
+    "dev": "node build.mjs --serve",
+    "watch": "node build.mjs --watch"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

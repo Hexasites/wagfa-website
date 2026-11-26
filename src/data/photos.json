@@ -1,0 +1,72 @@
+[
+  {
+    "file": "tuna-school",
+    "title": "Banc de thons albacores (Thunnus albacares)",
+    "usedOn": "Home page hero, Submit a record",
+    "author": "Marc Taquet (Ifremer)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Banc_de_thons_albacores_(Thunnus_albacares)_(Ifremer_00568-68027_-_25191).jpg",
+    "changes": "Resized and cropped."
+  },
+  {
+    "file": "tuna-school-2",
+    "title": "Banc de thons albacores (Thunnus albacares)",
+    "usedOn": "WA State Records, Weigh Master course",
+    "author": "Marc Taquet (Ifremer)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Banc_de_thons_albacores_(Thunnus_albacares)_(Ifremer_00568-68027_-_25201).jpg",
+    "changes": "Resized and cropped."
+  },
+  {
+    "file": "tuna-tagging",
+    "title": "Marquage d'un thon albacore (Thunnus albacares)",
+    "usedOn": "Tag & Release",
+    "author": "Marc Taquet (Ifremer)",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Marquage_d%27un_thon_albacore_(Thunnus_albacares)_(Ifremer_00540-65191).jpg",
+    "changes": "Resized and cropped."
+  },
+  {
+    "file": "coast-sunset",
+    "title": "Ningaloo Coast, Western Australia",
+    "usedOn": "Member clubs, Contact, home page",
+    "author": "Lizzy5",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Ningaloo_Coast,_Western_Australia.jpg",
+    "changes": "Resized and cropped. The adapted image is shared under the same licence."
+  },
+  {
+    "file": "coast-path",
+    "title": "Ningaloo Reef, Western Australia",
+    "usedOn": "Rules & Resources, home page",
+    "author": "W. Bulach",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:00_0865_Ningaloo_Reef,_Western_Australia.jpg",
+    "changes": "Resized and cropped. The adapted image is shared under the same licence."
+  },
+  {
+    "file": "coast-lagoon",
+    "title": "Ningaloo Reef, Westaustralien",
+    "usedOn": "Tournaments, home page",
+    "author": "W. Bulach",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:00_1860._Ningaloo_Reef_-_Westaustralien.jpg",
+    "changes": "Resized and cropped. The adapted image is shared under the same licence."
+  },
+  {
+    "file": "coast-dunes",
+    "title": "Küste, Ningaloo Reef, Western Australia",
+    "usedOn": "About, News",
+    "author": "W. Bulach",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:00_0775_K%C3%BCste_-_Ningaloo_Reef,_Western_Australia.jpg",
+    "changes": "Resized and cropped. The adapted image is shared under the same licence."
+  }
+]

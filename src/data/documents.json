@@ -1,0 +1,80 @@
+[
+  {
+    "group": "records",
+    "title": "Record Claim Procedure",
+    "description": "How to prepare and submit a State or Australian record claim.",
+    "type": "PDF",
+    "file": "record-claim-procedure.pdf"
+  },
+  {
+    "group": "records",
+    "title": "GFAA capture records database",
+    "description": "Check the current Australian and State records before you claim.",
+    "type": "Web",
+    "url": "https://www.gfaa.asn.au/records/capture-records"
+  },
+  {
+    "group": "tournaments",
+    "title": "Tournament Sanctioning Pack: overview",
+    "description": "Requirements a tournament must meet to be sanctioned by WAGFA.",
+    "type": "PDF",
+    "file": "tournament-sanctioning-overview.pdf"
+  },
+  {
+    "group": "tournaments",
+    "title": "Sanctioning request form",
+    "description": "Fillable spreadsheet (recommended).",
+    "type": "XLSX",
+    "file": "tournament-sanctioning-request.xlsx"
+  },
+  {
+    "group": "tournaments",
+    "title": "Sanctioning request form",
+    "description": "Fillable PDF. Open in Adobe Reader so your entries save.",
+    "type": "PDF",
+    "file": "tournament-sanctioning-request.pdf"
+  },
+  {
+    "group": "tournaments",
+    "title": "Tournament report form",
+    "description": "Fillable spreadsheet (recommended).",
+    "type": "XLSX",
+    "file": "tournament-report.xlsx"
+  },
+  {
+    "group": "tournaments",
+    "title": "Tournament report form",
+    "description": "Fillable PDF. Open in Adobe Reader so your entries save.",
+    "type": "PDF",
+    "file": "tournament-report.pdf"
+  },
+  {
+    "group": "governance",
+    "title": "WAGFA Constitution",
+    "description": "Current as at September 2022.",
+    "type": "PDF",
+    "file": "wagfa-constitution.pdf"
+  },
+  {
+    "group": "governance",
+    "title": "WAGFA By-laws",
+    "description": "Rules made under the Constitution.",
+    "type": "PDF",
+    "file": "wagfa-by-laws.pdf"
+  },
+  {
+    "group": "history",
+    "title": "Historical record applications, 1985–2018",
+    "description": "Archive of past WAGFA record applications.",
+    "type": "PDF",
+    "file": "historical-record-applications-1985-2018.pdf"
+  },
+  {
+    "group": "history",
+    "title": "Full list of current WA State records",
+    "description": "Every current record as a spreadsheet-friendly CSV file.",
+    "type": "CSV",
+    "file": "wa-state-records.csv",
+    "generated": true
+  }
+]

@@ -1,0 +1,39 @@
+---
+{
+  "title": "Credits",
+  "description": "Photo, typeface, icon and data credits for the WAGFA website.",
+  "nav": "",
+  "hero": {
+    "eyebrow": "Credits",
+    "title": "Credits",
+    "lead": "The photos, typefaces, icons and data used on this website, and their licences.",
+    "image": "coast-path",
+    "watermark": "Credits"
+  }
+}
+---
+<section class="section">
+  <div class="container stack stack--lg">
+    <div>
+      <h2 class="section-title">Photographs</h2>
+      <p>Photographs are from Wikimedia Commons and are used under Creative Commons licences. They have been resized and cropped for this website.</p>
+      {{@credits}}
+    </div>
+    <div class="grid-2">
+      <div>
+        <h2 class="section-title">Typefaces &amp; icons</h2>
+        <ul class="checklist">
+          <li>{{@icon check}}<span><strong>Taviraj</strong> by Cadson Demak, SIL Open Font License 1.1.</span></li>
+          <li>{{@icon check}}<span><strong>Manrope</strong> by Mikhail Sharanda, SIL Open Font License 1.1.</span></li>
+          <li>{{@icon check}}<span><strong>Lucide</strong> interface icons, ISC License.</span></li>
+          <li>{{@icon check}}<span>Game-fishing line icons drawn for this website.</span></li>
+          <li>{{@icon check}}<span>The WAGFA logo is the property of the Western Australian Game Fishing Association.</span></li>
+        </ul>
+      </div>
+      <div>
+        <h2 class="section-title">Records data</h2>
+        <p>The WA State records are drawn from the <a href="{{records.sourceUrl}}" target="_blank" rel="noopener">Game Fishing Association of Australia records database</a> (Western Australia), as at {{@recordsAsAt}}.</p>
+      </div>
+    </div>
+  </div>
+</section>

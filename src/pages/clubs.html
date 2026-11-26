@@ -1,0 +1,91 @@
+---
+{
+  "title": "Member Clubs",
+  "description": "Find a WAGFA member club near you. Game fishing clubs across Western Australia, from Broome to Busselton.",
+  "nav": "clubs",
+  "hero": {
+    "eyebrow": "Member clubs",
+    "title": "Find a club",
+    "lead": "{{@stat clubs}} member clubs from Broome to Busselton. Joining one is how you fish sanctioned tournaments and claim State and Australian records.",
+    "image": "coast-sunset",
+    "watermark": "Clubs"
+  }
+}
+---
+<section class="section">
+  <div class="container">
+    <header class="section-head section-head--split">
+      <div>
+        <p class="eyebrow">Directory</p>
+        <h2 class="section-title">Our member clubs</h2>
+      </div>
+      <p class="section-aside" data-club-count aria-live="polite">Showing all {{@stat clubs}} clubs</p>
+    </header>
+    {{@clubFilters}}
+    {{@clubCards}}
+    <p class="fine-print">Clubs are listed from north to south. Contact details are supplied by each club; if something is out of date, <a href="{{root}}contact.html?topic=clubs">let us know</a>.</p>
+  </div>
+</section>
+
+<section class="section section--navy coast-section">
+  <div class="container split split--top">
+    <div>
+      <p class="eyebrow eyebrow--light">From the Kimberley to the Capes</p>
+      <h2 class="section-title section-title--light">More than 2,000 km of game fishing coast</h2>
+      <p>WAGFA clubs fish waters ranging from tropical Broome and the Pilbara, through Ningaloo and the Abrolhos, to the Perth Canyon and Geographe Bay.</p>
+      <a class="btn btn--gold" href="{{root}}tournaments.html">See club tournaments</a>
+    </div>
+    {{@coastline}}
+  </div>
+</section>
+
+<section class="section" id="why-join">
+  <div class="container">
+    <header class="section-head">
+      <p class="eyebrow">Why join a club?</p>
+      <h2 class="section-title">More fish, more friends, more records</h2>
+      <p class="lead">Membership of an affiliated club is what connects you to WAGFA, to the Game Fishing Association of Australia and to everything that comes with them.</p>
+    </header>
+    <div class="cards cards--3">
+      <article class="card">{{@icon gf-trophy card__icon}}<h3>Claim records</h3><p>Only financial or life members of a GFAA-affiliated club can claim State and Australian records.</p></article>
+      <article class="card">{{@icon gf-lure card__icon}}<h3>Fish tournaments</h3><p>Compete in your club's events and in sanctioned tournaments run by other WAGFA clubs around the State.</p></article>
+      <article class="card">{{@icon gf-tag card__icon}}<h3>Tag fish for science</h3><p>Club members can take part in the national Gamefish Tagging Program and help researchers track game fish.</p></article>
+      <article class="card">{{@icon gf-reel card__icon}}<h3>Learn from the best</h3><p>Pick up technique, local knowledge and where to find fish from experienced anglers, at club nights and on the water.</p></article>
+      <article class="card">{{@icon gf-boat card__icon}}<h3>No boat? Ask about crewing</h3><p>Ask your club about fishing with like-minded members. Perth Game Fishing Club, for one, offers members without a boat the chance to crew.</p></article>
+      <article class="card">{{@icon gf-marlin card__icon}}<h3>Awards &amp; fellowship</h3><p>Club competitions, annual awards and social events, plus a voice through WAGFA and the GFAA.</p></article>
+    </div>
+  </div>
+</section>
+
+<section class="section section--sand" id="juniors">
+  <div class="container split">
+    <div class="split__media">
+      <figure class="photo-frame">
+        <img src="{{root}}assets/img/coast-lagoon-1920.jpg" srcset="{{root}}assets/img/coast-lagoon-960.jpg 960w, {{root}}assets/img/coast-lagoon-1920.jpg 1920w" sizes="(min-width: 900px) 45vw, 100vw" alt="Turquoise lagoon on the Ningaloo coast" loading="lazy" decoding="async">
+      </figure>
+    </div>
+    <div class="split__text">
+      <p class="eyebrow">Juniors &amp; Small Fry</p>
+      <h2 class="section-title">Getting young anglers hooked</h2>
+      <p>Young anglers have their own record categories. <strong>Juniors</strong> are anglers who have not turned 16, and <strong>Small Fry</strong> are anglers who have not turned 11.</p>
+      <p>The GFAA National Junior Tournament runs from 1 July to 30 June each year and is open to all anglers under 16. Entry is free and done online, and captured, tagged and measured fish all score points.</p>
+      <div class="btn-row">
+        <a class="btn btn--navy" href="{{root}}records.html?category=Junior%20Male">Junior records</a>
+        <a class="btn btn--outline" href="{{site.links.gfaaJuniors}}" target="_blank" rel="noopener">National Junior Tournament {{@icon arrow-up-right}}</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--tight">
+  <div class="container">
+    <div class="callout callout--gold callout--wide">
+      {{@icon gf-pin}}
+      <div>
+        <h2 class="callout__title">Is your club thinking of affiliating?</h2>
+        <p>Game fishing clubs in Western Australia can affiliate with WAGFA, and through us with the Game Fishing Association of Australia. Contact the Secretary to find out how.</p>
+      </div>
+      <a class="btn btn--navy" href="{{root}}contact.html?topic=clubs">Contact the Secretary</a>
+    </div>
+  </div>
+</section>

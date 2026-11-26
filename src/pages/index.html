@@ -1,0 +1,248 @@
+---
+{
+  "title": "",
+  "description": "The Western Australian Game Fishing Association (WAGFA) is the peak body for game fishing in WA. Search the official State records, find a member club and see upcoming tournaments.",
+  "nav": "home",
+  "homeHero": true,
+  "bodyClass": "page-home"
+}
+---
+<section class="hero">
+  <div class="hero__media">
+    <img src="{{root}}assets/img/tuna-school-1920.jpg" srcset="{{root}}assets/img/tuna-school-960.jpg 960w, {{root}}assets/img/tuna-school-1920.jpg 1920w" sizes="100vw" alt="" fetchpriority="high">
+  </div>
+  <div class="hero__shade"></div>
+  <div class="container hero__inner">
+    <p class="eyebrow eyebrow--center eyebrow--light">Welcome to WAGFA</p>
+    <h1 class="hero__title">Game Fishing from the Kimberley to the Capes</h1>
+    <div class="hero__actions">
+      <a class="btn" href="{{root}}clubs.html">Find a club</a>
+    </div>
+  </div>
+  <div class="container container--wide quick-search">
+    <form class="quick-search__form" action="{{root}}records.html#records-explorer" method="get" role="search" aria-label="Quick search of WA State records">
+      <p class="quick-search__label">Search State records</p>
+      <div class="qs-field">
+        <label for="qs-species">Species</label>
+        <select id="qs-species" name="species"><option value="">All species</option>{{@recordOptions species}}</select>
+      </div>
+      <div class="qs-field">
+        <label for="qs-category">Angler category</label>
+        <select id="qs-category" name="category"><option value="">All categories</option>{{@recordOptions category}}</select>
+      </div>
+      <div class="qs-field">
+        <label for="qs-line">Line class</label>
+        <select id="qs-line" name="line"><option value="">Any line class</option>{{@recordOptions line}}</select>
+      </div>
+      <div class="qs-field qs-field--wide">
+        <label for="qs-q">Angler or location</label>
+        <input id="qs-q" name="q" type="search" placeholder="Angler or place" autocomplete="off">
+      </div>
+      <button class="btn btn--ghost-light quick-search__btn" type="submit">Search</button>
+    </form>
+  </div>
+</section>
+
+<section class="section section--stone">
+  <div class="container">
+    <p class="section-sub stats-intro">Western Australia's peak body for game fishing, keeping the official State records and supporting our member clubs since 1949.</p>
+    {{@stats}}
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <header class="section-head">
+      <p class="eyebrow">About WAGFA</p>
+      <h2 class="section-title">Coordinating Game Fishing Across Western Australia</h2>
+    </header>
+    <div class="about">
+      <div class="about__media">
+        <img src="{{root}}assets/img/coast-sunset-1920.jpg" srcset="{{root}}assets/img/coast-sunset-960.jpg 960w, {{root}}assets/img/coast-sunset-1920.jpg 1920w" sizes="(min-width: 900px) 40vw, 100vw" alt="Sunset on the Ningaloo Coast, Western Australia" loading="lazy" decoding="async">
+        <p class="about__badge"><strong>1949</strong><span>Established</span></p>
+      </div>
+      <div class="about__text">
+        <div>
+          <p>Established in 1949, the Western Australian Game Fishing Association coordinates game fishing throughout the State on behalf of its member clubs. We maintain the official State game fishing records, hold data on the open tournaments our clubs run, and advocate for our clubs and for game fishing in general.</p>
+          <p>WAGFA is a member of the Game Fishing Association of Australia and the International Game Fish Association, and a founding member of Recfishwest. Our Objects focus strongly on conservation and on promoting ethical game fishing practices.</p>
+          <a class="text-link" href="{{root}}about.html">Learn more {{@icon arrow-right}}</a>
+        </div>
+        <ul class="features">
+          <li class="feature"><a href="{{root}}records.html">{{@icon gf-trophy feature__icon}}<h3>State Records</h3></a></li>
+          <li class="feature"><a href="{{root}}tournaments.html">{{@icon gf-lure feature__icon}}<h3>Sanctioned Tournaments</h3></a></li>
+          <li class="feature"><a href="{{root}}clubs.html">{{@icon gf-pin feature__icon}}<h3>Member Clubs</h3></a></li>
+          <li class="feature"><a href="{{root}}tag-and-release.html">{{@icon gf-tag feature__icon}}<h3>Tag &amp; Release</h3></a></li>
+          <li class="feature"><a href="{{root}}weigh-master.html">{{@icon gf-scale feature__icon}}<h3>Weigh Masters</h3></a></li>
+          <li class="feature"><a href="{{root}}resources.html#rules">{{@icon gf-hook feature__icon}}<h3>Angling Rules</h3></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="services">
+  <img class="services__bg" src="{{root}}assets/img/tuna-school-2-1920.jpg" srcset="{{root}}assets/img/tuna-school-2-960.jpg 960w, {{root}}assets/img/tuna-school-2-1920.jpg 1920w" sizes="100vw" alt="" loading="lazy" decoding="async">
+  <div class="container">
+    <header class="section-head section-head--center">
+      <p class="eyebrow eyebrow--center eyebrow--light">What we do</p>
+      <h2 class="section-title">Supporting Game Fishing Across the State</h2>
+    </header>
+    <ol class="service-list">
+      <li class="service"><h3>Official State Records</h3><p>Our State Recorder keeps the official records for men, women, juniors and small fry across eleven line classes, from 1 kg to 60 kg.</p><a class="text-link text-link--light" href="{{root}}records.html">Search records {{@icon arrow-right}}</a></li>
+      <li class="service"><h3>Sanctioned Tournaments</h3><p>Member clubs apply to have their tournaments sanctioned, which keeps their anglers' record claims eligible.</p><a class="text-link text-link--light" href="{{root}}tournaments.html#sanctioning">Learn more {{@icon arrow-right}}</a></li>
+      <li class="service"><h3>A Voice for Clubs</h3><p>A founding member of Recfishwest and a member of the Game Fishing Association of Australia, WAGFA advocates for its clubs and for game fishing.</p><a class="text-link text-link--light" href="{{root}}about.html">Learn more {{@icon arrow-right}}</a></li>
+      <li class="service"><h3>Ethical, Sustainable Fishing</h3><p>Conservation and ethical practice sit at the heart of our Objects, from tag and release to the rules behind every capture.</p><a class="text-link text-link--light" href="{{root}}tag-and-release.html">Learn more {{@icon arrow-right}}</a></li>
+    </ol>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <header class="section-head section-head--split">
+      <div>
+        <p class="eyebrow">On the water</p>
+        <h2 class="section-title">Upcoming Tournaments &amp; Events</h2>
+      </div>
+      <a class="text-link" href="{{root}}tournaments.html">Full calendar {{@icon arrow-right}}</a>
+    </header>
+    {{@eventCards upcoming 6}}
+  </div>
+</section>
+
+<section class="section section--stone section--tight">
+  <div class="container">
+    <p class="section-sub stats-intro">{{@stat clubs}} member clubs, from Broome to Busselton</p>
+    {{@clubStrip}}
+  </div>
+</section>
+
+<section class="cta-band">
+  <img class="cta-band__bg" src="{{root}}assets/img/coast-dunes-1920.jpg" srcset="{{root}}assets/img/coast-dunes-960.jpg 960w, {{root}}assets/img/coast-dunes-1920.jpg 1920w" sizes="100vw" alt="" loading="lazy" decoding="async">
+  <div class="container">
+    <p class="eyebrow eyebrow--center eyebrow--light">Get started</p>
+    <h2 class="section-title">Game Fishing in WA Starts at Your Local Club</h2>
+    <p>Join one of our {{@stat clubs}} member clubs to fish sanctioned tournaments, claim State and Australian records and be part of a tradition that goes back to 1949.</p>
+    <a class="btn" href="{{root}}clubs.html">Find a club</a>
+    <p class="cta-band__links"><a href="{{site.links.gfaa}}" target="_blank" rel="noopener">GFAA</a><a href="{{site.links.igfa}}" target="_blank" rel="noopener">IGFA</a><a href="{{site.links.recfishwest}}" target="_blank" rel="noopener">Recfishwest</a></p>
+  </div>
+</section>
+
+<section class="spotlight-section" aria-label="From the record book">
+  <div class="container">
+    {{@recordSpotlight 4}}
+  </div>
+</section>
+
+<section class="section">
+  <div class="container why">
+    <header class="section-head">
+      <p class="eyebrow">Why join a club</p>
+      <h2 class="section-title">More Fish, More Friends, More Records</h2>
+      <a class="text-link" href="{{root}}clubs.html#why-join">Find a club {{@icon arrow-right}}</a>
+    </header>
+    <ul class="features features--text">
+      <li class="feature"><div>{{@icon gf-trophy feature__icon}}<h3>Claim Records</h3><p>Only financial or life members of a GFAA-affiliated club can claim State and Australian records.</p></div></li>
+      <li class="feature"><div>{{@icon gf-lure feature__icon}}<h3>Fish Tournaments</h3><p>Compete in club events and in sanctioned tournaments run by other WAGFA clubs.</p></div></li>
+      <li class="feature"><div>{{@icon gf-tag feature__icon}}<h3>Tag for Science</h3><p>Members can take part in the national Gamefish Tagging Program.</p></div></li>
+      <li class="feature"><div>{{@icon gf-reel feature__icon}}<h3>Learn from the Best</h3><p>Technique, local knowledge and where to find fish, at club nights and on the water.</p></div></li>
+      <li class="feature"><div>{{@icon gf-boat feature__icon}}<h3>No Boat? Crew</h3><p>Ask your club about crewing. Perth Game Fishing Club, for one, offers members the chance.</p></div></li>
+      <li class="feature"><div>{{@icon gf-rod feature__icon}}<h3>Juniors &amp; Small Fry</h3><p>Record categories and a national tournament for anglers under 16.</p></div></li>
+    </ul>
+  </div>
+  <div class="container">
+    <div class="gallery" style="margin-top: clamp(4rem, 8vw, 6rem)">
+      <figure><img src="{{root}}assets/img/coast-path-960.jpg" alt="Beach path to the turquoise waters of Ningaloo" loading="lazy" decoding="async"></figure>
+      <figure><img src="{{root}}assets/img/tuna-school-960.jpg" alt="A school of yellowfin tuna" loading="lazy" decoding="async"></figure>
+      <figure><img src="{{root}}assets/img/coast-lagoon-960.jpg" alt="Lagoon on the Ningaloo coast" loading="lazy" decoding="async"></figure>
+      <figure><img src="{{root}}assets/img/tuna-tagging-960.jpg" alt="Tagging a yellowfin tuna before release" loading="lazy" decoding="async"></figure>
+      <figure><img src="{{root}}assets/img/coast-sunset-960.jpg" alt="Sunset over the Ningaloo coast" loading="lazy" decoding="async"></figure>
+      <figure><img src="{{root}}assets/img/tuna-school-2-960.jpg" alt="Yellowfin tuna schooling in blue water" loading="lazy" decoding="async"></figure>
+      <figure><img src="{{root}}assets/img/coast-dunes-960.jpg" alt="Coastal dunes beside the Ningaloo Reef" loading="lazy" decoding="async"></figure>
+    </div>
+  </div>
+</section>
+
+<section class="section section--flush-top">
+  <div class="container">
+    <header class="section-head section-head--center">
+      <p class="eyebrow eyebrow--center">Our people</p>
+      <h2 class="section-title">Management Committee</h2>
+      <p>Elected at the Association's Annual General Meeting.</p>
+    </header>
+    {{@committee}}
+  </div>
+</section>
+
+<section class="section section--stone">
+  <div class="container">
+    <header class="section-head section-head--split">
+      <div>
+        <p class="eyebrow">News &amp; notices</p>
+        <h2 class="section-title">Latest From WAGFA</h2>
+      </div>
+      <a class="text-link" href="{{root}}news.html">View all {{@icon arrow-right}}</a>
+    </header>
+    {{@newsCards 3}}
+  </div>
+</section>
+
+<section class="contact-split" id="contact">
+  <div class="contact-split__form">
+    <form class="form form--dark" data-mailto-form>
+      <div class="form__row">
+        <div class="field"><label for="cf-name">Name <span class="req">*</span></label><input class="input" id="cf-name" name="name" autocomplete="name" placeholder="Your name" required></div>
+        <div class="field"><label for="cf-email">Email <span class="req">*</span></label><input class="input" id="cf-email" name="email" type="email" autocomplete="email" placeholder="you@example.com" required></div>
+      </div>
+      <div class="form__row">
+        <div class="field">
+          <label for="cf-topic">Topic</label>
+          <select class="select" id="cf-topic" name="topic">
+            <option value="general" data-to="{{site.email}}">General enquiry</option>
+            <option value="records" data-to="{{site.recorderEmail}}">Records and claims</option>
+            <option value="tournaments" data-to="{{site.email}}">Tournaments and sanctioning</option>
+            <option value="clubs" data-to="{{site.email}}">Clubs and affiliation</option>
+          </select>
+        </div>
+        <div class="field"><label for="cf-club">Club</label><input class="input" id="cf-club" name="club" autocomplete="organization" placeholder="Optional"></div>
+      </div>
+      <div class="field"><label for="cf-message">Message <span class="req">*</span></label><textarea class="input" id="cf-message" name="message" rows="5" placeholder="How can we help?" required></textarea></div>
+      <div class="form__actions">
+        <button class="form-submit" type="submit">Send message {{@icon arrow-right}}</button>
+        <p class="form__note" data-form-note hidden role="status">Your email app should now be open. If not, email <a href="mailto:{{site.email}}">{{site.email}}</a>.</p>
+      </div>
+    </form>
+  </div>
+  <div class="contact-split__info">
+    <img src="{{root}}assets/img/coast-sunset-960.jpg" alt="" loading="lazy" decoding="async">
+    <p class="eyebrow eyebrow--light">Our contact</p>
+    <h2>Have Any Questions?</h2>
+    <div class="contact-blocks">
+      <div><h3>Records</h3><a class="text-link text-link--light" href="mailto:{{site.recorderEmail}}">Email the State Recorder {{@icon arrow-right}}</a><p>Record claims and the State record list.</p></div>
+      <div><h3>Enquiries</h3><a class="text-link text-link--light" href="mailto:{{site.email}}">Email the Secretary {{@icon arrow-right}}</a><p>Clubs, tournaments, sanctioning and the Association.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <header class="section-head section-head--center">
+      <p class="eyebrow eyebrow--center">FAQs</p>
+      <h2 class="section-title">Frequently Asked Questions</h2>
+    </header>
+    <div class="faq">
+      <details><summary>How do I join WAGFA?</summary><div><p>Anglers join through one of our member clubs. Membership of an affiliated club connects you to WAGFA and to the Game Fishing Association of Australia. <a href="{{root}}clubs.html">Find a club near you</a>.</p></div></details>
+      <details><summary>Who can claim a State record?</summary><div><p>Records can only be claimed by a financial or life member of a club affiliated with a State branch of GFAA. Claims go through your club weigh master and/or club secretary to the WAGFA State Recorder. <a href="{{root}}submit-a-record.html">How to submit a claim</a>.</p></div></details>
+      <details><summary>How much does it cost to claim a record?</summary><div><p>$20 per State claim, paid to WAGFA, and $20 per Australian claim, paid to GFAA. Attach the payment receipt to your claim.</p></div></details>
+      <details><summary>What are the junior and small fry age limits?</summary><div><p>Juniors are anglers who have not turned 16; Small Fry are anglers who have not turned 11. Age is verified from the date of birth on the claim's statutory declaration.</p></div></details>
+      <details><summary>How do I get my club's tournament sanctioned?</summary><div><p>Download the Tournament Sanctioning Pack, send the completed request form to the WAGFA Secretary ahead of the event, and return the tournament report form afterwards. <a href="{{root}}tournaments.html#sanctioning">Sanctioning a tournament</a>.</p></div></details>
+      <details><summary>Where can I find the angling rules?</summary><div><p>WAGFA clubs fish under the Angling Rules of the Game Fishing Association of Australia. <a href="{{root}}resources.html#rules">Links to the current rules</a>.</p></div></details>
+      <details><summary>How do I get tags for tag and release?</summary><div><p>Tags are supplied by NSW fisheries authorities to members of registered clubs affiliated with GFAA. Ask your club how it distributes tags and cards. <a href="{{root}}tag-and-release.html">About tag and release</a>.</p></div></details>
+    </div>
+  </div>
+</section>
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "SportsOrganization", "name": "Western Australian Game Fishing Association", "alternateName": "WAGFA", "url": "https://www.wagfa.asn.au/", "logo": "https://www.wagfa.asn.au/assets/img/wagfa-logo.svg", "foundingDate": "1949", "sport": "Game fishing", "email": "secretary@wagfa.asn.au",
+ "address": {"@type": "PostalAddress", "postOfficeBoxNumber": "941", "addressLocality": "Claremont", "addressRegion": "WA", "postalCode": "6910", "addressCountry": "AU"},
+ "memberOf": [{"@type": "SportsOrganization", "name": "Game Fishing Association of Australia", "url": "https://www.gfaa.asn.au/"}, {"@type": "SportsOrganization", "name": "International Game Fish Association", "url": "https://igfa.org/"}]}
+</script>

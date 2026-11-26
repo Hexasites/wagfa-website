@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Tag & Release Shark Initiative",
+    "club": "Perth Game Fishing Club",
+    "location": "Perth",
+    "start": "2027-01-09",
+    "end": "2027-01-10",
+    "url": "https://www.pgfc.com.au/",
+    "summary": "An early-season tag-and-release competition that gets reels turning ahead of the marlin season."
+  },
+  {
+    "name": "Compleat Angler Nedlands Marlin Cup",
+    "club": "Perth Game Fishing Club",
+    "location": "Perth",
+    "start": "2027-02-13",
+    "end": "2027-02-14",
+    "url": "https://www.pgfc.com.au/tournaments/marlin-cup/",
+    "summary": "PGFC's members-only marlin tournament."
+  },
+  {
+    "name": "Gamex",
+    "club": "Exmouth Game Fishing Club",
+    "location": "Exmouth",
+    "start": "2027-03-01",
+    "end": "2027-03-31",
+    "status": "tbc",
+    "dateText": "March 2027 (dates to be confirmed)",
+    "url": "https://www.egfc.com.au",
+    "summary": "Recognised by Tourism Western Australia as the State's major fishing tournament. The 2023 event ran 17–25 March; confirm 2027 dates with the club."
+  },
+  {
+    "name": "HMG Billfish Shoot Out",
+    "club": "Perth Game Fishing Club",
+    "start": "2027-03-26",
+    "end": "2027-03-29",
+    "status": "tbc",
+    "dateText": "Easter 2027 (dates to be announced)",
+    "url": "https://www.pgfc.com.au/"
+  },
+  {
+    "name": "Jurien Bay WA Open",
+    "club": "Perth Game Fishing Club",
+    "location": "Jurien Bay",
+    "start": "2027-04-15",
+    "url": "https://www.pgfc.com.au/tournaments/wao/",
+    "dateText": "From 15 April 2027",
+    "summary": "PGFC's open game fishing tournament on the Turquoise Coast. The 2026 event was cancelled because of fuel supply issues in the region."
+  },
+  {
+    "name": "Dampier Classic",
+    "club": "King Bay Game Fishing Club",
+    "location": "Dampier",
+    "start": "2027-08-01",
+    "end": "2027-08-31",
+    "status": "tbc",
+    "dateText": "August 2027 (dates to be confirmed)",
+    "url": "https://www.kbgfc.com",
+    "summary": "The four-day Pilbara classic, sanctioned by WAGFA, which recently celebrated its 50th edition."
+  },
+  {
+    "name": "Clash in the Canyon — Presentation Night",
+    "club": "Perth Game Fishing Club",
+    "location": "Fremantle Sailing Club",
+    "start": "2026-11-14",
+    "url": "https://www.pgfc.com.au/tournaments/clash-in-the-canyon/"
+  },
+  {
+    "name": "Season Opener — PGFC Summer Raft Up",
+    "club": "Perth Game Fishing Club",
+    "location": "Mandurah Estuary",
+    "start": "2026-11-07"
+  },
+  {
+    "name": "Clash in the Canyon",
+    "club": "Perth Game Fishing Club",
+    "location": "Perth Canyon",
+    "start": "2026-07-01",
+    "end": "2026-11-13",
+    "url": "https://www.pgfc.com.au/tournaments/clash-in-the-canyon/",
+    "summary": "A season-long tournament targeting broadbill swordfish in the Perth Canyon."
+  },
+  {
+    "name": "Shimano WA Open",
+    "club": "Perth Game Fishing Club",
+    "location": "Jurien Bay",
+    "start": "2026-04-16",
+    "end": "2026-04-18",
+    "status": "cancelled",
+    "summary": "Cancelled because of ongoing fuel supply issues affecting the region."
+  },
+  {
+    "name": "Gamex",
+    "club": "Exmouth Game Fishing Club",
+    "location": "Exmouth",
+    "start": "2023-03-17",
+    "end": "2023-03-25"
+  },
+  {
+    "name": "Billfish Bonanza",
+    "club": "Exmouth Game Fishing Club",
+    "location": "Exmouth",
+    "start": "2020-11-06",
+    "end": "2020-11-08"
+  },
+  {
+    "name": "Australian Junior Billfish Tournament",
+    "club": "Exmouth Game Fishing Club",
+    "location": "Exmouth",
+    "start": "2020-10-02",
+    "end": "2020-10-04"
+  },
+  {
+    "name": "Dampier Classic",
+    "club": "King Bay Game Fishing Club",
+    "location": "Dampier",
+    "start": "2020-08-21",
+    "end": "2020-08-24"
+  }
+]

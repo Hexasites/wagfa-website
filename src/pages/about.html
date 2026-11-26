@@ -1,0 +1,109 @@
+---
+{
+  "title": "About WAGFA",
+  "description": "About the Western Australian Game Fishing Association: who we are, what we do, our history since 1949, the Management Committee and the Constitution.",
+  "nav": "about",
+  "hero": {
+    "eyebrow": "About us",
+    "title": "About WAGFA",
+    "lead": "The peak body for game fishing in Western Australia, representing member clubs from the Kimberley to the Capes since 1949.",
+    "image": "coast-dunes",
+    "watermark": "1949"
+  }
+}
+---
+<section class="section">
+  <div class="container split split--top">
+    <div class="split__text">
+      <p class="eyebrow">Who we are</p>
+      <h2 class="section-title">Coordinating game fishing across Western Australia</h2>
+      <p class="lead">The Western Australian Game Fishing Association was established in {{site.founded}}. It coordinates the activities of game fishing throughout Western Australia on behalf of its member clubs.</p>
+      <p>WAGFA maintains the State game fishing records, holds data on the open tournaments run by its member clubs, and plays a major role in advocacy on behalf of those clubs and game fishing in general.</p>
+      <p>The Association was a founding member of Recfishwest, the State's peak recreational fishing body, and has been represented at board or reference-group level since Recfishwest began. Nationally, WAGFA is a member of the Game Fishing Association of Australia (GFAA), and internationally of the International Game Fish Association (IGFA).</p>
+      <p>The Objects of the Association focus strongly on conservation and on promoting ethical game fishing practices.</p>
+    </div>
+    <aside class="fact-card">
+      <h3 class="fact-card__title">At a glance</h3>
+      <dl class="facts">
+        <div><dt>Established</dt><dd>{{site.founded}}</dd></div>
+        <div><dt>Member clubs</dt><dd>{{@stat clubs}}, from Broome to Busselton</dd></div>
+        <div><dt>State records</dt><dd>{{@stat records}} current records across {{@stat species}} species</dd></div>
+        <div><dt>National body</dt><dd>Game Fishing Association of Australia</dd></div>
+        <div><dt>International</dt><dd>International Game Fish Association</dd></div>
+        <div><dt>In WA</dt><dd>Founding member of Recfishwest</dd></div>
+      </dl>
+    </aside>
+  </div>
+</section>
+
+<section class="section section--sand">
+  <div class="container">
+    <header class="section-head">
+      <p class="eyebrow">What we do</p>
+      <h2 class="section-title">Four things we do for WA game fishing</h2>
+    </header>
+    <div class="cards">
+      <article class="card">{{@icon gf-trophy card__icon}}<h3>Keep the records</h3><p>Our State Recorder maintains the official Western Australian game fishing records for men, women, juniors and small fry across every line class.</p></article>
+      <article class="card">{{@icon gf-lure card__icon}}<h3>Sanction tournaments</h3><p>We sanction member-club tournaments and hold data on the open tournaments run across the State.</p></article>
+      <article class="card">{{@icon landmark card__icon}}<h3>Advocate</h3><p>We speak up for our member clubs and for game fishing, including through Recfishwest and the Game Fishing Association of Australia.</p></article>
+      <article class="card">{{@icon gf-tag card__icon}}<h3>Promote ethical fishing</h3><p>Conservation and ethical practice sit at the heart of our Objects, from tag and release to the rules that govern every capture.</p></article>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container split split--top">
+    <div>
+      <p class="eyebrow">Our history</p>
+      <h2 class="section-title">More than {{@stat years}} years of game fishing</h2>
+      <p class="lead">WAGFA's story begins in 1949, with a group of anglers whose boats could venture to Rottnest Island and beyond.</p>
+      <p>Today the Association represents {{@stat clubs}} clubs, from the tropical waters of the Kimberley to Geographe Bay in the South West.</p>
+    </div>
+    <ol class="timeline">
+      <li class="timeline__item"><span class="timeline__year">1938</span><h3>A national body is formed</h3><p>The national game fishing body, now the Game Fishing Association of Australia, is founded so anglers across the country have a voice and representation.</p></li>
+      <li class="timeline__item"><span class="timeline__year">1949</span><h3>Game fishing organises in WA</h3><p>Around 20 anglers with boats that could venture to Rottnest Island and beyond form a club originally known as the Western Australian Game Fishing Association. Spanish mackerel were plentiful, and marlin were the pinnacle species.</p></li>
+      <li class="timeline__item"><span class="timeline__year">Later</span><h3>A peak body for the State</h3><p>The original club changes its name to the Perth Game Fishing Club, so the WAGFA name can be used by the peak State body representing game fishing.</p></li>
+      <li class="timeline__item"><span class="timeline__year">Recfishwest</span><h3>A founding member</h3><p>WAGFA becomes a founding member of Recfishwest, the State's peak recreational fishing body, and is represented at board or reference-group level from its beginning.</p></li>
+      <li class="timeline__item"><span class="timeline__year">Today</span><h3>{{@stat clubs}} clubs, {{@stat records}} records</h3><p>Member clubs from Broome to Busselton, and {{@stat records}} current State records across {{@stat species}} species.</p></li>
+    </ol>
+  </div>
+</section>
+
+<section class="section section--sand" id="committee">
+  <div class="container">
+    <header class="section-head">
+      <p class="eyebrow">Our people</p>
+      <h2 class="section-title">Management Committee</h2>
+      <p>The Management Committee is elected at the Association's Annual General Meeting.</p>
+    </header>
+    {{@committee}}
+  </div>
+</section>
+
+<section class="section" id="governance">
+  <div class="container grid-2">
+    <div>
+      <p class="eyebrow">Governance</p>
+      <h2 class="section-title">Constitution &amp; By&#8209;laws</h2>
+      <p>The Constitution sets out the Association's Objects and how it is run. The By-laws are made under the Constitution.</p>
+      <div class="callout">{{@icon info}}<p>Member clubs are represented at general meetings by their delegates. Contact the <a href="mailto:{{site.email}}">Secretary</a> about meetings, membership of the Association or governance questions.</p></div>
+    </div>
+    <div>
+      {{@documents governance}}
+    </div>
+  </div>
+</section>
+
+<section class="section section--navy">
+  <div class="container">
+    <header class="section-head">
+      <p class="eyebrow eyebrow--light">Affiliations</p>
+      <h2 class="section-title section-title--light">Part of something bigger</h2>
+    </header>
+    <div class="cards">
+      <a class="card card--dark card--link" href="{{site.links.gfaa}}" target="_blank" rel="noopener"><span class="card__kicker">National</span><h3>GFAA {{@icon arrow-up-right icon--xs}}</h3><p>The Game Fishing Association of Australia, the national body. It administers club, State and Australian records and the angling rules our clubs fish by.</p></a>
+      <a class="card card--dark card--link" href="{{site.links.igfa}}" target="_blank" rel="noopener"><span class="card__kicker">International</span><h3>IGFA {{@icon arrow-up-right icon--xs}}</h3><p>The International Game Fish Association, the world body for ethical angling rules and world records.</p></a>
+      <a class="card card--dark card--link" href="{{site.links.recfishwest}}" target="_blank" rel="noopener"><span class="card__kicker">Western Australia</span><h3>Recfishwest {{@icon arrow-up-right icon--xs}}</h3><p>The peak body for recreational fishing in WA. WAGFA was one of its founding members.</p></a>
+    </div>
+  </div>
+</section>

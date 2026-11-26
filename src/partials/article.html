@@ -1,0 +1,19 @@
+<section class="section">
+  <div class="container article-layout">
+    <article class="prose article">
+      {{{article.body}}}
+      <p class="article__back"><a class="btn btn--outline btn--sm" href="{{root}}news.html">{{@icon arrow-left}}All news</a></p>
+    </article>
+    <aside class="article-aside" aria-labelledby="more-news">
+      <div class="aside-card">
+        <h2 id="more-news">Latest news</h2>
+        {{@newsList 5}}
+      </div>
+      <div class="aside-card aside-card--navy">
+        <h2>Got news to share?</h2>
+        <p>Clubs are welcome to send tournament results, record captures and announcements to the Secretary.</p>
+        <a class="btn btn--gold btn--sm" href="mailto:{{site.email}}">{{@icon mail}}Email the Secretary</a>
+      </div>
+    </aside>
+  </div>
+</section>

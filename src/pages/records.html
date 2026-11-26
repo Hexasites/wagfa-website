@@ -1,0 +1,115 @@
+---
+{
+  "title": "WA State Records",
+  "description": "Search every current Western Australian game fishing record by species, angler category, line class and environment. Sort by weight or date and download the results.",
+  "nav": "records",
+  "scripts": ["records-data.js", "records.js"],
+  "hero": {
+    "eyebrow": "The record book",
+    "title": "WA State Records",
+    "lead": "Search all {{@stat records}} current Western Australian game fishing records by species, angler category, line class or location.",
+    "image": "tuna-school-2",
+    "watermark": "Records"
+  }
+}
+---
+<section class="section section--tight records-summary">
+  <div class="container">
+    <div class="records-summary__inner">
+      <div>
+        <h2 class="records-summary__title">Records by category</h2>
+        {{@categoryCounts}}
+      </div>
+      <div class="records-summary__actions">
+        <a class="btn btn--outline btn--sm" href="{{root}}files/wa-state-records.csv" download>{{@icon download}}Download all (CSV)</a>
+        <a class="btn btn--navy btn--sm" href="{{root}}submit-a-record.html">{{@icon clipboard-check}}Claim a record</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--sand section--flush" id="records-explorer">
+  <div class="container">
+    <form class="filters" role="search" aria-label="Filter records" onsubmit="return false">
+      <div class="field field--search">
+        <label for="rf-q">Search</label>
+        <span class="search-field__wrap">{{@icon search}}<input class="input" id="rf-q" name="q" type="search" placeholder="Species, angler, place" autocomplete="off"></span>
+      </div>
+      <div class="field">
+        <label for="rf-species">Species</label>
+        <select class="select" id="rf-species" name="species"><option value="">All species</option>{{@recordOptions species}}</select>
+      </div>
+      <div class="field">
+        <label for="rf-category">Angler category</label>
+        <select class="select" id="rf-category" name="category"><option value="">All categories</option>{{@recordOptions category}}</select>
+      </div>
+      <div class="field">
+        <label for="rf-line">Line class</label>
+        <select class="select" id="rf-line" name="line"><option value="">Any line</option>{{@recordOptions line}}</select>
+      </div>
+      <div class="field">
+        <label for="rf-environment">Environment</label>
+        <select class="select" id="rf-environment" name="environment"><option value="">Any</option>{{@recordOptions environment}}</select>
+      </div>
+      <div class="field">
+        <label for="rf-sort">Sort by</label>
+        <select class="select" id="rf-sort" name="sort">
+          <option value="species">Species A–Z</option>
+          <option value="heaviest">Heaviest</option>
+          <option value="newest">Newest</option>
+          <option value="oldest">Oldest</option>
+        </select>
+      </div>
+      <button class="filters__reset" type="reset" id="rf-reset">{{@icon rotate-ccw icon--sm}}Reset</button>
+    </form>
+
+    <div class="results">
+      <div class="results-bar">
+        <p class="results-count" id="rf-count" aria-live="polite">Loading records…</p>
+        <button class="btn btn--outline btn--sm" type="button" id="rf-csv">{{@icon download}}Download these results</button>
+      </div>
+      <div class="table-wrap">
+        <table class="table records-table">
+          <caption class="visually-hidden">Western Australian State game fishing records</caption>
+          <thead>
+            <tr><th scope="col">Species</th><th scope="col">Category</th><th scope="col" class="num">Line</th><th scope="col" class="num">Weight</th><th scope="col">Angler</th><th scope="col">Location</th><th scope="col" class="num">Date</th><th scope="col">Environment</th></tr>
+          </thead>
+          <tbody id="rf-body"></tbody>
+        </table>
+        <div class="results-empty" id="rf-empty" hidden>
+          {{@icon gf-tuna}}
+          <p><strong>No records match those filters.</strong><br>Try a different species or category. A vacant line class may be open for a new record.</p>
+        </div>
+        <noscript><p class="results-empty">The record search needs JavaScript. You can <a href="{{root}}files/wa-state-records.csv">download every record as a CSV file</a> instead.</p></noscript>
+      </div>
+      <div class="show-more"><button class="btn btn--navy" type="button" id="rf-more" hidden>Show more</button></div>
+      <p class="records-meta">{{@icon info icon--sm}}Juniors have not turned 16; Small Fry have not turned 11. Records as at {{@recordsAsAt}}. Source: <a href="{{records.sourceUrl}}" target="_blank" rel="noopener">GFAA records database</a> (Western Australia). Records are confirmed by the WAGFA State Recorder; if you think a record is missing or wrong, contact <a href="mailto:{{site.recorderEmail}}">{{site.recorderEmail}}</a>.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container grid-2">
+    <div>
+      <p class="eyebrow">Big fish</p>
+      <h2 class="section-title">Heaviest WA records</h2>
+      <p>The heaviest current State record for each species, across all categories and line classes.</p>
+      {{@heaviestRecords 8}}
+    </div>
+    <div class="stack">
+      <p class="eyebrow">How records work</p>
+      <h2 class="section-title">Categories &amp; classes</h2>
+      <dl class="defs">
+        <div><dt>Angler categories</dt><dd>Male, Female, Junior Male, Junior Female, Small Fry Male and Small Fry Female. Juniors have not turned 16; Small Fry have not turned 11.</dd></div>
+        <div><dt>Line classes</dt><dd>1, 2, 3, 4, 6, 8, 10, 15, 24, 37 and 60 kg, based on the wet-tested breaking strength of the line used.</dd></div>
+        <div><dt>Environments</dt><dd>Saltwater, Saltwater Land-Based, Saltwater Fly, Freshwater and Freshwater Fly.</dd></div>
+        <div><dt>Vacant records</dt><dd>A game fish must weigh at least the line class to claim a vacant record; sharks and rays at least twice the line class.</dd></div>
+      </dl>
+      <ul class="link-list">
+        <li><a href="{{site.links.gfaaCaptureRecords}}" target="_blank" rel="noopener">{{@icon gf-trophy}}Australian capture records (GFAA) {{@icon arrow-up-right icon--xs}}</a></li>
+        <li><a href="{{site.links.gfaaReleaseRecords}}" target="_blank" rel="noopener">{{@icon gf-measure}}Measure &amp; release records (GFAA) {{@icon arrow-up-right icon--xs}}</a></li>
+        <li><a href="{{root}}resources.html#historical">{{@icon scroll-text}}Historical WAGFA record applications</a></li>
+      </ul>
+    </div>
+  </div>
+</section>

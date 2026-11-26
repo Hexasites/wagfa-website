@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Broome Fishing Club",
+    "town": "Broome",
+    "region": "Kimberley",
+    "coords": "17°58′S 122°14′E",
+    "website": "https://www.broomefishingclub.com",
+    "postal": "PO Box 1957, Broome WA 6725",
+    "summary": "Game and sport fishing in the warm tropical waters of the Kimberley."
+  },
+  {
+    "name": "King Bay Game Fishing Club",
+    "town": "Dampier / Karratha",
+    "region": "Pilbara",
+    "coords": "20°40′S 116°43′E",
+    "website": "https://www.kbgfc.com",
+    "email": "presidentkbgfc@gmail.com",
+    "postal": "PO Box 179, Karratha WA 6714",
+    "summary": "Home of the Dampier Classic, the four-day Pilbara tournament that recently celebrated its 50th edition."
+  },
+  {
+    "name": "Exmouth Game Fishing Club",
+    "town": "Exmouth",
+    "region": "Gascoyne",
+    "coords": "21°56′S 114°08′E",
+    "website": "https://www.egfc.com.au",
+    "email": "secretary@egfc.com.au",
+    "postal": "PO Box 121, Exmouth WA 6707",
+    "summary": "Runs Gamex, recognised by Tourism Western Australia as the State's major fishing tournament, on the edge of Ningaloo."
+  },
+  {
+    "name": "Geraldton & Districts Offshore Fishing Club",
+    "town": "Geraldton",
+    "region": "Mid West",
+    "coords": "28°46′S 114°37′E",
+    "website": "https://www.gycwa.com.au/the-club",
+    "email": "gdofccommittee@gmail.com",
+    "postal": "216 Marine Terrace, Geraldton WA 6530",
+    "summary": "Offshore fishing out of Geraldton on the Mid West coast."
+  },
+  {
+    "name": "Jurien Bay Anglers Inc",
+    "town": "Jurien Bay",
+    "region": "Mid West",
+    "coords": "30°18′S 115°02′E",
+    "website": "https://www.facebook.com/groups/927231861637266",
+    "summary": "Anglers on the Turquoise Coast, host waters of the Jurien Bay WA Open."
+  },
+  {
+    "name": "Marmion Angling & Aquatic Club",
+    "town": "Marmion",
+    "region": "Perth",
+    "coords": "31°50′S 115°45′E",
+    "website": "https://www.maac.com.au",
+    "email": "enquiries@maac.com.au",
+    "phone": "(08) 9447 1733",
+    "postal": "PO Box 42, North Beach WA 6920",
+    "summary": "A northern-suburbs club fishing Perth's metropolitan coast."
+  },
+  {
+    "name": "Perth Game Fishing Club",
+    "town": "Perth",
+    "region": "Perth",
+    "coords": "31°57′S 115°51′E",
+    "website": "https://www.pgfc.com.au",
+    "email": "contact@pgfc.com.au",
+    "phone": "0413 623 352",
+    "postal": "PO Box 57, North Beach WA 6920",
+    "summary": "Formed in 1949 as the original WAGFA. Runs the Marlin Cup, the Jurien Bay WA Open and the metropolitan FAD program."
+  },
+  {
+    "name": "Nor-West Game Fishing Club",
+    "town": "Perth",
+    "region": "Perth",
+    "coords": "32°01′S 115°52′E",
+    "website": "https://www.nwgfc.com.au",
+    "postal": "PO Box 1176, Bentley DC WA 6983"
+  },
+  {
+    "name": "Fremantle Sailing Club – Game Fishing Section",
+    "town": "Fremantle",
+    "region": "Perth",
+    "coords": "32°03′S 115°45′E",
+    "website": "https://www.fsc.com.au",
+    "postal": "151 Marine Terrace, Fremantle WA 6160",
+    "summary": "The game fishing section of the Fremantle Sailing Club."
+  },
+  {
+    "name": "Cockburn Power Boat Club",
+    "town": "Coogee",
+    "region": "Perth",
+    "coords": "32°08′S 115°46′E",
+    "website": "https://www.cpb.org.au",
+    "postal": "28 Jervoise Bay Cove, Coogee WA 6166",
+    "summary": "Boating and fishing out of Jervoise Bay and Cockburn Sound."
+  },
+  {
+    "name": "Naturaliste Game & Sport Fishing Club",
+    "town": "Busselton",
+    "region": "South West",
+    "coords": "33°39′S 115°21′E",
+    "website": "https://www.facebook.com/groups/18459068895",
+    "postal": "PO Box 441, Busselton WA 6280",
+    "summary": "Game and sport fishing off Geographe Bay and Cape Naturaliste."
+  }
+]

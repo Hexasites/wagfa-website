@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+{{> head}}
+</head>
+<body class="{{bodyClass}}">
+<!--SPRITE-->
+<a class="skip-link" href="#main">Skip to main content</a>
+{{> header}}
+<main id="main" tabindex="-1">
+{{{hero}}}
+{{{content}}}
+</main>
+{{> acknowledgement}}
+{{> footer}}
+<script src="{{root}}assets/js/main.js" defer></script>
+<!--SCRIPTS-->
+</body>
+</html>

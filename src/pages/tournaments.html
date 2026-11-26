@@ -1,0 +1,76 @@
+---
+{
+  "title": "Tournaments",
+  "description": "Game fishing tournaments run by WAGFA member clubs across Western Australia, plus how clubs get a tournament sanctioned.",
+  "nav": "tournaments",
+  "hero": {
+    "eyebrow": "On the water",
+    "title": "Tournaments",
+    "lead": "Game fishing tournaments run by our member clubs, from Ningaloo to the Perth Canyon, and how to get your event sanctioned.",
+    "image": "coast-lagoon",
+    "watermark": "Calendar"
+  }
+}
+---
+<section class="section">
+  <div class="container grid-main-aside">
+    <div>
+      <header class="section-head">
+        <p class="eyebrow">Calendar</p>
+        <h2 class="section-title">Upcoming tournaments &amp; events</h2>
+        <p>Events run by WAGFA member clubs. Follow the links for entry details, rules and prizes from the host club.</p>
+      </header>
+      {{@eventCards upcoming 12}}
+      <p class="fine-print">{{@icon info icon--sm}} Dates marked TBC are indicative only. Please confirm with the host club before you plan your trip.</p>
+    </div>
+    <aside class="stack">
+      <div class="aside-card aside-card--navy">
+        <h2>Listing your event</h2>
+        <p>Member clubs can send tournament dates, results and notices to the Secretary to be listed here.</p>
+        <a class="btn btn--gold btn--sm" href="mailto:{{site.email}}?subject=Tournament%20listing">{{@icon mail}}Send event details</a>
+      </div>
+      <div class="aside-card">
+        <h2>Host club pages</h2>
+        <ul class="link-list">
+          <li><a href="https://www.pgfc.com.au/" target="_blank" rel="noopener">{{@icon map-pin}}Perth Game Fishing Club {{@icon arrow-up-right icon--xs}}</a></li>
+          <li><a href="https://www.egfc.com.au" target="_blank" rel="noopener">{{@icon map-pin}}Exmouth Game Fishing Club {{@icon arrow-up-right icon--xs}}</a></li>
+          <li><a href="https://www.kbgfc.com" target="_blank" rel="noopener">{{@icon map-pin}}King Bay Game Fishing Club {{@icon arrow-up-right icon--xs}}</a></li>
+          <li><a href="{{root}}clubs.html">{{@icon map-pin}}All member clubs</a></li>
+        </ul>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<section class="section section--navy" id="sanctioning">
+  <div class="container split split--top">
+    <div>
+      <p class="eyebrow eyebrow--light">For clubs</p>
+      <h2 class="section-title section-title--light">Sanctioning a tournament</h2>
+      <p class="lead lead--light">Sanctioning confirms your tournament meets WAGFA's requirements, and it protects your anglers' record claims.</p>
+      <p>The Game Fishing Association of Australia does not accept record applications generated from within a non-sanctioned tournament, other than an internal club competition.</p>
+      <ol class="steps steps--dark">
+        <li class="step"><h3>Download the pack</h3><p>Read the overview and requirements in the Tournament Sanctioning Pack.</p></li>
+        <li class="step"><h3>Request sanctioning</h3><p>Complete the request form and send it to the WAGFA Secretary ahead of your event.</p></li>
+        <li class="step"><h3>Report afterwards</h3><p>After the event, complete and return the tournament report form.</p></li>
+      </ol>
+    </div>
+    <div class="stack">
+      <div class="panel">
+        <h3 class="panel__title">{{@icon download}}Tournament Sanctioning Pack</h3>
+        {{@documents tournaments}}
+        <p class="panel__note">{{@icon info icon--sm}}The spreadsheet (XLSX) forms are recommended. Fillable PDFs may not save if opened in a web browser; use Adobe Reader.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="past">
+  <div class="container">
+    <header class="section-head">
+      <p class="eyebrow">Archive</p>
+      <h2 class="section-title">Past tournaments</h2>
+    </header>
+    {{@events past 99 compact}}
+  </div>
+</section>

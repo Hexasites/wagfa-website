@@ -1,0 +1,73 @@
+<footer class="site-footer">
+  <img class="site-footer__bg" src="{{root}}assets/img/tuna-school-2-960.jpg" alt="" loading="lazy" decoding="async">
+  <div class="container">
+    <div class="site-footer__top">
+      <a class="site-footer__logo" href="{{root}}index.html"><img src="{{root}}assets/img/wagfa-logo-white.svg" alt="WAGFA home" width="118" height="104" loading="lazy"></a>
+      <ul class="site-footer__nav">
+        <li><a href="{{root}}index.html">Home</a></li>
+        <li><a href="{{root}}about.html">About</a></li>
+        <li><a href="{{root}}records.html">Records</a></li>
+        <li><a href="{{root}}clubs.html">Clubs</a></li>
+        <li><a href="{{root}}tournaments.html">Tournaments</a></li>
+        <li><a href="{{root}}contact.html">Contact</a></li>
+      </ul>
+    </div>
+
+    <div class="site-footer__grid">
+      <div>
+        <h2>Contact</h2>
+        <address>
+          <span>PO Box 941<br>Claremont WA 6910</span>
+          <a href="mailto:{{site.email}}">E: {{site.email}}</a>
+          <a href="mailto:{{site.recorderEmail}}">Records: {{site.recorderEmail}}</a>
+        </address>
+      </div>
+      <nav aria-labelledby="f-records">
+        <h2 id="f-records">Records</h2>
+        <ul>
+          <li><a href="{{root}}records.html">WA State Records</a></li>
+          <li><a href="{{root}}submit-a-record.html">Submit a record</a></li>
+          <li><a href="{{site.links.gfaaCaptureRecords}}" target="_blank" rel="noopener">Australian records&nbsp;{{@icon arrow-up-right}}</a></li>
+          <li><a href="{{site.links.gfaaReleaseRecords}}" target="_blank" rel="noopener">Release records&nbsp;{{@icon arrow-up-right}}</a></li>
+          <li><a href="{{root}}resources.html#historical">Historical records</a></li>
+        </ul>
+      </nav>
+      <nav aria-labelledby="f-resources">
+        <h2 id="f-resources">Resources</h2>
+        <ul>
+          <li><a href="{{root}}resources.html#rules">Angling rules</a></li>
+          <li><a href="{{root}}weigh-master.html">Weigh Master course</a></li>
+          <li><a href="{{root}}tag-and-release.html">Tag &amp; Release</a></li>
+          <li><a href="{{root}}resources.html#downloads">Forms &amp; downloads</a></li>
+          <li><a href="{{root}}news.html">News</a></li>
+        </ul>
+      </nav>
+      <nav aria-labelledby="f-affiliations">
+        <h2 id="f-affiliations">Affiliations</h2>
+        <ul>
+          <li><a href="{{site.links.gfaa}}" target="_blank" rel="noopener">Game Fishing Association of Australia&nbsp;{{@icon arrow-up-right}}</a></li>
+          <li><a href="{{site.links.igfa}}" target="_blank" rel="noopener">International Game Fish Association&nbsp;{{@icon arrow-up-right}}</a></li>
+          <li><a href="{{site.links.recfishwest}}" target="_blank" rel="noopener">Recfishwest&nbsp;{{@icon arrow-up-right}}</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <div class="footer-search">
+      <h2>Quick Record Search</h2>
+      <form action="{{root}}records.html#records-explorer" role="search">
+        <label class="visually-hidden" for="footer-q">Search State records by species, angler or place</label>
+        <input id="footer-q" type="search" name="q" placeholder="Species, angler or place">
+        <button type="submit" aria-label="Search records">{{@icon arrow-right}}</button>
+      </form>
+    </div>
+
+    <div class="site-footer__bottom">
+      <p>© {{@year}} Western Australian Game Fishing Association</p>
+      <ul>
+        <li><a href="{{root}}credits.html">Credits</a></li>
+        <li><a href="{{root}}sitemap.xml">Sitemap</a></li>
+        <li><a href="#main">Back to top</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
