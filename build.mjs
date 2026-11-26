@@ -150,17 +150,14 @@ const components = {
     const h = ctx.page.hero;
     const t = (s) => esc(render(String(s), ctx)); // allows {{@stat …}} inside hero text
     const crumbs = [`<a href="${ctx.root}index.html">Home</a>`, ...(h.crumbs || []).map((c) => `<a href="${ctx.root}${c.href}">${esc(c.label)}</a>`), `<span aria-current="page">${esc(h.crumb || h.title)}</span>`];
-    const aside = h.aside === 'coastline' ? components.coastline(ctx) : '';
-    const text = `${h.eyebrow ? `<p class="eyebrow eyebrow--light${aside ? '' : ' eyebrow--center'}">${t(h.eyebrow)}</p>` : ''}
-    <h1 class="page-hero__title">${t(h.title)}</h1>
-    ${h.lead ? `<p class="page-hero__lead">${t(h.lead)}</p>` : ''}
-    <nav class="breadcrumbs" aria-label="Breadcrumb">${crumbs.join(`<span class="breadcrumbs__sep" aria-hidden="true">/</span>`)}</nav>`;
-    return `<section class="page-hero${aside ? ' page-hero--split' : ''}">
+    return `<section class="page-hero">
   <div class="page-hero__media">${img(ctx, h.image, '', { eager: true, pos: h.position || '' })}</div>
   <div class="page-hero__shade"></div>
   <div class="container page-hero__inner">
-    ${aside ? `<div class="page-hero__text">${text}</div>
-    <aside class="page-hero__aside" aria-label="Member clubs from north to south"><p class="page-hero__aside-title">From the Kimberley to the Capes</p>${aside}</aside>` : text}
+    ${h.eyebrow ? `<p class="eyebrow eyebrow--center eyebrow--light">${t(h.eyebrow)}</p>` : ''}
+    <h1 class="page-hero__title">${t(h.title)}</h1>
+    ${h.lead ? `<p class="page-hero__lead">${t(h.lead)}</p>` : ''}
+    <nav class="breadcrumbs" aria-label="Breadcrumb">${crumbs.join(`<span class="breadcrumbs__sep" aria-hidden="true">/</span>`)}</nav>
   </div>
 </section>`;
   },
