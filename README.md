@@ -136,7 +136,7 @@ The layout follows the **Odysea** template ([askproject.net/odysea](https://askp
 
 The live wagfa.asn.au could not be read directly while this was built (it is HTTP-only and was blocked from the build environment). Its content was gathered from search-engine copies of its pages, the GFAA website and the Perth Game Fishing Club website. Please check the following.
 
-1. **Upload the documents.** Nine files from the current site's Help Files and Constitution pages are listed in `src/files/README.md`. Until they're added, those downloads show "To be uploaded".
+1. **Documents.** The nine files from the old site's Help Files and Constitution pages were copied into `src/files/` on 27 November 2026. Several date from 2015–2019; ask WAGFA whether newer versions exist.
 2. **Logo.** The site uses the official WAGFA logo, traced to SVG from the supplied artwork (`src/assets/img/wagfa-logo.svg`, plus `wagfa-logo-white.svg` for dark backgrounds). The favicon, app icon and social image (`og-image.jpg`) are made from it. If WAGFA has the original vector file, swap it in for the sharpest result.
 3. **Photos.** The photos are Creative Commons images from Wikimedia Commons (credited on the Credits page). Swap in WAGFA and club photos where you can: anglers, boats, weigh stations, presentations.
 4. **Management Committee.** Taken from the current site's "2025 Management Committee" page (elected at the AGM on 3 May 2025). GFAA's directory lists Tracy Blackwell as WAGFA Secretary, which may reflect a later change. Confirm before launch.
