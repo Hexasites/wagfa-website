@@ -4,9 +4,11 @@
     "town": "Broome",
     "region": "Kimberley",
     "coords": "17°58′S 122°14′E",
-    "website": "https://www.broomefishingclub.com",
+    "website": "https://broomefishingclub.com/",
     "postal": "PO Box 1957, Broome WA 6725",
-    "summary": "Game and sport fishing in the warm tropical waters of the Kimberley."
+    "summary": "Game and sport fishing in the warm tropical waters of the Kimberley.",
+    "logo": "clubs/broome-fishing-club.png",
+    "logoBg": "#ffffff"
   },
   {
     "name": "King Bay Game Fishing Club",
@@ -131,7 +133,8 @@
     "town": "Busselton",
     "region": "South West",
     "coords": "33°39′S 115°21′E",
-    "website": "https://www.facebook.com/groups/18459068895",
+    "website": "https://www.revolutionise.com.au/ngsfc",
+    "email": "ngfclub@outlook.com.au",
     "postal": "PO Box 441, Busselton WA 6280",
     "summary": "Game and sport fishing off Geographe Bay and Cape Naturaliste.",
     "logo": "clubs/naturaliste-game-sport-fishing-club.jpg",
