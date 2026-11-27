@@ -114,7 +114,7 @@ The layout follows the **Odysea** template ([askproject.net/odysea](https://askp
 | About: photo, badge and six icon features | About WAGFA with a "1949 Established" badge; the features link to records, tournaments, clubs, tag & release, weigh masters and angling rules |
 | Numbered services over a photo | What we do: official State records, sanctioned tournaments, a voice for clubs, ethical fishing |
 | Yacht cards | Upcoming tournament cards: host club, dates, place, "Dates TBC" badge, link to the club |
-| Client logo strip | The 11 member clubs, each linking to its directory entry |
+| Client logo strip | The member clubs, each linking to its directory entry |
 | "Get started" gradient band | "Game fishing in WA starts at your local club" |
 | Testimonial slider | Record spotlight: the heaviest current State record for leading species |
 | Why choose us, photo mosaic | Why join a club, photo gallery |
@@ -140,7 +140,7 @@ The live wagfa.asn.au could not be read directly while this was built (it is HTT
 2. **Logo.** The site uses the official WAGFA logo, traced to SVG from the supplied artwork (`src/assets/img/wagfa-logo.svg`, plus `wagfa-logo-white.svg` for dark backgrounds). The favicon, app icon and social image (`og-image.jpg`) are made from it. If WAGFA has the original vector file, swap it in for the sharpest result.
 3. **Photos.** The photos are Creative Commons images from Wikimedia Commons (credited on the Credits page). Swap in WAGFA and club photos where you can: anglers, boats, weigh stations, presentations.
 4. **Management Committee.** Taken from the current site's "2025 Management Committee" page (elected at the AGM on 3 May 2025). GFAA's directory lists Tracy Blackwell as WAGFA Secretary, which may reflect a later change. Confirm before launch.
-5. **Member clubs.** The 11 clubs are the list on the current WAGFA homepage. GFAA's directory also lists **Ocean Reef Sea Sports Club** as a WA affiliate; confirm whether to add it. Club addresses, websites and emails come from GFAA's WA club directory and the current site. Personal mobile numbers and home addresses were deliberately left out.
+5. **Member clubs.** There are 12 clubs: the 11 listed on the old WAGFA homepage, plus **Ocean Reef Sea Sports Club**, added on 27 November 2026 after the club announced its WAGFA and GFAA affiliation for the 2026/27 season. Club addresses, websites and emails come from GFAA's WA club directory and the current site. Personal mobile numbers and home addresses were deliberately left out.
 6. **Records.** Data is from the GFAA database (WA) as at 25 November 2026. Ask the State Recorder to confirm it matches WAGFA's official list. Known issues in the source data:
    - *Trevally, Big Eye*, Junior Male, 2 kg line: the angler's surname was in the weight column and the weight is missing. It shows as "Zak Wheelock", weight "—".
    - The source spells "Spangled Emporer"; the site shows "Spangled Emperor".
