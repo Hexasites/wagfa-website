@@ -55,6 +55,19 @@
     "logoBg": "#031628"
   },
   {
+    "name": "Ocean Reef Sea Sports Club",
+    "town": "Ocean Reef",
+    "region": "Perth",
+    "coords": "31°45′S 115°44′E",
+    "website": "https://www.orssc.asn.au/angling",
+    "email": "office@orssc.asn.au",
+    "phone": "(08) 9401 8800",
+    "postal": "PO Box 59, Hillarys WA 6023",
+    "summary": "A community sea sports club at Ocean Reef Marina, established in 1973. Its angling section runs monthly boat and beach competitions, and its members fish WAGFA-sanctioned events from the 2026/27 season.",
+    "logo": "clubs/ocean-reef-sea-sports-club.png",
+    "logoBg": "#ffffff"
+  },
+  {
     "name": "Marmion Angling & Aquatic Club",
     "town": "Marmion",
     "region": "Perth",
