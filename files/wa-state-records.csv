@@ -1,0 +1,901 @@
+﻿Species,Category,Environment,Line class (kg),First name,Surname,Weight (kg),Location,Date
+Amberjack,Male,Saltwater,2,Dylan,Picken,3.32,"Jurien Bay, WA",2024-04-06
+Amberjack,Male,Saltwater,3,J,Nelson,6.82,Rowley Shoals,1980-09-26
+Amberjack,Male,Saltwater,6,Shane,Walton,13.15,Jurien Bay,2014-02-22
+Amberjack,Male,Saltwater,8,Tom,Miller,15.25,Bunbury,2016-08-25
+Amberjack,Small Fry Male,Saltwater,4,Rhys,Martin,14.66,Jurien Bay,2023-04-16
+Barracuda,Male,Saltwater,1,Ryan,Turner,6.62,Dampier,2016-07-30
+Barracuda,Male,Saltwater,2,Warren,Newman,10.9,Exmouth,1989-12-06
+Barracuda,Male,Saltwater,3,Mark,Tas,13.6,Mackerel Island,2001-09-17
+Barracuda,Male,Saltwater,4,Michael G,Burrage,7.2,Pt Hedland,1996-07-14
+Barracuda,Male,Saltwater,6,Jack,Weiss,13,Mackerel Is,1990-09-05
+Barracuda,Male,Saltwater,8,Phil,Tickle,27.1,Exmouth,1992-10-31
+Barracuda,Male,Saltwater,15,Steve,Cook,20.2,Pt Hedland,1996-07-17
+Barracuda,Female,Saltwater,1,Chloe,Hornhardt,2.58,Dampier,2016-07-01
+Barracuda,Female,Saltwater,2,Vickie,Searle,13.4,Dampier,2016-08-01
+Barracuda,Female,Saltwater,3,Anna,Passmore,6.28,Exmouth,2019-11-23
+Barracuda,Female,Saltwater,4,Patti,Horwood,12.9,Mackerel Is,1986-09-23
+Barracuda,Female,Saltwater,6,Joy,Burrage,7.6,Pt Hedland,1997-03-16
+Barracuda,Female,Saltwater,8,Kay,Webber,25.2,Coral Bay,1984-07-02
+Barracuda,Female,Saltwater,10,Rhonda,Kelly,19.1,Exmouth,1996-10-28
+Barracuda,Female,Saltwater,15,Katherine,Webber,31.6,Coral Bay,1984-09-04
+Barracuda,Junior Male,Saltwater,1,Trent,Gregory,2.9,Exmouth,2017-03-20
+Barracuda,Junior Male,Saltwater,2,Clinton,Damian,8.9,Exmouth,2000-10-27
+Barracuda,Junior Male,Saltwater,3,Andrew,Epding,9.4,Exmouth,2000-05-24
+Barracuda,Junior Male,Saltwater,6,Ashley,Magee,9,Pt Hedland,1996-07-13
+Barracuda,Junior Male,Saltwater,8,Brendon,Hourn,16.2,Exmouth,2002-06-16
+Barracuda,Junior Male,Saltwater Land-Based,3,Nelson R,Jeffs,9.5,Pt Hedland,1998-11-08
+Barracuda,Junior Female,Saltwater,1,Jesse,Sutton,4.2,Exmouth,2019-03-29
+Barracuda,Junior Female,Saltwater,2,Chloe,Hornhardt,8.66,Dampier,2017-05-21
+Barracuda,Junior Female,Saltwater,4,Patti,Horwood,12.9,Mackerel Is,1986-09-23
+Barracuda,Small Fry Male,Saltwater,3,Dale,Spera,7.4,Pt Headland,2006-04-14
+Barracuda,Small Fry Male,Saltwater,4,Joshua,Spera,6.4,Pt Headland,2007-04-17
+Barracuda,Small Fry Female,Saltwater,2,Jessica,Hornhardt,4.54,Dampier,2017-05-21
+Barramundi,Male,Freshwater,1,Anthony,Boekhorst,11.6,Pt Hedland,2002-10-30
+Barramundi,Male,Freshwater,2,Anthony,Boekhorst,15.3,Pt Hedland,1994-10-29
+Barramundi,Male,Freshwater,3,Gavin,Maher,22.1,Pt Hedland,1997-12-08
+Barramundi,Male,Freshwater,4,Dion,Paunich,19.2,Pt Hedland,1994-10-27
+Barramundi,Male,Freshwater,6,Ted,Adams,17.3,Pt Hedland,1994-10-05
+Barramundi,Male,Freshwater,8,Anthony,Boekhorst,15.7,Pt Hedland,1994-10-29
+Barramundi,Female,Freshwater,1,Vicki,Searle,3.9,Karratha,2008-11-09
+Barramundi,Female,Freshwater,2,Vicki,Searle,6.8,Karratha,2003-12-21
+Barramundi,Female,Freshwater,3,Narelle,Hickling,11,Pt Hedland,2003-04-27
+Barramundi,Female,Freshwater,4,Justine,Boekhorst,18.8,Pt Hedland,2002-12-16
+Barramundi,Female,Freshwater,6,Clorinda,Boekhorst,17.6,Pt Hedland,1998-10-17
+Barramundi,Female,Freshwater,8,Talisha,Cook,12.2,Fortescue R,2004-12-05
+Barramundi,Junior Female,Freshwater,3,Shanae,Cook,9.4,Georges River,2006-12-31
+Barramundi,Junior Female,Freshwater,4,Justine,Boekhorst,9.6,Pt Hedland,1998-11-30
+Barramundi,Junior Female,Freshwater,8,Talisha,Cook,12.2,Fortescue R,2004-12-05
+Barramundi,Small Fry Male,Freshwater,4,Mitchel,Owens,6,Karratha,2003-12-18
+Barramundi,Small Fry Female,Freshwater,3,Shanae,Cook,9.4,George River,2006-12-31
+Barramundi,Small Fry Female,Freshwater,8,Talisha,Cook,12.2,Fortescue R,2004-12-05
+Bonito,Male,Saltwater,1,Ken,Irvine,2.83,Geographe Bay,2000-05-21
+Bonito,Male,Saltwater,2,John,Williams,4.7,Augusta,1989-03-27
+Broadbill,Male,Saltwater,24,Aaron,Scott,107.74,Exmouth,2026-03-15
+Broadbill,Male,Saltwater,37,John,Fraurud,148.66,Exmouth,2022-01-20
+Broadbill,Male,Saltwater,60,James,Ancell,156.3,Rottnest Trench,2024-08-04
+Broadbill,Female,Saltwater,37,Alysa,Barnett,77.4,Naturaliste,2026-08-13
+Broadbill,Female,Saltwater,60,Tracy,Rushford,87,Exmouth,2007-03-22
+Chinaman,Male,Saltwater,1,Jackson,Tatham,3.9,Dampier,2013-08-03
+Chinaman,Male,Saltwater,2,Tim,Perry,9.75,Dampier,2007-08-12
+Chinaman,Male,Saltwater,3,Warren,Tucker,11.06,Dampier,2017-08-19
+Chinaman,Male,Saltwater,4,Mark,Cottrell,13.2,Dampier,1996-08-03
+Chinaman,Male,Saltwater,6,Anthony,Giles,10,Pt Hedland,1996-07-14
+Chinaman,Female,Saltwater,3,Rachael,Green,9.6,Pt Hedland,1998-04-10
+Chinaman,Female,Saltwater,4,Rachael,Green,5.4,Pt Hedland,1998-06-07
+Chinaman,Female,Saltwater,6,Lorena,Hrbut,8.68,Exmouth,2026-03-19
+Chinaman,Junior Male,Saltwater,1,Jackson,Tatham,3.9,Dampier,2013-08-03
+Chinaman,Junior Male,Saltwater,2,Rhys,Clatworthy,2.4,Exmouth,2007-03-23
+Chinaman,Junior Male,Saltwater,3,Toby,Mason,5.07,Dampier,2016-06-19
+Chinaman,Small Fry Male,Saltwater,1,Jackson,Tatham,3.9,Dampier,2013-08-03
+Cobia,Male,Saltwater,1,Ryley,Hinchcliffe,12.1,Dampier,2026-07-20
+Cobia,Male,Saltwater,2,Scott,Sharpe,13,Dampier,2016-05-29
+Cobia,Male,Saltwater,3,Toby,Mason,17.1,Dampier,2016-10-06
+Cobia,Male,Saltwater,4,Michael,Quillian,16.1,Dampier,1978-10-28
+Cobia,Male,Saltwater,6,John,Walker,22.4,Pt Hedland,1993-06-28
+Cobia,Male,Saltwater,8,Peter,Mallia,19.8,Kalbarri,1997-01-02
+Cobia,Male,Saltwater,10,Matthew,Rack,36.4,Dampier,1976-10-13
+Cobia,Male,Saltwater,15,David,Hugill,16,Kalbarri,1996-05-12
+Cobia,Male,Saltwater Land-Based,4,Mark,Hourn,10,Exmouth,2000-11-19
+Cobia,Male,Saltwater Land-Based,8,Timothy,Wedding,18.6,Shark Bay,1994-01-15
+Cobia,Male,Saltwater Fly,10,Ryan,Turner,20.85,Dampier,2013-10-05
+Cobia,Female,Saltwater,2,Tameeka,Dodd,20.07,Dampier,2020-08-24
+Cobia,Female,Saltwater,3,Chloe,Hornhardt,14.66,Dampier,2016-10-23
+Cobia,Female,Saltwater,4,Sheridan,Munds,15.2,Karratha,2001-03-31
+Cobia,Female,Saltwater,6,Frances,White,15,Dampier,1993-10-09
+Cobia,Female,Saltwater,8,Jo,Decker,13.2,Exmouth,2009-04-01
+Cobia,Female,Saltwater,10,Bronwyn,Rack,16.5,Dampier,1978-10-29
+Cobia,Junior Male,Saltwater,3,Toby,Mason,17.1,Dampier,2016-10-06
+Cobia,Junior Male,Saltwater,4,Grant,Gregory,13.5,Exmouth,1992-01-19
+Cobia,Junior Male,Saltwater,6,Ethan,Moyle,15.15,Dampier,2017-09-16
+Cobia,Junior Female,Saltwater,1,Jesse,Sutton,6.2,Exmouth,2020-03-19
+Cobia,Junior Female,Saltwater,3,Chloe,Hornhardt,14.66,Dampier,2016-10-23
+Cobia,Junior Female,Saltwater,4,Luna,Minogue,11.86,Dampier,2026-07-11
+Cobia,Small Fry Male,Saltwater,3,Max,Grasso,8.36,Dampier,2020-08-28
+Cobia,Small Fry Male,Saltwater,6,Max,Grasso,11.56,Dampier,2017-10-02
+Cobia,Small Fry Male,Saltwater,8,Max,Grasso,11.1,Dampier,2020-08-13
+Cobia,Small Fry Female,Saltwater,2,Jessica,Hornhardt,2.54,Dampier,2018-02-25
+Cobia,Small Fry Female,Saltwater,3,Bridie,Turner,8.96,Dampier,2026-10-05
+Cobia,Small Fry Female,Saltwater,4,Shanae,Cook,7.5,Dampier,2006-01-08
+Cobia,Small Fry Female,Saltwater,6,Luna,Minogue,6.44,Dampier,2022-10-15
+Eagle Ray,Male,Saltwater,2,Phillip,Nicholls,6.8,Geographe Bay,1992-04-11
+Eagle Ray,Male,Saltwater,6,Bruce,McCormick,21.4,Cape Naturaliste,1992-04-11
+Eagle Ray,Junior Male,Saltwater,3,Lochlan,Turrell,18.5,Mandurah WA,2024-05-18
+Eagle Ray,Junior Male,Saltwater,4,Lochlan,Turrell,13,Peel Estuary,2026-07-06
+Eagle Ray,Junior Male,Saltwater,6,Lochlan,Turrell,15.1,Dawesville,2025-01-13
+Eagle Ray,Small Fry Male,Saltwater,4,Lochlan,Turrell,10.97,Mandurah,2018-08-17
+"Jewfish, Black",Male,Saltwater,3,Justin,Trigwell,8.2,Roebuck Bay,2009-03-15
+"Jewfish, Black",Male,Saltwater,4,Justin,Leech,18.8,Dampier,2014-08-02
+"Jewfish, Black",Male,Saltwater,6,Jake,O'Brien,13.6,Port Hedland,2007-11-18
+"Jewfish, Black",Male,Saltwater,8,Jeffrey,Cooper,11,Broome,2008-05-03
+"Jewfish, Black",Male,Saltwater,10,Andrew,Crosby,17,Broome,2007-05-12
+"Jewfish, Black",Female,Saltwater,10,Karen,Crosby,15.2,Broome,2008-03-23
+"Jewfish, Black",Junior Male,Saltwater,8,Eric,Locke,11,Roebuck Bay,2009-03-15
+"Jewfish, Black",Junior Male,Saltwater,10,Tristan L,Francks,14.4,Broome,2007-08-08
+"Kingfish, Yellowtail",Male,Saltwater,1,Dean,Eggleston,3.98,Yallingup,2001-07-15
+"Kingfish, Yellowtail",Male,Saltwater,2,Dean,Eggleston,5.15,Yallingup,2001-08-18
+"Kingfish, Yellowtail",Male,Saltwater,3,Carl,Babarskas,3.15,Lancelin,2001-01-27
+"Kingfish, Yellowtail",Male,Saltwater,4,Mark,Brown,16,Yallingup,2004-03-13
+"Kingfish, Yellowtail",Male,Saltwater,6,Warren,Jolley,14.85,Jurien Bay,2019-04-13
+"Kingfish, Yellowtail",Male,Saltwater,8,John,Holmes,21.67,Jurien Bay,2024-04-06
+"Kingfish, Yellowtail",Male,Saltwater,10,Marley,Puru,18,Rottnest Is,2024-11-07
+"Kingfish, Yellowtail",Male,Saltwater,15,Tom,Miller,23.84,Geographe Bay,2022-11-20
+"Kingfish, Yellowtail",Female,Saltwater,2,Faye,Pike,2,Cape Nat,1990-03-31
+"Kingfish, Yellowtail",Junior Male,Saltwater,2,Carl,Babarskas,2.99,Lancelin,2001-03-03
+"Kingfish, Yellowtail",Junior Male,Saltwater,3,Carl,Babarskas,3.15,Lancelin,2001-01-27
+"Mackerel, Broad Barred",Male,Saltwater,1,Ryley,Hinchcliffe,6.98,Dampier,2019-07-20
+"Mackerel, Broad Barred",Male,Saltwater,2,Russell J,Leaver,7.4,Dampier,1997-06-08
+"Mackerel, Broad Barred",Male,Saltwater,3,Jackson,Tathma,7.9,Dampier,2012-04-29
+"Mackerel, Broad Barred",Male,Saltwater,4,Darryn,Dhu,8.76,Dampier,2025-08-23
+"Mackerel, Broad Barred",Male,Saltwater,6,Glen . E .,Walker,8,Dampier,1992-07-06
+"Mackerel, Broad Barred",Female,Saltwater,2,Joanne,Tatham,7.36,Dampier,2019-08-18
+"Mackerel, Broad Barred",Female,Saltwater,3,Vicki,Searle,8.14,Dampier,2019-09-13
+"Mackerel, Broad Barred",Female,Saltwater,4,Jo,Decker,7.4,Exmouth,2010-08-21
+"Mackerel, Broad Barred",Junior Male,Saltwater,1,Toby,Mason,6.16,Dampier,2016-07-29
+"Mackerel, Broad Barred",Junior Male,Saltwater,2,Ryley,Hinchcliffe,7.2,Dampier,2016-08-21
+"Mackerel, Broad Barred",Junior Male,Saltwater,3,Jackson,Tatham,7.9,Dampier,2012-04-29
+"Mackerel, Broad Barred",Junior Male,Saltwater,4,Cooper,Hinchcliffe,6.16,Dampier,2019-07-20
+"Mackerel, Broad Barred",Junior Male,Saltwater,6,Max,Grasso,6.56,Pt Samson,2021-10-09
+"Mackerel, Broad Barred",Junior Female,Saltwater,2,Tasmin,Kyle,5.88,Dampier,2016-08-06
+"Mackerel, Broad Barred",Junior Female,Saltwater,3,Jessica,Hornhardt,6.85,Dampier,2022-08-28
+"Mackerel, Broad Barred",Junior Female,Saltwater,4,Jessica,Hornhardt,6.97,Dampier,2021-10-24
+"Mackerel, Broad Barred",Small Fry Male,Saltwater,2,Jackson,Tatham,6.9,Dampier,2011-06-25
+"Mackerel, Broad Barred",Small Fry Male,Saltwater,3,Jackson,Tatham,7.9,Dampier,2012-04-29
+"Mackerel, Broad Barred",Small Fry Male,Saltwater,4,Jackson,Tatham,5.9,Dampier,2012-04-28
+"Mackerel, Broad Barred",Small Fry Male,Saltwater,6,Max,Grasso,6.12,Dampier,2018-04-17
+"Mackerel, Broad Barred",Small Fry Female,Saltwater,2,Jessica,Hornhardt,4.88,Pt Samson,2017-11-18
+"Mackerel, Broad Barred",Small Fry Female,Saltwater,3,Jessica,Hornhardt,4.44,Dampier,2016-09-10
+"Mackerel, Broad Barred",Small Fry Female,Saltwater,4,Mia,Grasso,5.5,Dampier,2022-08-26
+"Mackerel, Narrow Barred",Male,Saltwater,1,Troy,Wright,13.9,Exmouth,2000-10-20
+"Mackerel, Narrow Barred",Male,Saltwater,2,Mike,Smith,17.3,Exmouth,2001-11-04
+"Mackerel, Narrow Barred",Male,Saltwater,3,Wayne,Brown,36.4,Dampier,2000-08-06
+"Mackerel, Narrow Barred",Male,Saltwater,4,David,Barlow,27.8,Pt Hedland,2003-08-17
+"Mackerel, Narrow Barred",Male,Saltwater,6,Brett,Thompson,33.4,Pt Hedland,2001-07-01
+"Mackerel, Narrow Barred",Male,Saltwater,8,Bob,Berdinat,36.4,Coral Bay,1987-06-01
+"Mackerel, Narrow Barred",Male,Saltwater,10,Ian,Anesbury,28,Exmouth,1997-10-21
+"Mackerel, Narrow Barred",Male,Saltwater,15,Murray,Lewin,29.9,Exmouth,1994-10-30
+"Mackerel, Narrow Barred",Male,Saltwater,24,Barry,Wrightson,38.8,Rottnest Is,1978-05-05
+"Mackerel, Narrow Barred",Male,Saltwater Land-Based,6,Timothy,Wedding,7.6,Useless Loop,1995-04-30
+"Mackerel, Narrow Barred",Male,Saltwater Land-Based,8,Dave,Tobin,19.4,Port Hedland,2002-04-26
+"Mackerel, Narrow Barred",Female,Saltwater,1,Carol-Anne,Bickford,2,Exmouth,2000-01-12
+"Mackerel, Narrow Barred",Female,Saltwater,2,Vicki,Searle,18.3,Dampier,2017-06-21
+"Mackerel, Narrow Barred",Female,Saltwater,3,Mesha,Prince,22,Mackerel Islands,2003-08-29
+"Mackerel, Narrow Barred",Female,Saltwater,4,Rita,Lewin,23.3,Exmouth,1998-11-11
+"Mackerel, Narrow Barred",Female,Saltwater,6,Shelley,O'Brien,31.7,Exmouth,2003-10-29
+"Mackerel, Narrow Barred",Female,Saltwater,8,Joy,Burrage,30.2,Pt Hedland,1998-08-16
+"Mackerel, Narrow Barred",Female,Saltwater,10,Leisa-anne,Hull,25,Exmouth,1994-10-26
+"Mackerel, Narrow Barred",Female,Saltwater,15,Lois,Fenton,22.4,Pt Hedland,1997-07-06
+"Mackerel, Narrow Barred",Junior Male,Saltwater,3,Callum,Horlock,18.9,Exmouth,2016-03-13
+"Mackerel, Narrow Barred",Junior Male,Saltwater,4,Cody,Wright,17.8,Exmouth,2011-08-07
+"Mackerel, Narrow Barred",Junior Male,Saltwater,6,Daryl,Anesbury,25.3,Exmouth,1997-10-21
+"Mackerel, Narrow Barred",Junior Male,Saltwater,10,Paul,Donnes,27.2,Dampier,2002-05-18
+"Mackerel, Narrow Barred",Junior Female,Saltwater,2,Chloe,Hornhardt,5.22,Dampier,2017-07-17
+"Mackerel, Narrow Barred",Junior Female,Saltwater,3,Chloe,Hornhardt,13.98,Dampier,2017-08-13
+"Mackerel, Narrow Barred",Junior Female,Saltwater,6,Chloe,Hornhardt,17.35,Dampier,2016-08-01
+"Mackerel, Narrow Barred",Junior Female,Saltwater,8,Mesha,Prince,23.25,Exmouth,1996-04-15
+"Mackerel, Narrow Barred",Junior Female,Saltwater,15,Patti,Horwood,19.4,Mackerel Is,1987-10-07
+"Mackerel, Narrow Barred",Small Fry Male,Saltwater,2,Dean,Gates,5.62,Exmouth,2024-03-11
+"Mackerel, Narrow Barred",Small Fry Male,Saltwater,3,Max,Grasso,7,Exmouth,2020-12-23
+"Mackerel, Narrow Barred",Small Fry Male,Saltwater,4,Cody,Wright,17.8,Exmouth,2011-08-07
+"Mackerel, Narrow Barred",Small Fry Male,Saltwater,6,Lochlan,Turrell,17.12,Rottnest Is,2022-02-28
+"Mackerel, Narrow Barred",Small Fry Male,Saltwater,8,Lochlan,Turrell,9,Exmouth,2019-03-20
+"Mackerel, Narrow Barred",Small Fry Female,Saltwater,3,Amber,Cloughessy,12.5,Dampier,2010-10-24
+"Mackerel, Narrow Barred",Small Fry Female,Saltwater,3,Lochlan,Turrell,3.72,Exmouth,2019-03-20
+"Mackerel, Narrow Barred",Small Fry Female,Saltwater,4,Jessica,Hornhardt,11.48,Dampier,2017-10-21
+"Mackerel, Narrow Barred",Small Fry Female,Saltwater,6,Mia,Grasso,19.4,Pt Samson,2023-10-21
+"Mackerel, Narrow Barred",Small Fry Female,Saltwater,8,Amber,Cloughessy,11.4,Dampier,2011-02-05
+"Mackerel, Narrow Barred",Small Fry Female,Saltwater,15,Amber,Cloughessy,24,Dampier,2011-02-05
+"Mackerel, Shark",Male,Saltwater,1,Ryan,Turner,6.7,Dampier,2016-07-30
+"Mackerel, Shark",Male,Saltwater,2,Tom,Miller,7.45,Shark Bay,2020-06-02
+"Mackerel, Shark",Male,Saltwater,3,M . G.,Paterson,10.89,Exmouth,1976-10-14
+"Mackerel, Shark",Male,Saltwater,4,Curtis,Waterman,11,Abrolhos Island,2024-04-22
+"Mackerel, Shark",Male,Saltwater,6,Col,Roberts,9.4,Jurien Bay,1989-04-15
+"Mackerel, Shark",Male,Saltwater,8,Murray,Lewin,12.1,Exmouth,1994-11-04
+"Mackerel, Shark",Male,Saltwater Land-Based,3,Timothy,Fuller,5.6,Exmouth,2004-12-27
+"Mackerel, Shark",Female,Saltwater,1,Jan.,Prince,3.3,Exmouth,1997-08-16
+"Mackerel, Shark",Female,Saltwater,2,Carol,Bickford,8.2,Exmouth,1997-10-25
+"Mackerel, Shark",Female,Saltwater,3,Robyn,Fenech,9.6,Exmouth,2003-10-29
+"Mackerel, Shark",Female,Saltwater,4,Sandra,Steel,10.18,Abrolhos Is,2006-05-14
+"Mackerel, Shark",Female,Saltwater,6,Kathy,Ryan,6.9,Exmouth,1991-11-06
+"Mackerel, Shark",Junior Male,Saltwater,1,Toby,Mason,4.22,Dampier,2016-07-29
+"Mackerel, Shark",Junior Male,Saltwater,2,Ben,Crisp,8.7,Mackerel Is,1987-10-07
+"Mackerel, Shark",Junior Male,Saltwater,3,Bodie,Blackwell,9.7,Rottnest Is,2026-06-21
+"Mackerel, Shark",Junior Male,Saltwater,4,Ben,Crisp,9,Mackerel Is,1987-10-03
+"Mackerel, Shark",Junior Male,Saltwater,6,Ben,Patrick,8,Half Moon Reef,1984-04-25
+"Mackerel, Shark",Junior Male,Saltwater,8,Beau,Britton,10.3,Exmouth,2000-10-21
+"Mackerel, Shark",Junior Male,Saltwater Land-Based,3,Brendan,Hourn,5,Exmouth,2003-04-27
+"Mackerel, Shark",Junior Female,Saltwater,3,Chloe,Hornhardt,5.42,Dampier,2017-08-13
+"Mackerel, Shark",Small Fry Male,Saltwater,1,Dean,Gates,2,Exmouth,2021-03-28
+"Mackerel, Shark",Small Fry Male,Saltwater,2,Jackson,Tatham,5.5,Exmouth,2011-12-20
+"Mackerel, Shark",Small Fry Male,Saltwater,3,Dean,Gates,3.95,Exmouth,2020-06-28
+"Mackerel, Shark",Small Fry Male,Saltwater,4,Kalvin,Gates,5.5,Exmouth,2020-09-06
+"Mackerel, Shark",Small Fry Male,Saltwater,6,Max,Grasso,7.02,Exmouth,2020-11-24
+"Mackerel, Spotted",Male,Saltwater,1,Ryan,Turner,3.04,Dampier,2017-08-19
+"Mackerel, Spotted",Male,Saltwater,3,Chris,Bechard,4.1,Kalbarri,1997-03-01
+"Mackerel, Spotted",Male,Saltwater,4,Paul,George-Kennedy,5.35,Abrolhos Is,2015-04-22
+"Mackerel, Spotted",Male,Saltwater Land-Based,1,Mark,Hourn,1.7,Exmouth,2001-02-17
+"Mackerel, Spotted",Female,Saltwater,1,Tameeka,Dodd,2.48,Dampier,2017-07-12
+"Mackerel, Spotted",Female,Saltwater,2,Tameeka,Dodd,2.08,Dampier,2017-07-11
+"Mackerel, Spotted",Junior Male,Saltwater,1,Max,Grasso,2.1,Dampier,2022-04-16
+"Mackerel, Spotted",Junior Female,Saltwater,1,Mia,Grasso,1.72,Dampier,2026-08-15
+"Mackerel, Spotted",Junior Female,Saltwater,3,Jessica,Hornhardt,3.67,Dampier,2021-10-24
+"Mackerel, Spotted",Small Fry Male,Saltwater,1,Max,Grasso,2.3,Dampier,2020-08-28
+"Mackerel, Spotted",Small Fry Male,Saltwater,2,Max,Grasso,2.46,Pt Samson,2016-11-13
+"Mackerel, Spotted",Small Fry Female,Saltwater,1,Mia,Grasso,1.84,Dampier,2024-08-10
+Mahi Mahi (Dolphin Fish),Male,Saltwater,1,Steve,Pitman,7.1,Exmouth,1994-08-13
+Mahi Mahi (Dolphin Fish),Male,Saltwater,2,Ray,Gansberg,9.4,Exmouth,1997-10-23
+Mahi Mahi (Dolphin Fish),Male,Saltwater,3,David .A,Wood,10.4,Rottnest Is,1996-02-17
+Mahi Mahi (Dolphin Fish),Male,Saltwater,4,Bob,Biernat,12.5,Rottnest Is,1997-05-08
+Mahi Mahi (Dolphin Fish),Male,Saltwater,6,Gerry,O`Loughlin,12.3,Exmouth,1992-11-07
+Mahi Mahi (Dolphin Fish),Male,Saltwater,8,Terry,Pittard,13.4,Exmouth,1998-11-13
+Mahi Mahi (Dolphin Fish),Male,Saltwater,10,Phil,Tickle,19.3,Exmouth,1997-10-20
+Mahi Mahi (Dolphin Fish),Male,Saltwater,15,Peter,Dohnt,15.3,Exmouth,1995-11-18
+Mahi Mahi (Dolphin Fish),Male,Saltwater Fly,4,Graham,Whitehouse,5,Rottnest Trench,1983-03-26
+Mahi Mahi (Dolphin Fish),Male,Saltwater Fly,8,Ben,Knight,9.7,Exmouth,2014-10-08
+Mahi Mahi (Dolphin Fish),Female,Saltwater,1,Sangeeta,Menon,3.2,Rotnest Island,2010-03-14
+Mahi Mahi (Dolphin Fish),Female,Saltwater,2,Kathy,Ryan,7,Exmouth,1996-08-19
+Mahi Mahi (Dolphin Fish),Female,Saltwater,3,Morgane,Chebahi,6.97,Rottnest Is,2018-05-05
+Mahi Mahi (Dolphin Fish),Female,Saltwater,4,Kathy,Ryan,8.7,Exmouth,1996-08-20
+Mahi Mahi (Dolphin Fish),Female,Saltwater,6,Marie,Quinlin,11.9,Exmouth,1992-11-04
+Mahi Mahi (Dolphin Fish),Female,Saltwater,8,Jan.,Prince,10.5,Exmouth,1991-11-08
+Mahi Mahi (Dolphin Fish),Female,Saltwater Land-Based,1,Mia,Cramer,2.22,Rotnest Island,2004-02-29
+Mahi Mahi (Dolphin Fish),Junior Male,Saltwater,1,Callum,Horlock,6.2,Exmouth,2016-03-16
+Mahi Mahi (Dolphin Fish),Junior Male,Saltwater,2,Kalvin,Gates,7.9,Exmouth,2024-03-11
+Mahi Mahi (Dolphin Fish),Junior Male,Saltwater,3,Thomas,Irvine,3.2,Naturaliste,2023-04-16
+Mahi Mahi (Dolphin Fish),Junior Male,Saltwater,4,Marcus J,Maher,9.25,Rottnest Is,1998-04-25
+Mahi Mahi (Dolphin Fish),Junior Male,Saltwater,6,Troy,Wright,8.1,Exmouth,1993-11-06
+Mahi Mahi (Dolphin Fish),Junior Male,Saltwater,10,Shane,Damian,14.1,Exmouth,1997-10-18
+Mahi Mahi (Dolphin Fish),Junior Female,Saltwater,1,Jesse,Sutton,4.7,Exmouth,2019-03-25
+Mahi Mahi (Dolphin Fish),Junior Female,Saltwater,3,Mia,Cramer,4.75,Rottnest,2002-04-20
+Mahi Mahi (Dolphin Fish),Small Fry Male,Saltwater,1,Dean,Gates,6.48,Exmouth,2024-03-10
+Mahi Mahi (Dolphin Fish),Small Fry Male,Saltwater,2,Lochlan,Turrell,2.42,Rottnest Is,2021-02-13
+Mahi Mahi (Dolphin Fish),Small Fry Male,Saltwater,3,Lochlan,Turrell,4.13,Rottnest Is,2018-05-05
+Mahi Mahi (Dolphin Fish),Small Fry Male,Saltwater,4,Kalvin,Gates,9.3,Exmouth,2021-04-24
+Mangrove Jack,Female,Freshwater,1,Vicki,Searle,1.06,Jones River,2018-03-28
+"Marlin, Black",Male,Saltwater,4,Phil,Perry,40,Dampier,1993-07-30
+"Marlin, Black",Male,Saltwater,6,Frank,Csiczak,24,Dampier,1985-08-04
+"Marlin, Black",Male,Saltwater,8,Scott,Turrell,50.28,Exmouth,2026-03-21
+"Marlin, Black",Male,Saltwater,10,Vic,Ryan,35.3,Broome,2023-08-08
+"Marlin, Black",Male,Saltwater,15,Rowan S,Smith,149.2,Exmouth,2008-03-12
+"Marlin, Black",Male,Saltwater,24,Neil,Silver,155.1,Exmouth,2009-03-28
+"Marlin, Black",Male,Saltwater,37,Luke,Groen,296.9,Exmouth,2013-12-12
+"Marlin, Black",Male,Saltwater,60,Matt,Pattrick,315.3,Exmouth,2025-12-04
+"Marlin, Black",Male,Saltwater Fly,6,Aaron,Rampling,25.3,Exmouth,2017-07-16
+"Marlin, Black",Male,Saltwater Fly,8,Jake,Fitzgerald,24.4,Exmouth,2019-03-04
+"Marlin, Black",Male,Saltwater Fly,10,Jake,Fitzgerald,39.4,Exmouth,2021-08-09
+"Marlin, Black",Male,Saltwater Fly,15,Aaron,Rampling,30.1,Exmouth,2012-09-09
+"Marlin, Black",Female,Saltwater,4,Wendy,Patzak,22.5,Dampier,1991-08-25
+"Marlin, Black",Female,Saltwater,8,Trish,Johnson,53.5,Dampier,1989-06-25
+"Marlin, Black",Female,Saltwater,10,Wendy,Patzak,40.6,Dampier,1991-09-29
+"Marlin, Black",Female,Saltwater,15,Jo,Decker,93.5,Exmouth,2010-03-21
+"Marlin, Black",Junior Male,Saltwater,4,Bruce,Wotherspoon,25.8,Dampier,1992-08-01
+"Marlin, Black",Junior Male,Saltwater,6,Craig,Park,30,Dampier,1986-08-01
+"Marlin, Black",Junior Male,Saltwater,8,Lochlan,Turrell,84.64,Exmouth,2025-03-03
+"Marlin, Black",Junior Male,Saltwater,10,Lochlan,Turrell,72.56,Exmouth,2025-05-31
+"Marlin, Black",Junior Male,Saltwater,15,Hayden,Michaels,68.8,Exmouth,2017-03-14
+"Marlin, Black",Junior Male,Saltwater,24,Lochlan,Turrell,73.88,Exmouth,2025-07-11
+"Marlin, Black",Junior Male,Saltwater,60,Jake,McClelland,211.4,Exmouth,2025-12-13
+"Marlin, Black",Junior Female,Saltwater,6,Jessica,Hornhardt,55.5,Dampier,2022-02-06
+"Marlin, Black",Junior Female,Saltwater,10,Chloe,Hornhardt,29.84,Dampier,2017-07-02
+"Marlin, Black",Junior Female,Saltwater,15,Lola,Beaton,31.72,Exmouth,2026-07-31
+"Marlin, Pacific Blue",Male,Saltwater,15,Graham,Jones,200,Exmouth,1998-11-07
+"Marlin, Pacific Blue",Male,Saltwater,24,Robert,Freedman,271.8,Exmouth,1988-10-30
+"Marlin, Pacific Blue",Male,Saltwater,37,Rowan,Smith,330.1,Exmouth,2012-10-30
+"Marlin, Pacific Blue",Male,Saltwater,60,Clay,Hilbert,494.3,Exmouth,2018-01-01
+"Marlin, Pacific Blue",Male,Saltwater Fly,15,Ben,Knight,123.8,Exmouth,2014-09-02
+"Marlin, Pacific Blue",Female,Saltwater,24,Janelle,Hodgson,159.7,Exmouth,2022-12-18
+"Marlin, Pacific Blue",Female,Saltwater,37,Kelsey,Stevens,133.9,Exmouth,2025-12-01
+"Marlin, Pacific Blue",Female,Saltwater,60,Hayley,Dellar,291.4,Exmouth,2019-09-30
+"Marlin, Pacific Blue",Junior Male,Saltwater,15,Scott,Turrell,28.8,Exmouth,1996-04-07
+"Marlin, Pacific Blue",Junior Male,Saltwater,24,Lochlan,Turrell,86.64,Exmouth,2025-01-02
+"Marlin, Pacific Blue",Junior Male,Saltwater,37,Rhys,Martin,271.8,Jurien Bay,2026-02-19
+"Marlin, Pacific Blue",Junior Male,Saltwater,60,Jake,Fitzgerald,170.5,Exmouth,2017-11-05
+"Marlin, Pacific Blue",Small Fry Male,Saltwater,37,Jake,Owens,115.52,Exmouth,2022-01-18
+"Marlin, Pacific Blue",Small Fry Male,Saltwater,60,Cruz,McEwan,141.3,Exmouth,2021-01-07
+"Marlin, Striped",Male,Saltwater,15,Paul,Thomas,31.28,Exmouth,2026-08-22
+"Marlin, Striped",Male,Saltwater,24,Graham,Maunder,48,Abrolhos Is,1994-04-26
+"Marlin, Striped",Male,Saltwater,37,Alexander,Vecka,74.6,Exmouth,2019-11-08
+"Marlin, Striped",Female,Saltwater,10,Jan.,Prince,30.5,Exmouth,1992-11-01
+"Marlin, Striped",Female,Saltwater,37,Julie,Gheradi,46.5,Exmouth,1978-07-29
+"Marlin, Striped",Female,Saltwater,60,Danielle,Duff,66.4,Exmouth,2017-01-09
+"Marlin, Striped",Junior Male,Saltwater,24,Riley,Smith,54.2,Exmouth,2015-09-16
+"Marlin, Striped",Small Fry Male,Saltwater,15,Zac,Owens,55.1,Exmouth,2017-07-11
+Mulloway (Jewfish),Male,Saltwater,2,Roger,Spera,14.5,Pt Hedland,2002-10-15
+Mulloway (Jewfish),Male,Saltwater,3,Aaron,Bussell,20.2,Geographe Bay,2001-09-16
+Mulloway (Jewfish),Male,Saltwater,4,Shane,Eggleston,17.8,Geographe Bay,2000-06-28
+Mulloway (Jewfish),Male,Saltwater,6,Paul,Arnold,15.5,Kalbarri,1992-08-30
+Mulloway (Jewfish),Male,Saltwater,8,Ashley,Hicks,15.36,Cockburn Sound,2023-05-04
+Mulloway (Jewfish),Male,Saltwater,10,Michael,Parker,14.24,Cockburn Sound,2024-04-27
+Mulloway (Jewfish),Male,Saltwater,15,Dylan,Picken,15.96,Cockburn Sound,2023-04-04
+Mulloway (Jewfish),Male,Saltwater Land-Based,2,Tom,Miller,3.85,Shark Bay,2018-02-08
+Mulloway (Jewfish),Female,Saltwater,2,Alysa,Barnett,2.25,Busselton,2026-09-10
+Mulloway (Jewfish),Female,Saltwater,3,Karen,Jeffs,12.1,Pt Hedland,2001-04-18
+Mulloway (Jewfish),Female,Saltwater,4,Alysa,Barnett,8.21,Busselton,2026-07-27
+Mulloway (Jewfish),Female,Saltwater,6,Nola,Tynan,10.5,Port Hedland,2002-04-25
+Mulloway (Jewfish),Female,Saltwater,8,Alysa,Barnett,9.9,Busselton,2026-09-23
+Mulloway (Jewfish),Female,Saltwater Land-Based,4,Jayne,Taylor,6,Useless Loop,1994-12-31
+Mulloway (Jewfish),Junior Male,Saltwater,6,Jayden,Danielsen,7.43,Jurien Bay,2017-04-02
+Mulloway (Jewfish),Junior Male,Saltwater,8,Lochlan,Turrell,11.4,Cockburn Sound,2025-04-25
+Mulloway (Jewfish),Junior Male,Saltwater,10,Lochlan,Turrell,14.88,Cockburn Sound,2025-04-25
+Mulloway (Jewfish),Junior Female,Saltwater,6,Jessica,Jarrett,6.36,Jurien Bay,2015-05-02
+"Perch, English (Redfin)",Male,Freshwater,1,Matthys,Solomon,1.1,Greenbushes,2023-05-05
+Queenfish,Male,Saltwater,1,Ray,Gansberg,7.8,Exmouth,2002-10-25
+Queenfish,Male,Saltwater,2,Ray,Gansberg,8.1,Exmouth,1991-11-04
+Queenfish,Male,Saltwater,3,Brett,Thompson,11.1,Pt Hedland,2001-11-10
+Queenfish,Male,Saltwater,4,Leon,Callander,10.6,Pt Hedland,1995-12-28
+Queenfish,Male,Saltwater,6,John,Clark,9.6,Exmouth,1993-11-17
+Queenfish,Male,Saltwater,8,Wayne,Barber,10.4,Exmouth,1991-05-28
+Queenfish,Male,Saltwater Land-Based,1,Mark,Hourn,3.6,Exmouth,2001-02-17
+Queenfish,Male,Saltwater Land-Based,2,Mark,Hourn,6.5,Exmouth,2000-02-26
+Queenfish,Male,Saltwater Land-Based,3,Dave,Tobin,7,Pt Hedland,2001-04-13
+Queenfish,Male,Saltwater Land-Based,4,Mark,Renwick,11.8,Exmouth,1991-11-12
+Queenfish,Male,Saltwater Land-Based,6,Alan,Patzak,6.9,Burrup Pen,1997-05-20
+Queenfish,Male,Saltwater Land-Based,8,Laurie,Chadder,10,Willie Creek,1996-08-08
+Queenfish,Male,Saltwater Fly,3,Leith,Larham,4.2,Pt Hedland,2007-04-09
+Queenfish,Male,Saltwater Fly,4,Leith,Larham,5.4,Pt Hedland,2007-04-09
+Queenfish,Female,Saltwater,1,Nikki,Sutton,7.4,Exmouth,2017-11-05
+Queenfish,Female,Saltwater,2,Jessica,Hornhardt,7.1,Dampier,2016-04-24
+Queenfish,Female,Saltwater,3,Sahra,Pitman,7.1,Exmouth,2011-03-25
+Queenfish,Female,Saltwater,4,Bron,Rack,10.5,Dampier,1991-04-14
+Queenfish,Female,Saltwater,6,Sally,Clark,6.4,Exmouth,1994-10-21
+Queenfish,Female,Saltwater Fly,2,Chantelle,Grasso,3.1,Pt Samson,2023-03-25
+Queenfish,Female,Saltwater Fly,3,Chantelle,Grasso,3.4,Point Samson,2022-04-12
+Queenfish,Junior Male,Saltwater,1,Ryley,Hinchcliffe,7.3,Dampier,2016-07-31
+Queenfish,Junior Male,Saltwater,2,Toby,Mason,5.88,Dampier,2016-06-18
+Queenfish,Junior Male,Saltwater,3,Callum,Horlock,9.9,Exmouth,2011-03-23
+Queenfish,Junior Male,Saltwater,4,Ben,Crisp,7.7,Mackerel Is,1987-10-01
+Queenfish,Junior Male,Saltwater Land-Based,3,Brendan,Hourn,5.3,Exmouth,2003-11-23
+Queenfish,Junior Male,Saltwater Land-Based,4,Brendan,Hourn,7.2,Exmouth,2000-05-28
+Queenfish,Junior Male,Saltwater Fly,3,Max,Grasso,3.32,Pt Samson,2021-12-19
+Queenfish,Junior Female,Saltwater,1,Chloe,Hornhardt,6.28,Dampier,2017-04-08
+Queenfish,Junior Female,Saltwater,2,Jessica,Hornhardt,7.1,Dampier,2016-04-24
+Queenfish,Junior Female,Saltwater,3,Jessica,Hornhardt,4.64,Exmouth,2017-01-22
+Queenfish,Small Fry Male,Saltwater,1,Kalvin,Gates,4.76,Exmouth,2022-03-20
+Queenfish,Small Fry Male,Saltwater,2,Max,Grasso,5.4,Dampier,2021-02-14
+Queenfish,Small Fry Male,Saltwater,3,Callum,Horlock,9.9,Exmouth,2011-03-23
+Queenfish,Small Fry Male,Saltwater,4,Dean,Gates,7.04,Exmouth,2024-03-11
+Queenfish,Small Fry Female,Saltwater,1,Chloe,Hornhardt,4.58,Pt Samson,2016-04-26
+Queenfish,Small Fry Female,Saltwater,2,Jessica,Hornhardt,7.1,Dampier,2016-04-24
+Queenfish,Small Fry Female,Saltwater,3,Mia,Grasso,5.72,Pt Samson,2021-10-09
+Rainbow Runner,Male,Saltwater,3,Jason,Hornhardt,6.2,Exmouth,2018-03-19
+Rainbow Runner,Male,Saltwater,4,Ken,Keiley,5.8,Exmouth,1991-09-16
+Rainbow Runner,Small Fry Male,Saltwater,3,Max,Grasso,3.46,Dampier,2018-04-17
+Sailfish,Male,Saltwater,2,Phil,Perry,25.4,Exmouth,1998-11-09
+Sailfish,Male,Saltwater,3,Phil,Tickle,26.5,Exmouth,1997-10-19
+Sailfish,Male,Saltwater,4,Ben,Treasure,36.5,Exmouth,1991-11-04
+Sailfish,Male,Saltwater,6,Vic,Raynor,78,Exmouth,1983-01-11
+Sailfish,Male,Saltwater,8,Vic,Barrett,52.1,Exmouth,1983-10-30
+Sailfish,Male,Saltwater,10,Graham,Pattemore,36.4,Exmouth,1984-09-10
+Sailfish,Male,Saltwater,15,David,Romeril,36.66,Exmouth,2023-03-25
+Sailfish,Male,Saltwater,24,Ronald . S,Wilson,58.6,Exmouth,1993-11-05
+Sailfish,Male,Saltwater Fly,6,Ben,Knight,23.6,Exmouth,2013-10-05
+Sailfish,Male,Saltwater Fly,10,Ben,Knight,36.4,Exmouth,2012-08-08
+Sailfish,Male,Saltwater Fly,15,Aaron,Rampling,33.3,Exmouth,2011-09-17
+Sailfish,Female,Saltwater,2,Bron,Rack,29,Dampier,1992-05-30
+Sailfish,Female,Saltwater,3,Lily,Anastazjew,16.5,Dampier,2026-06-06
+Sailfish,Female,Saltwater,4,Melva,Rack,27.2,Dampier,1977-07-12
+Sailfish,Female,Saltwater,6,Lily,Anastazjew,24.46,Dampier,2026-08-22
+Sailfish,Female,Saltwater,8,Kay,Webber,39,Exmouth,1983-07-09
+Sailfish,Female,Saltwater,10,Debbie,Snook,35.6,Exmouth,1994-10-07
+Sailfish,Female,Saltwater,15,Fay,Agnew,48.08,N W Cape,1970-09-07
+Sailfish,Junior Male,Saltwater,3,Cruz,McEwan,13.4,Broome,2025-06-15
+Sailfish,Junior Male,Saltwater,4,Ian,French,30,Dampier,1983-07-30
+Sailfish,Junior Male,Saltwater,6,Troy,Wright,37.6,Exmouth,1991-08-16
+Sailfish,Junior Male,Saltwater,8,Sam,Czabayski,25.02,Broome,2015-06-27
+Sailfish,Junior Male,Saltwater,10,Chris,Zencich,24,Dampier,1986-09-26
+Sailfish,Junior Male,Saltwater,15,Lochlan,Turrell,31,Exmouth,2025-12-31
+Sailfish,Junior Male,Saltwater,24,Michael,Harrington,26.5,Exmouth,2004-03-19
+Sailfish,Junior Male,Saltwater Land-Based,24,Michael,Harrington,26.5,Exmouth,2004-03-19
+Sailfish,Junior Male,Saltwater Fly,15,Jake,Fitzgerald,18.3,Exmouth,2018-08-25
+Sailfish,Junior Female,Saltwater,8,Bridgette,Wright,31.2,Exmouth,2005-10-24
+Sailfish,Junior Female,Saltwater,10,Tasmin,Kyle,23.35,Dampier,2016-08-27
+Sailfish,Junior Female,Saltwater,15,Shanae,Cook,26,Dampier,2010-09-27
+Sailfish,Small Fry Male,Saltwater,3,Lochlan,Turrell,15.5,Dampier,2021-09-25
+Sailfish,Small Fry Male,Saltwater,4,Lochlan,Turrell,16,Dampier,2021-09-24
+Sailfish,Small Fry Male,Saltwater,6,Archer,Cartledge,19.88,Dampier,2026-08-02
+Sailfish,Small Fry Male,Saltwater,8,Oliver,Anderson,18.28,Exmouth,2021-11-20
+Sailfish,Small Fry Male,Saltwater,10,Lochlan,Turrell,35.4,Exmouth,2018-09-20
+Sailfish,Small Fry Male,Saltwater,15,Caleb,Owens,24.1,Dampier,2024-09-19
+Sailfish,Small Fry Female,Saltwater,4,Jessica,Hornhardt,12.04,Dampier,2017-10-22
+Sailfish,Small Fry Female,Saltwater,6,Mia,Grasso,15.88,Dampier,2024-09-21
+Sailfish,Small Fry Female,Saltwater,8,Amber,Cloughessy,15.6,Dampier,2010-09-26
+Sailfish,Small Fry Female,Saltwater,15,Neve,Hallatt,33.4,Exmouth,2025-04-25
+"Salmon, Australian",Male,Saltwater,1,Rhyss,Whittred,5.8,Fremantle,2014-11-07
+"Salmon, Australian",Male,Saltwater,2,Brian,Arnett,5.79,Rottnest Is,2014-04-26
+"Salmon, Australian",Male,Saltwater,3,Mark,Brown,6.8,Yallingup,2004-03-12
+"Salmon, Australian",Male,Saltwater,4,Tom,Miller,6.25,Bunker Bay,2015-04-14
+"Salmon, Australian",Male,Saltwater,6,Dean,Eggleston,6.2,Yallingup,1998-03-15
+"Salmon, Australian",Male,Saltwater Land-Based,2,Tom,Dickerson,4.54,Denmark,2003-05-31
+"Salmon, Australian",Male,Saltwater Land-Based,3,Andres,Paz,5.4,Cape Naturaliste,1997-03-31
+"Salmon, Australian",Male,Saltwater Land-Based,4,Steven,Busby,5.8,Yeagarup Beach,1999-05-02
+"Salmon, Australian",Male,Saltwater Land-Based,6,Tom,Miller,6.35,Myalup Beach,2015-04-15
+"Salmon, Australian",Male,Saltwater Fly,3,Jonathon,Weston,4.31,Fremantle,2016-04-02
+"Salmon, Australian",Female,Saltwater,1,Sangeeta,Menon,4.87,Rottnest Is,2010-04-17
+"Salmon, Australian",Female,Saltwater,2,Sahra,Pitman,4.65,Bunker Bay,2015-04-12
+"Salmon, Australian",Female,Saltwater,3,Sahra,Pitman,5.45,Bunker Bay,2015-04-12
+"Salmon, Australian",Female,Saltwater,4,Sarah,Coleman,5.45,Fremantle,2014-11-15
+"Salmon, Australian",Junior Male,Saltwater,2,Taj,Richardson,5.62,Geographe Bay,2023-04-16
+"Salmon, Australian",Junior Male,Saltwater,3,Jason,Burgoyne,5.2,Yallingup,1998-03-14
+"Salmon, Australian",Junior Male,Saltwater,4,Hunter,Jensz,6.11,Geographe Bay,2024-04-07
+"Salmon, Australian",Junior Male,Saltwater Land-Based,2,Jason,Burgoyne,3.5,CapeNaturaliste,1998-04-13
+"Salmon, Australian",Junior Male,Saltwater Land-Based,3,Steven,Busby,5.2,CapeNaturaliste,1997-03-30
+"Salmon, Australian",Junior Male,Saltwater Land-Based,4,Steven,Busby,5,CapeNaturaliste,1998-04-17
+"Salmon, Australian",Junior Female,Saltwater,2,Pippa,Lucas,4.23,Bunker Bay,2022-04-24
+"Salmon, Australian",Small Fry Male,Saltwater,3,Jayden,Wham,4.3,Fremantle,2017-04-23
+"Salmon, Australian",Small Fry Female,Saltwater,2,Btooklyn,Fee,4.08,Busselton,2023-04-16
+"Salmon, Australian",Small Fry Female,Saltwater,3,Ember,Jensz,3.42,Geographe Bay,2017-04-23
+"Salmon, Threadfin",Male,Saltwater,1,Anthony,Boekhorst,6.3,Pt Hedland,2001-05-03
+"Salmon, Threadfin",Male,Saltwater,2,Brett,Thompson,5.9,Pt Hedland,2001-09-13
+"Salmon, Threadfin",Male,Saltwater,3,Brett,Thompson,7.8,Pt Hedland,2001-11-11
+"Salmon, Threadfin",Male,Saltwater,4,Jay,Wheelock,8,Karratha,2001-02-04
+"Salmon, Threadfin",Male,Saltwater,6,Graham,MacPherson,14.6,Broome,1995-04-14
+"Salmon, Threadfin",Female,Saltwater,1,Vicki,Searle,3.15,George River,2007-10-07
+"Salmon, Threadfin",Female,Saltwater,2,Vicki,Searle,5.24,Karratha,2016-01-08
+"Salmon, Threadfin",Female,Saltwater,3,Talisha,Cook,4.8,George River,2007-10-07
+"Salmon, Threadfin",Female,Saltwater Land-Based,3,Rachael,Green,3.4,Riddly River,1997-11-08
+"Salmon, Threadfin",Junior Male,Saltwater,6,Michael,Berthelsen,6.5,Dampier,1991-07-19
+"Salmon, Threadfin",Junior Male,Saltwater Land-Based,3,Dave,Parker,3,Pt Hedland,1996-01-05
+"Salmon, Threadfin",Junior Female,Saltwater,1,Justine,Boekhorst,1.4,DeGrey River,1998-11-29
+"Salmon, Threadfin",Junior Female,Saltwater,2,Justine,Boekhorst,2.1,DeGrey River,1999-11-29
+"Salmon, Threadfin",Junior Female,Saltwater,3,Talisha,Cook,4.8,George River,2007-10-07
+"Salmon, Threadfin",Junior Female,Saltwater,4,Justine,Boekhorst,10.5,Pt Hedland,2000-02-16
+Samson Fish,Male,Saltwater,1,Matthew,Bell,7.9,Goegraphe Bay,2010-03-21
+Samson Fish,Male,Saltwater,2,Trevor,Bell,11.8,Geographe Bay,2010-03-21
+Samson Fish,Male,Saltwater,3,Mathew,Bell,26.6,Geographe Bay,2005-09-03
+Samson Fish,Male,Saltwater,4,Rusty,Ellis,28.6,Cape Naturaliste,2000-10-15
+Samson Fish,Male,Saltwater,6,Terry,Coote,31.5,Canal Rocks,1986-03-20
+Samson Fish,Male,Saltwater,8,Rhyss,Whittred,29.75,Rottnest Is,2009-12-28
+Samson Fish,Male,Saltwater,10,David,Bell,31.2,Geographe Bay,1998-03-13
+Samson Fish,Male,Saltwater,15,David,Ellis,29,Cape Naturaliste,2002-06-16
+Samson Fish,Male,Saltwater,24,Terry,Coote,36.5,Cape Naturaliste,1993-01-31
+Samson Fish,Male,Saltwater Land-Based,6,Norm,Bedford,10.16,CapeNaturaliste,1993-05-30
+Samson Fish,Male,Saltwater Land-Based,8,Tom,Miller,18.1,Kalbarri,2003-05-19
+Samson Fish,Male,Saltwater Land-Based,10,Norm,Bedford,14.5,CapeNaturaliste,1996-04-26
+Samson Fish,Female,Saltwater,1,Caroline,Davies,3.8,Geographe Bay,2007-06-17
+Samson Fish,Female,Saltwater,2,Caroline,Davies,6.8,Geographe Bay,2007-07-15
+Samson Fish,Female,Saltwater,3,Caroline,Davies,8,Eagle Bay,2008-02-17
+Samson Fish,Female,Saltwater,4,Caroline,Davies,18.4,Eagle Bay,2009-03-14
+Samson Fish,Female,Saltwater,6,Robyn,Fenech,19.2,Geographe Bay,2000-03-11
+Samson Fish,Female,Saltwater,8,Katarina,Mikic,29.4,Geographe Bay,2002-06-08
+Samson Fish,Female,Saltwater,10,Christine,Ezekiel,22.8,Jurien Bay,1990-03-18
+Samson Fish,Female,Saltwater,15,Robyn,Fenech,29.9,Geographe Bay,2000-03-12
+Samson Fish,Female,Saltwater,24,Mia,Cramer,24,Rottnest Island,2000-12-07
+Samson Fish,Junior Male,Saltwater,4,Lochlan,Turrell,10.12,Mandurah,2023-07-22
+Samson Fish,Junior Male,Saltwater,6,Myles,Blond,18.6,Rottnest Is,1988-02-07
+Samson Fish,Junior Male,Saltwater,8,Cody,Rummer,24.36,Rottnest Is,2003-03-02
+Samson Fish,Junior Male,Saltwater,10,Stephen,Pitard,27,Geographe Bay,1999-01-30
+Samson Fish,Junior Male,Saltwater,15,Lachlan,Turrell,16.72,Jurien Bay,2024-04-07
+Samson Fish,Junior Male,Saltwater Land-Based,8,Tom,Miller,18.1,Kalbarri,2003-05-19
+Samson Fish,Junior Female,Saltwater,3,Ellouise,Pugh,4.32,Two Rocks,2021-08-13
+Samson Fish,Junior Female,Saltwater,15,Maddison,Cramer,27.04,Rottnest Is,2000-12-30
+Samson Fish,Junior Female,Saltwater,24,Mia,Cramer,24,Rottnest Island,2000-12-07
+Samson Fish,Small Fry Male,Saltwater,3,Lochlan,Turrell,4.18,Mandurah,2021-11-27
+Samson Fish,Small Fry Male,Saltwater,4,Lochlan,Turrell,8.54,Mandurah,2021-11-27
+Samson Fish,Small Fry Male,Saltwater,6,Lochlan,Turrell,15,Mandurah,2017-01-03
+Samson Fish,Small Fry Male,Saltwater,8,Rhys,Martin,9.65,Jurien Bay,2024-04-06
+Samson Fish,Small Fry Male,Saltwater,10,Rhys,Martin,10.73,Jurien Bay,2024-04-06
+Samson Fish,Small Fry Female,Saltwater,2,Tessa,Lucas,2.4,Geographe Bay,2018-04-29
+Samson Fish,Small Fry Female,Saltwater,4,Michala,Gibsone,4.4,Sugar Loaf,2019-04-13
+"Shark, Blue",Male,Saltwater,15,John,Howarth,135.5,Rottnest Trench,1982-11-06
+"Shark, Blue",Male,Saltwater,37,Peter,Goodes,95.2,Rottnest Trench,1991-05-16
+"Shark, Gummy",Male,Saltwater,2,Dylan,Picken,4.86,Dawesville,2021-08-28
+"Shark, Gummy",Junior Male,Saltwater,2,Lochlan,Turrell,10.4,Mandurah,2025-06-16
+"Shark, Hammerhead",Male,Saltwater,2,Trevor,Bell,14.2,Geographe Bay,2003-03-28
+"Shark, Hammerhead",Male,Saltwater,3,Trevor,Bell,17.4,Busselton,2002-03-29
+"Shark, Hammerhead",Male,Saltwater,4,Kade,Ross,154.8,Exmouth,2013-03-13
+"Shark, Hammerhead",Male,Saltwater,6,Shane,Wunhyn,38.4,Exmouth,1992-11-02
+"Shark, Hammerhead",Male,Saltwater,8,Ryan,Turner,153.2,Exmouth,2013-03-13
+"Shark, Hammerhead",Male,Saltwater,10,Gavin,Jones,92.4,Pt Hedland,1995-03-12
+"Shark, Hammerhead",Male,Saltwater,15,Darren,Bowden,144.4,Enderby Is,1993-05-02
+"Shark, Hammerhead",Male,Saltwater,24,Peter,McMullen,154,Exmouth,1982-10-28
+"Shark, Hammerhead",Female,Saltwater,15,Lois,Fenton,103.4,Pt Hedland,1998-05-19
+"Shark, Hammerhead",Junior Female,Saltwater,3,Mia,Grasso,73.2,Pt Samson,2025-09-30
+"Shark, Hammerhead",Junior Female,Saltwater,8,Chloe,Hornhardt,44.48,Dampier,2018-03-10
+"Shark, Hammerhead",Small Fry Male,Saltwater,37,Lochlan,Turrell,91.9,Rockingham,2022-01-03
+"Shark, Hammerhead",Small Fry Female,Saltwater,6,Mia,Grasso,72.35,Pt Samson WA,2024-03-09
+"Shark, Mako",Male,Saltwater,1,Adrian,Pike,5.6,Cape Naturaliste,1984-03-28
+"Shark, Mako",Male,Saltwater,4,Ken,Irvine,30,Geographe Bay,1999-03-13
+"Shark, Mako",Male,Saltwater,6,Bell,Trevor,65.2,Geographe Bay,2006-03-11
+"Shark, Mako",Male,Saltwater,8,Mick,Campbell,60.4,Geographe Bay,2017-04-22
+"Shark, Mako",Male,Saltwater,10,Trevor R,Lewis,99.2,Eagle Bay,1996-03-17
+"Shark, Mako",Male,Saltwater,15,Ashley,Hicks,51.6,Naturaliste,2023-05-01
+"Shark, Mako",Male,Saltwater,24,Terry,Coote,344,Exmouth,1988-10-30
+"Shark, Mako",Male,Saltwater,60,Sir Richard,Trowbridge,271,Rottnest Trench,1982-04-22
+"Shark, Thresher",Male,Saltwater,24,Bob,Biernat,85.2,Rottnest Trench,2000-05-07
+"Shark, Thresher",Junior Male,Saltwater,24,Kegan,Horak,60.3,Rowley Shoals,2021-09-30
+"Shark, Tiger",Male,Saltwater,1,Brenton,Cartledge,85.05,Dampier,2017-05-22
+"Shark, Tiger",Male,Saltwater,2,Justin,Leech,106.3,Dampier,2017-05-22
+"Shark, Tiger",Male,Saltwater,3,Ryan,Turner,238.4,Exmouth,2017-03-23
+"Shark, Tiger",Male,Saltwater,4,Toby,Mason,192.05,Dampier,2017-06-29
+"Shark, Tiger",Male,Saltwater,8,Jason,Hornhardt,416.1,Exmouth,2017-03-22
+"Shark, Tiger",Male,Saltwater,15,Paul,Skehan,104.8,Dampier,1990-02-12
+"Shark, Tiger",Male,Saltwater,24,Ian,Lannary,400.4,Dampier,1998-11-22
+"Shark, Tiger",Male,Saltwater,37,Kurt,Decker,141.2,Exmouth,2001-08-24
+"Shark, Tiger",Male,Saltwater,60,Ken,Patrick,347.5,Rottnest Trench,1989-02-12
+"Shark, Tiger",Female,Saltwater,1,Tameeka,Dodd,57.05,Dampier,2018-07-28
+"Shark, Tiger",Female,Saltwater,4,Briana,Bollard,129.7,Exmouth,2021-02-20
+"Shark, Tiger",Female,Saltwater,6,Chloe,Hornhardt,75.1,Karratha,2016-05-06
+"Shark, Tiger",Female,Saltwater,15,Wendy,Patzak,324,Dampier,1992-06-20
+"Shark, Tiger",Junior Male,Saltwater,6,Lochlan,Turrell,20.72,Mandurah,2026-06-19
+"Shark, Tiger",Junior Male,Saltwater,60,Zac,Owens,292.4,Exmouth,2021-07-05
+"Shark, Tiger",Junior Female,Saltwater,3,Chloe,Hornhardt,110.2,Karratha,2018-04-24
+"Shark, Tiger",Junior Female,Saltwater,4,Chloe,Hornhardt,114.8,Karatha,2018-04-24
+"Shark, Tiger",Junior Female,Saltwater,6,Chloe,Hornhardt,75.1,Karratha,2016-05-08
+"Shark, Tiger",Junior Female,Saltwater,8,Chloe,Hornhardt,162.5,Dampier,2021-07-05
+"Shark, Tiger",Junior Female,Saltwater,24,Mikayla,Lannary,359.75,Dampier,2015-10-25
+"Shark, Tiger",Small Fry Male,Saltwater,3,Lochlan,Turrell,17.06,Mandurah,2019-04-28
+"Shark, Tiger",Small Fry Male,Saltwater,15,Lochlan,Turrell,97.6,Rockingham,2022-02-28
+"Shark, Tiger",Small Fry Male,Saltwater,24,Kalvin,Gates,142.4,Exmouth,2021-04-13
+"Shark, Tiger",Small Fry Female,Saltwater,6,Chloe,Hornhardt,75.1,Karratha,2016-05-08
+"Shark, Tiger",Small Fry Female,Saltwater,15,Jessica,Hornhardt,74.2,Karratha,2018-04-24
+"Shark, Whaler",Male,Saltwater,1,Anthony,Boekhorst,3.6,Pt Hedland,2000-02-16
+"Shark, Whaler",Male,Saltwater,2,Ray,Gansberg,9,Exmouth,1998-11-06
+"Shark, Whaler",Male,Saltwater,3,Scott,Turrell,16.86,Exmouth,2018-03-28
+"Shark, Whaler",Male,Saltwater,4,Paul,Bailey,40.4,Exmouth,2000-10-23
+"Shark, Whaler",Male,Saltwater,6,Michael,Brown,33.5,Exmouth,1997-10-22
+"Shark, Whaler",Male,Saltwater,8,Wayne,Parker,33.4,Pt Hedland,1995-06-27
+"Shark, Whaler",Male,Saltwater,10,Peter,Mallia,61.6,Kalbarri,1995-11-26
+"Shark, Whaler",Male,Saltwater,15,Jason,Hornhardt,98.8,Dampier,1992-06-13
+"Shark, Whaler",Male,Saltwater,24,Peter,Gorman,250,Exmouth,1989-11-08
+"Shark, Whaler",Male,Saltwater Land-Based,4,Timothy,Fuller,24.5,Exmouth,2003-11-28
+"Shark, Whaler",Male,Saltwater Land-Based,6,Brendan,Hourn,33.1,Exmouth,2003-06-15
+"Shark, Whaler",Female,Saltwater,1,Jessica,Hornhardt,3.9,Dampier,2016-04-24
+"Shark, Whaler",Female,Saltwater,3,Shanae,Cook,12.5,Exmouth,2011-03-22
+"Shark, Whaler",Female,Saltwater,4,Chantelle,Grasso,32.76,Dampier,2021-12-19
+"Shark, Whaler",Female,Saltwater,6,Jo,Decker,34.9,Exmouth,2009-04-01
+"Shark, Whaler",Female,Saltwater,8,Wendy,Patzak,35.4,Dampier,1990-08-04
+"Shark, Whaler",Female,Saltwater,15,Wendy,Patzak,89,Dampier,1991-09-29
+"Shark, Whaler",Female,Saltwater Land-Based,6,Bretteny R,Fuller,25.4,Exmouth,2004-11-15
+"Shark, Whaler",Female,Saltwater Land-Based,10,Tina,Fuller,29.82,Exmouth,2004-05-21
+"Shark, Whaler",Junior Male,Saltwater,1,Max,Grasso,6.76,Dampier WA,2024-04-26
+"Shark, Whaler",Junior Male,Saltwater,3,Max,Grasso,17.1,Dampier,2022-12-29
+"Shark, Whaler",Junior Male,Saltwater,8,Max,Grasso,31.92,Dampier,2021-07-11
+"Shark, Whaler",Junior Male,Saltwater,10,Lochlan,Turrell,59.18,Exmouth,2025-05-31
+"Shark, Whaler",Junior Male,Saltwater Land-Based,6,Brendan,Hourn,33.1,Exmouth,2003-06-15
+"Shark, Whaler",Junior Male,Saltwater Land-Based,8,Brendan,Hourn,35.5,Exmouth,2003-11-22
+"Shark, Whaler",Junior Male,Saltwater Land-Based,10,Brendan,Hourn,38.3,Exmouth,2002-01-12
+"Shark, Whaler",Junior Female,Saltwater,1,Jessica,Hornhardt,3.9,Dampier,2016-04-24
+"Shark, Whaler",Junior Female,Saltwater,2,Jessica,Hornhardt,6.66,Dampier,2016-11-13
+"Shark, Whaler",Junior Female,Saltwater,3,Shanae,Cook,12.5,Exmouth,2011-03-22
+"Shark, Whaler",Junior Female,Saltwater,4,Talisha,Cook,13.65,Dampier,2006-01-08
+"Shark, Whaler",Junior Female,Saltwater,6,Chloe,Hornhardt,34.96,Dampier,2017-07-14
+"Shark, Whaler",Small Fry Male,Saltwater,2,Max,Grasso,5.86,Dampier,2018-02-04
+"Shark, Whaler",Small Fry Male,Saltwater,3,Max,Gasso,17.1,Exmouth,2021-01-07
+"Shark, Whaler",Small Fry Male,Saltwater,4,Max,Grasso,21.04,Dampier,2017-10-28
+"Shark, Whaler",Small Fry Female,Saltwater,1,Mai,Grasso,6.78,Dampier WA,2024-03-31
+"Shark, Whaler",Small Fry Female,Saltwater,2,Jessica,Hornhardt,9.06,Dampier,2017-11-05
+"Shark, Whaler",Small Fry Female,Saltwater,3,Mia,Grasso,8.84,Dampier,2022-02-20
+Snapper,Male,Saltwater,1,Trevor,Bell,3.54,Geographe Bay,2001-08-19
+Snapper,Male,Saltwater,2,Mark,Gibsone,7.7,Geographe Bay,2018-04-01
+Snapper,Male,Saltwater,3,Trevor,Bell,13.6,Geographe Bay,2003-04-13
+Snapper,Male,Saltwater,4,Mark,Brown,14.2,Cape Naturaliste,1998-09-20
+Snapper,Male,Saltwater,6,Louis,Rummer,16.2,Cockburn Sound,2000-10-27
+Snapper,Male,Saltwater,8,Graham . D,Nottle,12.88,Mindarie Keys,1996-08-17
+Snapper,Male,Saltwater,10,Basil,Downs,12.2,Jurien Bay,1987-04-26
+Snapper,Male,Saltwater Land-Based,1,Tom,Miller,6.15,Shark Bay,2018-03-06
+Snapper,Male,Saltwater Land-Based,2,Tom,Miller,4.3,Shark Bay,2018-02-25
+Snapper,Male,Saltwater Land-Based,3,Tom,Miller,7.4,Shark Bay,2019-08-20
+Snapper,Male,Saltwater Land-Based,4,Tom,Miller,5.7,Shark Bay,2018-02-08
+Snapper,Male,Saltwater Fly,2,Matthys,Solomon,2.69,Goegraphe Bay,2023-06-18
+Snapper,Female,Saltwater,1,Alysa,Barnett,3.45,Walpole,2026-09-17
+Snapper,Female,Saltwater,2,Valerie,Carter,4.3,Kalbarri,1996-03-02
+Snapper,Female,Saltwater,3,Andrea,Pugh,8.76,Two Rocks,2021-09-19
+Snapper,Female,Saltwater,8,Alysa,Barnett,9.7,Walpole,2026-09-21
+Snapper,Female,Saltwater Land-Based,1,Sahra,Miller,5.15,Shark Bay,2019-11-14
+Snapper,Female,Saltwater Land-Based,2,Sahra,Miller,4.95,Shark Bay,2019-11-14
+Snapper,Female,Saltwater Land-Based,3,Sahra,Miller,4.65,Shark Bay,2019-11-13
+Snapper,Junior Male,Saltwater,4,Lochlan,Turrell,7.18,Mandurah,2023-05-27
+Snapper,Junior Female,Saltwater,1,Anna,Sutherland,2.4,Kalbarri,1994-01-30
+Snapper,Junior Female,Saltwater,2,Anna,Sutherland,5,Kalbarri,1993-02-28
+Snapper,Junior Female,Saltwater,3,Ellouise,Pugh,5.47,Two Rocks,2022-01-22
+Snapper,Small Fry Male,Saltwater,2,Lochlan,Turrell,4.84,Mandurah,2019-09-08
+Snapper,Small Fry Male,Saltwater,3,Lochlan,Turrell,8.22,Mandurah,2018-04-25
+Snapper,Small Fry Male,Saltwater,4,Lochlan,Turrell,7.46,Mandurah,2020-10-08
+Snapper,Small Fry Male,Saltwater,6,Max,Grasso,11.12,Bunbury,2018-04-24
+Snapper,Small Fry Male,Saltwater,8,Max,Grasso,9.44,Bunbury,2018-04-24
+Snapper,Small Fry Female,Saltwater,3,Jasmin,Turrell,7.88,Mandurah,2023-04-22
+Snapper,Small Fry Female,Saltwater,6,Michala,Gibsone,9.9,Sugar Loaf,2019-04-13
+Spangled Emperor,Male,Saltwater,1,Clinton,Damian,3.3,Exmouth,2009-03-29
+Spangled Emperor,Male,Saltwater,2,Travis,Brinkhuis,4.4,Exmouth,2012-03-12
+Spangled Emperor,Male,Saltwater,3,Clinton,Damian,3.8,Exmouth,2004-03-14
+Spangled Emperor,Female,Saltwater,1,Anna,Passmore,2.73,Exmouth,2019-12-27
+Spangled Emperor,Female,Saltwater,2,Jan,Prince,3.2,Exmouth,2008-03-09
+Spangled Emperor,Female,Saltwater,3,Lorena,Hrbut,4.44,Exmouth,2025-03-21
+Spangled Emperor,Female,Saltwater,4,Shanae,Cook,4.2,Exmouth,2012-03-12
+Spangled Emperor,Junior Male,Saltwater,1,Luke,Mounsey,2.36,Exmouth,2026-03-19
+Spangled Emperor,Junior Male,Saltwater,2,Clinton . J,Damian,4,Exmouth,1996-07-10
+Spangled Emperor,Junior Male,Saltwater,3,Brendan,Hourn,3.3,Exmouth,2003-03-15
+Spangled Emperor,Junior Female,Saltwater,1,Jesse,Sutton,3.5,Exmouth,2020-03-17
+Spangled Emperor,Junior Female,Saltwater,2,Neve,Hallatt,3.9,Exmouth,2025-10-18
+Spangled Emperor,Junior Female,Saltwater,4,Shanae,Cook,4.2,Exmouth,2012-03-12
+Spangled Emperor,Small Fry Male,Saltwater,1,Luke,Mounsey,2.24,Exmouth,2023-03-21
+Spangled Emperor,Small Fry Male,Saltwater,2,Kalvin,Gates,2.66,Exmouth,2021-09-05
+Spangled Emperor,Small Fry Female,Saltwater,1,Jesse,Sutton,1.1,Exmouth,2014-04-06
+Spangled Emperor,Small Fry Female,Saltwater,2,Jessica,Hornhardt,2.16,Dampier,2016-11-13
+Spearfish,Small Fry Male,Saltwater,15,Wyatt,Rickerby,18.74,Exmouth,2026-07-11
+Tailor,Male,Saltwater,1,Laurie,Malton,2,Kalbarri,2000-10-13
+Tailor,Male,Saltwater,2,Laurie,Malton,4.3,Kalbarri,2000-12-27
+Tailor,Male,Saltwater,3,Laurie,Malton,4.5,Kalbarri,2001-11-06
+Tailor,Male,Saltwater,4,Gregory,McDougall,6.5,Kalbarri,1997-10-19
+Tailor,Male,Saltwater Land-Based,1,Tom,Miller,4.25,Shark Bay,2020-03-30
+Tailor,Male,Saltwater Land-Based,2,Tom,Miller,4.88,Shark Bay,2020-03-31
+Tailor,Female,Saltwater,2,Suzanne,Malton,2.9,Kalbarri,2000-10-13
+Tailor,Female,Saltwater Land-Based,3,Sahra,Pitman,4.05,Shark Bay,2017-12-03
+Tailor,Junior Male,Saltwater,1,Ben,Malton,2.4,Kalbarri,2000-11-12
+Tailor,Junior Male,Saltwater,3,Ben,Malton,3.4,Kalbarri,2001-10-14
+Tailor,Junior Female,Saltwater,2,Rebecca,Malton,4.1,Kalbarri,2000-10-12
+"Trevally, Big Eye",Male,Saltwater,1,Luke,Leech,3.68,Dampier,2026-04-25
+"Trevally, Big Eye",Male,Saltwater,2,Steve,Pitman,2.7,Exmouth,1993-08-13
+"Trevally, Big Eye",Male,Saltwater Land-Based,1,Tom,Miller,1.2,Shark Bay,2019-08-22
+"Trevally, Big Eye",Female,Saltwater,1,Jan,Prince,2.2,Exmouth,1996-11-03
+"Trevally, Big Eye",Female,Saltwater,2,Jan,Prince,4.3,Exmouth,2004-03-18
+"Trevally, Big Eye",Junior Male,Saltwater,1,Jackson,Tatham,1.1,Dampier,2011-05-28
+"Trevally, Big Eye",Junior Male,Saltwater,2,Zak,Wheelock,,Dampier,2026-04-06
+"Trevally, Big Eye",Small Fry Male,Saltwater,1,Jackson,Tatham,1.1,Dampier,2011-05-28
+"Trevally, Big Eye",Small Fry Female,Saltwater,1,Bridie,Turner,1.5,Dampier,2026-08-14
+"Trevally, Big Eye",Small Fry Female,Saltwater,2,Jessica,Hornhardt,2.58,Dampier,2017-11-05
+"Trevally, Brassy",Male,Saltwater,3,Nick,Horlock,6.85,Exmouth,2021-03-16
+"Trevally, Brassy",Male,Saltwater,4,Tom,Miller,9.1,Shark Bay,2019-03-06
+"Trevally, Brassy",Male,Saltwater,8,Mick,Grasso,9.25,Pt Samson,2023-01-30
+"Trevally, Brassy",Female,Saltwater,3,Tameeka,Dodd,7.04,Nickol Bay,2022-06-16
+"Trevally, Brassy",Junior Male,Saltwater,1,Luke,Mounsey,2.38,Exmouth,2026-03-18
+"Trevally, Brassy",Junior Male,Saltwater,3,Kalvin,Gates,4.36,Exmouth,2025-03-17
+"Trevally, Brassy",Junior Male,Saltwater,6,Max,Grasso,12.16,Pt Samson,2025-10-11
+"Trevally, Brassy",Junior Male,Saltwater,8,Max,Grasso,13.76,Pt Samson,2021-10-24
+"Trevally, Brassy",Junior Female,Saltwater,1,Mia,Grasso,4.88,Dampier,2026-08-15
+"Trevally, Brassy",Small Fry Male,Saltwater,4,Max,Grasso,6.08,Dampier,2020-03-29
+"Trevally, Brassy",Small Fry Male,Saltwater,6,Max,Grasso,8.1,Dampier,2021-03-12
+"Trevally, Brassy",Small Fry Male,Saltwater,8,Max,Grasso,10.36,Pt Samson,2020-08-15
+"Trevally, Brassy",Small Fry Female,Saltwater,6,Mia,Grasso,9.98,Pt Samson,2024-08-12
+"Trevally, Brassy",Small Fry Female,Saltwater,8,Mia,Grasso,8.3,Pt Samson,2024-08-12
+"Trevally, Giant",Male,Saltwater,1,Rowan,Smith,4,Exmouth,2009-03-29
+"Trevally, Giant",Male,Saltwater,2,Ross,Gardam,8,Exmouth,1996-11-01
+"Trevally, Giant",Male,Saltwater,3,Sctt,Sharpe,16,Dampier,2016-03-25
+"Trevally, Giant",Male,Saltwater,4,Michael,Burrage,13.2,Pt Hedland,1994-10-30
+"Trevally, Giant",Male,Saltwater,6,Warren,Cornelius,30.2,Monte Bello Is,1981-04-07
+"Trevally, Giant",Male,Saltwater,8,Colin,Barron,39.5,Exmouth,1989-11-09
+"Trevally, Giant",Male,Saltwater,10,Peter,Brock,39.8,Exmouth,1981-10-22
+"Trevally, Giant",Male,Saltwater,15,Anthony,Boekhorst,30.6,Rowley Shoals,1995-10-04
+"Trevally, Giant",Male,Saltwater,24,Ray,Neville,37.6,Exmouth,1981-08-06
+"Trevally, Giant",Male,Saltwater Land-Based,2,Daniel,Hudson,2.9,Exmouth,2003-06-25
+"Trevally, Giant",Male,Saltwater Land-Based,3,John,Clark,3.2,Exmouth,1996-12-02
+"Trevally, Giant",Male,Saltwater Land-Based,8,Daniel,Hudson,15,Exmouth,2003-06-09
+"Trevally, Giant",Male,Saltwater Land-Based,10,Mark,Hourn,13.1,Exmouth,2013-01-19
+"Trevally, Giant",Male,Saltwater Fly,1,Craig,Williams,1.26,Dampier,2024-08-16
+"Trevally, Giant",Male,Saltwater Fly,2,Craig,Williams,2.92,Dampier,2024-11-19
+"Trevally, Giant",Male,Saltwater Fly,8,Craig,Williams,9.16,Pt Samson WA,2024-05-04
+"Trevally, Giant",Male,Saltwater Fly,10,Rick,Huckstepp,23.25,Monte Bello Is,1995-10-26
+"Trevally, Giant",Female,Saltwater,1,Racheal,Green,2.2,Pt Hedland,2001-04-14
+"Trevally, Giant",Female,Saltwater,2,Vicki,Searle,2.8,Dampier,2008-11-01
+"Trevally, Giant",Female,Saltwater,3,Bridgette,Wright,14.1,Sth Murion Is,2003-09-20
+"Trevally, Giant",Female,Saltwater,4,Belinda,Barrow,14.5,Exmouth,1994-03-05
+"Trevally, Giant",Female,Saltwater,6,Wendy,Brown,21.8,Port Hedland,1993-11-07
+"Trevally, Giant",Female,Saltwater,8,Bronwyn,Rack,10.5,Dampier,1990-07-15
+"Trevally, Giant",Female,Saltwater,10,Melva,Rack,27,Dampier,1978-11-12
+"Trevally, Giant",Junior Male,Saltwater,1,Wade,Clark,1.4,Exmouth,2011-03-22
+"Trevally, Giant",Junior Male,Saltwater,2,Toby,Mason,6,Dampier,2016-07-30
+"Trevally, Giant",Junior Male,Saltwater,4,Grant,Gregory,12.8,Exmouth,1992-02-02
+"Trevally, Giant",Junior Male,Saltwater,8,Jamie,Wotherspoon,16.5,Dampier,1989-08-07
+"Trevally, Giant",Junior Male,Saltwater,10,Joshua,Gusthart,26,Dampier,1988-02-22
+"Trevally, Giant",Junior Female,Saltwater,1,Chloe,Hornhardt,1.98,Dampier,2017-08-13
+"Trevally, Giant",Junior Female,Saltwater,3,Bridgette,Wright,14.1,Sth Murion Is,2003-09-20
+"Trevally, Giant",Junior Female,Saltwater,6,Shanae,Cook,17.3,Karratha,2009-04-01
+"Trevally, Giant",Small Fry Female,Saltwater,1,Bridie,Turner,3.62,Dampier,2026-08-15
+"Trevally, Giant",Small Fry Female,Saltwater,3,Bridgette,Wright,14.1,Sth Murion Is,2003-09-20
+"Trevally, Gold Spot",Male,Saltwater,1,Justin,Leech,6.8,Dampier,2015-07-31
+"Trevally, Gold Spot",Male,Saltwater,3,Peter,Babarskas,9.8,Mackerel Island,2002-09-06
+"Trevally, Gold Spot",Male,Saltwater,4,Mark,Cottrell,11.2,Dampier,1996-08-02
+"Trevally, Gold Spot",Male,Saltwater,6,Mike,Burrage,12,Pt Hedland,1997-07-06
+"Trevally, Gold Spot",Male,Saltwater,8,James,Gorham,9.9,Dampier,2018-10-13
+"Trevally, Gold Spot",Male,Saltwater,10,Michael,Wunhym,12.6,Exmouth,1988-08-07
+"Trevally, Gold Spot",Male,Saltwater Fly,2,Mick,Grasso,2.22,Dampier,2025-10-27
+"Trevally, Gold Spot",Male,Saltwater Fly,3,Mick,Grasso,5.72,Pt Samson,2026-03-22
+"Trevally, Gold Spot",Male,Saltwater Fly,4,Mick,Grasso,6.04,Pt Samson,2026-03-22
+"Trevally, Gold Spot",Male,Saltwater Fly,6,Mick,Grasso,7.08,Pt Samson,2026-03-22
+"Trevally, Gold Spot",Female,Saltwater,1,Lorena,Hrbut,4.16,Exmouth,2026-03-16
+"Trevally, Gold Spot",Female,Saltwater,2,Rita,Lewin,5.4,Exmouth,2001-05-21
+"Trevally, Gold Spot",Female,Saltwater,3,Vicki,Searle,6.4,Dampier,2000-10-08
+"Trevally, Gold Spot",Female,Saltwater,4,Rochelle,Ralston,9.8,Dampier,1991-08-03
+"Trevally, Gold Spot",Junior Male,Saltwater,1,Dean,Gates,5.38,Exmouth,2026-03-17
+"Trevally, Gold Spot",Junior Male,Saltwater,2,Dean,Gates,4.2,Exmouth,2026-03-16
+"Trevally, Gold Spot",Junior Male,Saltwater,3,Jack,Clarke,7.75,Dampier,2013-12-07
+"Trevally, Gold Spot",Junior Male,Saltwater,4,Matthew,Pike,8,Dampier,1991-08-03
+"Trevally, Gold Spot",Junior Male,Saltwater,6,Clayton,Prescott,9.5,Dampier,1992-05-09
+"Trevally, Gold Spot",Junior Male,Saltwater,8,Brendon,Billet,10.4,Dampier,1991-08-05
+"Trevally, Gold Spot",Junior Female,Saltwater,1,Mia,Grasso,6.1,Pt Samson,2026-05-15
+"Trevally, Gold Spot",Junior Female,Saltwater,2,Mia,Grasso,6.54,Pt Samson,2026-05-15
+"Trevally, Gold Spot",Junior Female,Saltwater,3,Mia,Grasso,6.32,Pt Samson,2026-03-08
+"Trevally, Gold Spot",Junior Female,Saltwater,4,Mia,Grasso,7.06,Pt Samson,2026-03-22
+"Trevally, Gold Spot",Small Fry Male,Saltwater,1,Jackson,Tatham,2.1,Exmouth,2011-12-24
+"Trevally, Gold Spot",Small Fry Male,Saltwater,2,Dean,Gates,3.8,Exmouth,2021-04-24
+"Trevally, Gold Spot",Small Fry Male,Saltwater,3,Jackson,Tatham,6.2,Dampier,2011-04-26
+"Trevally, Gold Spot",Small Fry Male,Saltwater,8,Max,Grasso,10.08,Dampier,2020-06-27
+"Trevally, Gold Spot",Small Fry Female,Saltwater,1,Jessica,Hornhardt,2.44,Dampier,2018-02-25
+"Trevally, Gold Spot",Small Fry Female,Saltwater,2,Mia,Grasso,2.65,Dampier,2022-04-15
+"Trevally, Gold Spot",Small Fry Female,Saltwater,4,Mia,Grasso,5.54,Dampier,2023-09-20
+"Trevally, Gold Spot",Small Fry Female,Saltwater,6,Mia,Grasso,6.38,Pt Samson,2024-03-10
+"Trevally, Golden",Male,Saltwater,1,Ray,Gansberg,10.6,Exmouth,2001-11-05
+"Trevally, Golden",Male,Saltwater,2,Matt,Gates,10.2,Exmouth,2020-03-19
+"Trevally, Golden",Male,Saltwater,3,Jack,Clarke,9.8,Dampier,2014-08-01
+"Trevally, Golden",Male,Saltwater,4,Steve,Pitman,12.6,Exmouth,1992-01-23
+"Trevally, Golden",Male,Saltwater,6,Graeme,Morris,12.25,Pt Hedland,1996-08-07
+"Trevally, Golden",Male,Saltwater,8,John,Constantine,14.1,Exmouth,1994-11-04
+"Trevally, Golden",Male,Saltwater,10,Des,Ryan,11.3,Exmouth,1995-11-08
+"Trevally, Golden",Male,Saltwater Land-Based,2,Tom,Miller,3.45,Shark Bay,2019-08-22
+"Trevally, Golden",Male,Saltwater Land-Based,3,Mark,Hourn,4.3,Exmouth,2006-04-30
+"Trevally, Golden",Male,Saltwater Land-Based,6,Alan,Patzak,10,Burrup Pen,1995-06-26
+"Trevally, Golden",Male,Saltwater Fly,2,Mick,Grasso,4.16,Dampier,2025-10-27
+"Trevally, Golden",Male,Saltwater Fly,3,Mick,Grasso,5.66,Pt Samson,2026-03-22
+"Trevally, Golden",Male,Saltwater Fly,4,Mick,Grasso,5.8,Pt Samson,2026-03-22
+"Trevally, Golden",Male,Saltwater Fly,6,Mick,Grasso,7.4,Pt Samson,2022-12-20
+"Trevally, Golden",Female,Saltwater,1,Carol-Anne,Bickford,9.6,Exmouth,2000-01-12
+"Trevally, Golden",Female,Saltwater,2,Bri,Bollard,9.84,Exmouth,2026-03-19
+"Trevally, Golden",Female,Saltwater,3,Tayla Anne,Clatworthy,9.7,Exmouth,2009-03-29
+"Trevally, Golden",Female,Saltwater,4,Nikki,Murray,10.3,Exmouth,2011-08-07
+"Trevally, Golden",Female,Saltwater,6,Sahra,Pitman,12.25,Shark Bay,2019-07-21
+"Trevally, Golden",Female,Saltwater,8,Carol-Anne,Bickford,13.1,Exmouth,2000-01-12
+"Trevally, Golden",Female,Saltwater,10,Marie,Pittock,10.4,Exmouth,1997-10-22
+"Trevally, Golden",Female,Saltwater Land-Based,4,Sahra,Pitman,4.1,Shark Bay,2019-07-20
+"Trevally, Golden",Junior Male,Saltwater,1,Jackson,Tatham,6.8,Dampier,2014-08-02
+"Trevally, Golden",Junior Male,Saltwater,2,Dean,Gates,9.14,Exmouth,2026-03-18
+"Trevally, Golden",Junior Male,Saltwater,3,Jack,Clarke,9.8,Dampier,2014-08-01
+"Trevally, Golden",Junior Male,Saltwater,4,Grant,Gregory,10.4,Exmouth,1991-11-09
+"Trevally, Golden",Junior Male,Saltwater,6,Ethan,Moyle,9,Dampier,2016-09-16
+"Trevally, Golden",Junior Male,Saltwater,8,Brendon,Billet,11.5,Dampier,1989-08-07
+"Trevally, Golden",Junior Male,Saltwater Fly,2,Max,Grasso,2.92,Dampier,2025-10-27
+"Trevally, Golden",Junior Female,Saltwater,1,Jesse,Sutton,7.8,Exmouth,2015-05-09
+"Trevally, Golden",Junior Female,Saltwater,2,Chloe,Hornhardt,8.25,Exmouth,2021-03-18
+"Trevally, Golden",Junior Female,Saltwater,3,Tayla Anne,Clatworthy,9.7,Exmouth,2009-03-29
+"Trevally, Golden",Junior Female,Saltwater,4,Jesse,Sutton,7.61,Exmouth,2018-03-18
+"Trevally, Golden",Junior Female,Saltwater,6,Tayla,Clatworthy,9.7,Exmouth,2010-01-19
+"Trevally, Golden",Junior Female,Saltwater Fly,2,Mia,Grasso,3.52,Dampier,2026-06-14
+"Trevally, Golden",Junior Female,Saltwater Fly,3,Mia,Grasso,6.02,Dampier,2026-05-30
+"Trevally, Golden",Junior Female,Saltwater Fly,4,Mia,Grasso,4.72,Dampier,2026-06-27
+"Trevally, Golden",Junior Female,Saltwater Fly,6,Mia,Grasso,6.22,Dampier,2026-06-27
+"Trevally, Golden",Small Fry Male,Saltwater,1,Jackson,Tatham,6.8,Dampier,2012-07-07
+"Trevally, Golden",Small Fry Male,Saltwater,2,Kalvin,Gates,8.56,Exmouth,2022-03-12
+"Trevally, Golden",Small Fry Male,Saltwater,3,Max,Grasso,8.32,Dampier,2020-08-28
+"Trevally, Golden",Small Fry Male,Saltwater,4,Max,Grasso,8.3,Dampier,2020-08-13
+"Trevally, Golden",Small Fry Female,Saltwater,1,Jesse,Sutton,7.8,Exmouth,2015-05-09
+"Trevally, Golden",Small Fry Female,Saltwater,2,Bridie,Turner,8.38,Dampier,2026-08-17
+"Trevally, Golden",Small Fry Female,Saltwater,3,Jessica,Hornhardt,7.52,Dampier,2018-01-24
+"Trevally, Golden",Small Fry Female,Saltwater,4,Jesse,Sutton,7.2,Exmouth,2015-04-11
+"Trevally, Golden",Small Fry Female,Saltwater,6,Mia,Grasso,6.5,Pt Samson,2023-01-29
+"Trevally, Silver",Female,Saltwater,1,Alysa,Barnett,1.2,Busselton,2026-09-10
+"Trevally, Silver",Junior Male,Saltwater,1,Jason,Burgoyne,1.39,Geographe Bay,1998-03-13
+"Trevally, Silver",Junior Male,Saltwater,2,Jason,Burgoyne,2.2,Geographe Bay,1997-12-21
+"Trout, Rainbow",Male,Freshwater,1,Matthys,Solomon,1.05,Harvey Dam,2019-10-19
+"Trout, Rainbow",Male,Freshwater Fly,1,Matthys,Solomon,1.76,Pemberton,2023-11-11
+"Tuna, Bigeye",Male,Saltwater,6,Terry,Coote,12.2,Exmouth,2000-10-26
+"Tuna, Bigeye",Male,Saltwater,8,John,Cramer,22,Rottnest Trench,2002-01-12
+"Tuna, Dogtooth",Male,Saltwater,4,Rhyss,Whittred,8.8,Rowley Shoals,1995-10-04
+"Tuna, Dogtooth",Male,Saltwater,8,Anthony,Boekhorst,10.8,Rowley Shoals,1994-10-05
+"Tuna, Dogtooth",Male,Saltwater,10,Darren,Boult,16.2,Rowley Shoals,2000-09-20
+"Tuna, Dogtooth",Male,Saltwater,15,Rhyss,Whittred,23.6,Rowley Shoals,1994-10-07
+"Tuna, Kawa Kawa",Male,Saltwater,1,Carl,Ryan,5.5,Exmouth,1994-08-19
+"Tuna, Kawa Kawa",Male,Saltwater,2,Jackson,Tatham,5.9,Dampier,2011-07-03
+"Tuna, Kawa Kawa",Male,Saltwater,3,Peter,Babarskas,5.2,Mackerel Is,1996-08-13
+"Tuna, Kawa Kawa",Male,Saltwater,4,John,Clark,7.6,Exmouth,1990-11-23
+"Tuna, Kawa Kawa",Male,Saltwater,6,Chris,Waltho,8.6,Exmouth,1990-11-10
+"Tuna, Kawa Kawa",Male,Saltwater,8,Geoff,Moyle,8.9,Exmouth,1995-11-08
+"Tuna, Kawa Kawa",Male,Saltwater Fly,3,Leith,Larham,4,Pt Hedland,2007-08-26
+"Tuna, Kawa Kawa",Female,Saltwater,3,Vicki,Searle,6.9,Dampier,2010-09-26
+"Tuna, Kawa Kawa",Female,Saltwater,6,Kathy,Ryan,7.7,Exmouth,1994-11-03
+"Tuna, Kawa Kawa",Female,Saltwater Land-Based,6,Debie,Snook,7,Exmouth,1998-12-16
+"Tuna, Kawa Kawa",Junior Male,Saltwater,2,Jackson,Tatham,5.9,Dampier,2011-07-03
+"Tuna, Kawa Kawa",Junior Male,Saltwater,3,Toby,Mason,5.36,Dampier,2016-06-28
+"Tuna, Kawa Kawa",Junior Male,Saltwater,4,Troy,Wright,6.7,Exmouth,1993-11-04
+"Tuna, Kawa Kawa",Junior Male,Saltwater,6,Daryl,Anesbury,7,Exmouth,1997-10-20
+"Tuna, Kawa Kawa",Junior Female,Saltwater,2,Chloe,Hornhardt,4.86,Dampier,2017-02-26
+"Tuna, Kawa Kawa",Small Fry Male,Saltwater,2,Max,Grasso,6.24,Dampier,2018-12-07
+"Tuna, Kawa Kawa",Small Fry Male,Saltwater,3,Jackson,Tatham,6.6,Dampier,2010-12-12
+"Tuna, Kawa Kawa",Small Fry Male,Saltwater,4,Jackson,Tatham,7,Dampier,2010-12-26
+"Tuna, Kawa Kawa",Small Fry Female,Saltwater,2,Jessica,Hornhardt,5.08,Pt Samson,2017-11-18
+"Tuna, Kawa Kawa",Small Fry Female,Saltwater,3,Jessica,Hornhardt,6.52,Dampier,2017-02-26
+"Tuna, Kawa Kawa",Small Fry Female,Saltwater,4,Mia,Grasso,5.36,Pt Samson,2021-03-27
+"Tuna, Longtail",Male,Saltwater,1,Luke,Leech,2.77,Dampier,2016-04-19
+"Tuna, Longtail",Male,Saltwater,2,Jackson,Tatham,13.6,Dampier,2012-04-14
+"Tuna, Longtail",Male,Saltwater,3,Tom,Radley,15.96,Dampier,2017-08-18
+"Tuna, Longtail",Male,Saltwater,4,Tom,Miller,13.1,Shark Bay,2020-06-27
+"Tuna, Longtail",Male,Saltwater,6,Nick,Rowley,14.5,Exmouth,1997-08-16
+"Tuna, Longtail",Male,Saltwater,8,Col,Roberts,18.5,Pt Hedland,1991-07-08
+"Tuna, Longtail",Male,Saltwater,10,Shane,Krakouer,14.8,Kalbarri,1996-05-26
+"Tuna, Longtail",Male,Saltwater,15,John,Yates,24.3,Exmouth,1989-12-26
+"Tuna, Longtail",Female,Saltwater,2,Joanne,Tatham,15,Dampier,2011-08-15
+"Tuna, Longtail",Female,Saltwater,3,Joanne,Tatham,14.66,Dampier,2019-08-17
+"Tuna, Longtail",Female,Saltwater,4,Shanae,Cook,13.4,Dampier,2011-07-31
+"Tuna, Longtail",Female,Saltwater,6,Patricia,Jackson,16,Dampier,1985-08-03
+"Tuna, Longtail",Female,Saltwater,8,Marie,Pittock,11.1,Exmouth,1997-10-24
+"Tuna, Longtail",Junior Male,Saltwater,2,Jackson,Tatham,13.6,Dampier,2012-04-14
+"Tuna, Longtail",Junior Male,Saltwater,3,Jackson,Tatham,12.9,Dampier,2011-06-25
+"Tuna, Longtail",Junior Male,Saltwater,4,Jackson,Tatham,12.6,Dampier,2012-04-29
+"Tuna, Longtail",Junior Male,Saltwater,6,Scott,Turrell,19.6,Dampier,1990-08-07
+"Tuna, Longtail",Junior Male,Saltwater,8,Kurt,Mead,14.3,Exmouth,1995-04-28
+"Tuna, Longtail",Junior Male,Saltwater,10,Steven,Anesbury,10.3,Exmouth,2000-10-26
+"Tuna, Longtail",Junior Female,Saltwater,2,Jessica,Hornhardt,8.22,Dampier,2017-04-08
+"Tuna, Longtail",Junior Female,Saltwater,4,Shanae,Cook,13.4,Dampier,2011-07-31
+"Tuna, Longtail",Small Fry Male,Saltwater,2,Jackson,Tatham,13.6,Dampier,2012-04-14
+"Tuna, Longtail",Small Fry Male,Saltwater,3,Jackson,Tatham,12.9,Dampier,2011-06-25
+"Tuna, Longtail",Small Fry Male,Saltwater,4,Jackson,Tatham,12.6,Dampier,2012-04-29
+"Tuna, Longtail",Small Fry Male,Saltwater,6,Jackson,Tatham,13,Dampier,2012-04-29
+"Tuna, Longtail",Small Fry Male,Saltwater,10,Zepplin,Famlonga,16,Exmouth,2019-10-26
+"Tuna, Longtail",Small Fry Female,Saltwater,2,Jessica,Hornhardt,8.22,Dampier,2017-04-08
+"Tuna, Longtail",Small Fry Female,Saltwater,3,Mia,Grasso,3.15,Dampier,2022-04-16
+"Tuna, Longtail",Small Fry Female,Saltwater,4,Chloe,Hornhardt,9.88,Dampier,2016-06-26
+"Tuna, Longtail",Small Fry Female,Saltwater,6,Mia,Grasso,6.15,Pt Samson,2023-03-24
+"Tuna, Skipjack",Male,Saltwater,1,Ian,Cornelius,3.8,Exmouth,1982-07-25
+"Tuna, Skipjack",Male,Saltwater,2,Grant,Mills,6.06,Rottnest Island,2008-05-30
+"Tuna, Skipjack",Male,Saltwater,3,Trevor,Scott,7.4,Rottnest Trench,2002-02-09
+"Tuna, Skipjack",Male,Saltwater,4,Steve,Webb,7.8,Rottnest Trench,1983-02-20
+"Tuna, Skipjack",Male,Saltwater,8,Bob,Biernat,10.6,Rottnest Trench,2000-04-01
+"Tuna, Skipjack",Female,Saltwater,2,Tracy,Blackwell,3.17,Rottnest Is,2024-02-18
+"Tuna, Skipjack",Female,Saltwater,3,Tracy,Blackwell,5.62,Rottnest Island,2025-03-03
+"Tuna, Skipjack",Female,Saltwater,4,Rikki,Kohn,6.93,Fremantle,2017-05-06
+"Tuna, Skipjack",Junior Male,Saltwater,2,Bodie,Blackwell,2.79,Rottnest Is,2023-05-28
+"Tuna, Skipjack",Junior Male,Saltwater,3,Bodie,Blackwell,5.5,Rottnest Is,2026-01-04
+"Tuna, Skipjack",Junior Male,Saltwater,4,Bodie,Blackwell,6.93,Rottnest Is,2024-03-16
+"Tuna, Skipjack",Junior Female,Saltwater,1,Jesse,Sutton,1.67,Exmouth,2018-03-20
+"Tuna, Skipjack",Junior Female,Saltwater,3,Mia,Cramer,4.64,Rottnest Island,2003-03-02
+"Tuna, Skipjack",Junior Female,Saltwater,4,Mia Samantha,Cramer,5.2,Rottnest Island,2001-04-22
+"Tuna, Skipjack",Small Fry Male,Saltwater,2,Joshua,Reker,3.14,Jurien Bay,2025-04-14
+"Tuna, Skipjack",Small Fry Male,Saltwater,4,Bodie,Blackwell,5.58,Rottnest Is,2022-05-28
+"Tuna, Skipjack",Small Fry Male,Saltwater,8,Rhys,Martin,8.59,Jurien Bay,2024-04-05
+"Tuna, Skipjack",Small Fry Female,Saltwater,3,Desert,Gray,3.8,Rottnest Is,2011-11-20
+"Tuna, Southern Bluefin",Male,Saltwater,1,Rhyss,Whittred,6.54,Rotnest Is,2010-08-07
+"Tuna, Southern Bluefin",Male,Saltwater,2,Mark,Jarrett,7.05,Rottnest Is,2010-08-29
+"Tuna, Southern Bluefin",Male,Saltwater,3,Glen,Rattigan,6.93,Rottnest Is,2010-08-29
+"Tuna, Southern Bluefin",Male,Saltwater,4,David,Valentino,7.26,Rottnest Is,2010-09-05
+"Tuna, Southern Bluefin",Female,Saltwater,1,Sangeeta,Menon,4.2,Rottnest Is,2010-07-04
+"Tuna, Southern Bluefin",Female,Saltwater,2,Sangeeta,Menon,3.81,Rottnest Is,2009-02-07
+"Tuna, Southern Bluefin",Female,Saltwater,3,Tracy,Blackwell,5.2,Rottnest Is,2026-02-01
+"Tuna, Southern Bluefin",Female,Saltwater,4,Tracey,Blackwell,5.58,Rottnest Is,2023-06-03
+"Tuna, Southern Bluefin",Junior Male,Saltwater,2,Beau,Rollings,5.2,Mandurah,2017-04-25
+"Tuna, Southern Bluefin",Junior Male,Saltwater,3,Bodie,Blackwell,5.63,Rottnest Is,2026-05-24
+"Tuna, Southern Bluefin",Junior Male,Saltwater,4,Bodie,Blackwell,4.96,Rottnest Is,2023-06-03
+"Tuna, Southern Bluefin",Junior Female,Saltwater,3,Jessica,Jarrett,3.44,Rottnest Is,2011-01-03
+"Tuna, Southern Bluefin",Small Fry Male,Saltwater,2,Jayden,Wham,3.42,Rottnest Is,2017-09-16
+"Tuna, Southern Bluefin",Small Fry Male,Saltwater,3,Oliver,Anderson,5.79,Rottnest Is,2024-08-04
+"Tuna, Southern Bluefin",Small Fry Male,Saltwater,4,Jayden,Wham,5.35,Rottnest Is,2019-05-05
+"Tuna, Southern Bluefin",Small Fry Female,Saltwater,2,Payton,Rattigan,2.87,Garden Is,2023-11-05
+"Tuna, Southern Bluefin",Small Fry Female,Saltwater,3,Payton,Rattigan,3.93,Garden Is,2024-09-07
+"Tuna, Yellowfin",Male,Saltwater,2,Ian,Cornelius,9,Exmouth,1982-07-26
+"Tuna, Yellowfin",Male,Saltwater,3,Ivan,Quartermaine,15.2,Bernier Is,1973-05-28
+"Tuna, Yellowfin",Male,Saltwater,4,Malcolm,Burgess,13.875,Abrolhos Is,2026-04-28
+"Tuna, Yellowfin",Male,Saltwater,6,Jamie,Greaves,33.3,Kalbarri,1999-02-27
+"Tuna, Yellowfin",Male,Saltwater,8,Deon,VanDer Westhuizen,27.99,Jurien Bay,2015-05-01
+"Tuna, Yellowfin",Male,Saltwater,10,John,Cramer,39,Rottnest Island,2001-04-28
+"Tuna, Yellowfin",Male,Saltwater,15,Kim . F .,Thorson,55.1,Rottnest Trench,1995-04-17
+"Tuna, Yellowfin",Male,Saltwater,24,Trevor,Scott,39,Rottnest Island,2001-04-28
+"Tuna, Yellowfin",Male,Saltwater,37,Leigh,Turner,89.3,Abrolhos Is,2021-03-22
+"Tuna, Yellowfin",Male,Saltwater,60,Matt,Gates,84.85,Exmouth,2020-02-03
+"Tuna, Yellowfin",Male,Saltwater Fly,10,Craig,Radford,30.6,Canarvon,1997-05-31
+"Tuna, Yellowfin",Female,Saltwater,3,Valerie,Carter,11.7,Kalbarri,1995-01-28
+"Tuna, Yellowfin",Female,Saltwater,4,Lee,Murray,13.4,Kalbarri,1996-03-03
+"Tuna, Yellowfin",Female,Saltwater,6,Colleen.M.,Bottrell,7.4,Exmouth,1992-11-02
+"Tuna, Yellowfin",Female,Saltwater,10,CarolAnne,Bickford,20.2,Exmouth,1997-09-27
+"Tuna, Yellowfin",Female,Saltwater,15,Susanne,Warman,32.7,Dirk Hartog Is,1977-05-19
+"Tuna, Yellowfin",Female,Saltwater,24,Michelle,Callan,61,Exmouth,1995-11-10
+"Tuna, Yellowfin",Female,Saltwater,37,Jacquie,Rushford,92.6,Exmouth,2010-01-17
+"Tuna, Yellowfin",Junior Male,Saltwater,6,Carl,Babarskas,9.62,Lancelin,2000-10-01
+"Tuna, Yellowfin",Junior Male,Saltwater,10,Lochlan,Turrell,10.2,Exmouth,2025-05-30
+"Tuna, Yellowfin",Junior Male,Saltwater,37,Chris,Rushford,79.2,Exmouth,2010-01-16
+"Tuna, Yellowfin",Junior Female,Saltwater,4,Casey Jane,Clark,10.25,Geraldton,2015-05-31
+"Tuna, Yellowfin",Junior Female,Saltwater,6,Casey Jane,Clark,7.7,Geraldton,2015-05-31
+Wahoo,Male,Saltwater,2,Chris,Wilkes,12.4,Mackerel Is,2007-09-03
+Wahoo,Male,Saltwater,3,Matt,Reese,14.4,Mackerel Island,2004-08-23
+Wahoo,Male,Saltwater,4,Michael,Thomas,20,Exmouth,1989-11-10
+Wahoo,Male,Saltwater,6,Chris,Brogan,21.5,Coral Bay,1986-08-07
+Wahoo,Male,Saltwater,8,John,Edwards,30.6,Mackerel Is,1986-08-07
+Wahoo,Male,Saltwater,10,Steve,Richardson,25.5,Dampier,1989-08-28
+Wahoo,Male,Saltwater,15,Ivan,Carter,20.3,Exmouth,1990-11-03
+Wahoo,Male,Saltwater,24,Peter,Dohnt,29.6,Exmouth,1990-11-08
+Wahoo,Female,Saltwater,4,Francine,Gregory,8.2,Exmouth,1992-11-04
+Wahoo,Female,Saltwater,6,Kelly Anne,Insull,20.6,Mackerel Is,2008-08-25
+Wahoo,Female,Saltwater,8,Debbie,Snook,17.7,Exmouth,1994-10-30
+Wahoo,Female,Saltwater,10,Jo,Decker,15.9,Exmouth,2012-07-08
+Wahoo,Junior Male,Saltwater,4,Lochlan,Turrell,14.12,Exmouth,2025-03-16
+Wahoo,Junior Male,Saltwater,6,Brendan,Hourn,14.1,Exmouth,2003-08-17
+Wahoo,Junior Male,Saltwater,10,Ethan,Moyle,17,Dampier,2017-08-21
+Wahoo,Junior Female,Saltwater,6,Jesse,Sutton,6.9,Exmouth,2018-03-21
+Wahoo,Junior Female,Saltwater,8,Mikayla,Lannary,9.26,Dampier,2015-09-12
+Wahoo,Small Fry Male,Saltwater,10,Alex,Nelson,13,Exmouth,2011-03-23

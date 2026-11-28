@@ -1,0 +1,25 @@
+# WAGFA website — redirects for Netlify / Cloudflare Pages. Copied to the site root by build.mjs.
+# Old WordPress URLs -> new pages.
+/aboutwagfa/management-committee/*  /about.html#committee              301
+/aboutwagfa/constitution/*          /about.html#governance             301
+/aboutwagfa/contacts/*              /clubs.html                        301
+/aboutwagfa/*                       /about.html                        301
+/member-clubs/*                     /clubs.html                        301
+/clubs/*                            /clubs.html                        301
+/mens-records/*                     /records.html?category=Male        301
+/womens-records/*                   /records.html?category=Female      301
+/records/*                          /records.html                      301
+/gfaa-australian-records/*          /records.html                      301
+/submitting-records/*               /submit-a-record.html              301
+/help-files/*                       /resources.html#downloads          301
+/historical-documentation/*         /resources.html#historical         301
+/fish-identification/*              /resources.html#rules              301
+/eligible-species/*                 /resources.html#rules              301
+/courses/*                          /weigh-master.html                 301
+/lessons/*                          /weigh-master.html                 301
+/category/events/*                  /tournaments.html                  301
+/events/*                           /tournaments.html                  301
+/category/news/*                    /news.html                         301
+# Real files always win on Netlify, so the new /news/*.html articles are not affected.
+/news/*                             /news.html                         301
+/author/*                           /news.html                         301
